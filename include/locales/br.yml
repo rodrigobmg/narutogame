@@ -1,0 +1,3902 @@
+br:
+  amigos:
+    solicita_amigos: Localizador de Amigos
+    lista_amigos: Lista de Amigos
+    title2: Lista de Amigos
+    description2: Nessa lista você pode ver se o seu amigo está online e ver suas estatísticas do jogo, como Conquistas e Torneios.
+    title: Localizador de Amigos
+    description: Digite uma parte ou o nome completo de um jogador para buscá-lo. Lembrando que ele precisa estar a partir do level 5!
+    procurar: Procurar
+    solicitacao: Solicitação enviada
+    amizade: Enviar pedido de amizade
+    mensageiro_title: Pedido de amizade
+    mensageiro_description: |
+      Você recebeu um pedido de amizade do Jogador:
+  topo:
+    personagem: |
+      Personagem Atual:
+    msg: |
+      Você tem <a href="%s" class="linkTopo">%d nova</a> mensagem
+    msg2: |
+      Você tem <a href="%s" class="linkTopo">%d novas</a> mensagens
+    no_msg: Sem novas dMensagens no momento
+    vip_tooltip: Use seus créditos!
+    vip: |
+      Créditos Vip:
+    vip_price: Créditos VIP
+    graduacao: |
+      Graduação:
+  menus:
+    packs: Pacotes
+    objetivos: |
+      Objetivos
+    rank_sensei: Sensei
+    desafios: Desafios
+    sensei: Sensei
+    tutorial: Tutorial
+    temas: Temas Vips
+    mission_combat: Missões de Combate
+    fidelity: |
+      Fidelidade Ninja
+    solicita_amigos: |
+      Localizador de Amigos
+    lista_amigos: |
+      Lista de Amigos
+    profissao: |
+      Profissão
+    rank_guerra: Guerra Ninja
+    guerra_ninja: |
+        Guerra Ninja
+    exame: |
+      Exame Ninja
+    compra_aprimoramento: Aprimoramentos
+    espera_random: Sala de espera
+    votacao_vila: Votação dos Conselheiros
+    gasto_vip: Compras com Créditos VIP
+    recompensa_log: Recompensas
+    compras_vip: Créditos VIP Comprados
+    arena: Arena
+    eventos: Eventos
+    vila: |
+      Status da Vila
+    home: Home
+    criar_conta: |
+      <b>Crie sua conta</b>
+    ativar_conta: Ative sua conta
+    esqueci_senha: Esqueci minha senha
+    manual: Manual
+    faq: FAQ
+    missao_status: Status da Missão
+    hall_fama: Hall da Fama
+    hall_fama_equipe: Hall da Fama - Equipes
+    hall_fama_guilds: Hall da Fama - Organizações
+    camisetas: Camisetas NG
+    divulgue: Divulgue-nos
+    parceiros: Parceiros
+    fale: Fale Conosco
+    calculadora: Calculadora
+    formulas: Fórmulas do Jogo
+    indique: Indique seus amigos
+    vip: Jogador VIP
+    logout: Logout
+    missao_status_especial: Status da missão especial
+    mensageiro: Mensageiro
+    meus_dados: Meus dados
+    suporte: |
+      <b>Suporte</b>
+    trocar_senha: Trocar Senha
+    vantagens: Vantagens VIP
+    portoes: 8 Portões de Chakra
+    historia: Modo História
+    reputacoes: |
+      Reputações
+    status: |
+      <b>Status</b>
+    bijuu: "Bijuu's"
+    bingo_book: Bingo Book
+    carteirinha: Carteirinha Ninja
+    clas: Clãs
+    conquistas: Conquistas
+    personagem_criar: Criar Personagem
+    elementos: Elementos
+    estudo: Estudo Ninja
+    historico: Histórico Ninja
+    invocacoes: Invocações
+    sennin: Mode Sennin
+    personagem_selecionar: Selecionar
+    selo: Selo Amaldiçoado
+    sorte: Sorte Ninja
+    talentos: Talentos Ninja
+    trocar_personagem: Trocar Personagem
+    cancela_treino: Cancelar treino
+    graduacoes: Graduações
+    status_treino_auto: Status do treino
+    tecnica_clas: Jutsus de Clã
+    tecnica_portao: Jutsus de Portão
+    tecnica_elemento: Jutsus Elementais
+    tecnica_gen: Jutsus Genjutsu
+    tecnica_medicinal: Jutsus Medicinais
+    tecnica_nin: Jutsus Ninjutsu
+    tecnica_sennin: Jutsus Sennin
+    tecnica_tai: Jutsus Taijutsu
+    treino_at: Treinamento de Atributos
+    treino_jut: |
+      <b>Treinamento de Jutsus</b>
+    treino_jut_status: Treinamento do jutsu
+    tecnica_ninja: Aprender Jutsus
+    equipamentos: Equipamentos Ninja
+    equipamentos_dropaveis2: Equipamentos Dropáveis
+    equipamentos_dropaveis: |
+      <b>Equipamentos Dropáveis</b>
+    forum_vila: Fórum
+    ir_mapa_mundi: Ir para Mapa Mundi
+    mapa_vila: Mapa da vila
+    ninja_shop: Ninja Shop
+    ramen_shop: Ramen Shop
+    diplomacia: Diplomacia
+    missoes: Missões
+    tarefas: Tarefas
+    equipe_desafios: Desafios
+    equipe_detalhe_evento: |
+      <b>Detalhes do Evento</b>
+    equipe_detalhe: Detalhes
+    equipe_especializacao: Especialização
+    equipe_eventos: Eventos
+    equipe_forum: Fórum
+    equipe_missoes: Missões
+    equipe_participar: Participar
+    equipe_lider: Ser Líder
+    equipe_pvp: |
+      <b>Batalhas 4x4</b>
+    guild_detalhe: Detalhes
+    guild_forum: Fórum
+    guild_missoes: Missões
+    guild_invasao: Missões de invasão
+    guild_participar: Participar
+    guild_lider: Ser líder
+    guild_status_missao_guild: Status da missão da organização
+    guild_status_missao_solo: Status da missão solo
+    rank_combates: Combates
+    rank_conquistas: Conquistas
+    rank_equipes: Equipes
+    rank_estudo: Estudo Ninja
+    rank_ninjas: Ninjas
+    rank_4x4: 4x4
+    rank_guilds: Organizações
+    rank_vilas: Vilas
+    dojo_torneio: |
+      Torneios
+    dojo_multi: Batalha Multi
+    dojo_npc: Batalha NPC
+    dojo_pvp: Batalha PVP
+    dojo_cancelar: Cancelar batalha
+    dojo: Dojo
+    dojo4x4: Dojo 4x4
+    dojo_fugir: Fugir da batalha
+    dojo_historico: Histórico de Batalhas
+    dojo_espera: Sala de espera
+    dojo_torneio_espera: |
+      Torneios: Sala de espera
+    grad_espera: Status da graduação
+    hospital: Meu quarto
+    mundi: Mapa Mundi
+    espera_pvp: Sala de espera 4x4
+    equipe_batalha_pvp: Batalha 4x4 PVP
+    equipe_espera_pvp: Sala de Espera 4x4
+    tecnica_kinjutsu: Kinjutsus
+    espadas: Espadas da Névoa
+    guild_objetivos: Objetivos
+    m1: Principal
+    m2: Usuário
+    m3: Personagem
+    m4: Organização
+    m5: Equipe
+    m6: Academia
+    m7: Sala do Kage
+    m8: Ranking
+    m9: Missão Atual
+    m10: Vila Atual
+    m11: Combates
+    m12: Graduação
+    m13: Hospital
+    m14: O Continente
+    m15: Bolsa
+    m16: Sensei
+    vila_objetivos: |
+      <b>Objetivos</b>
+  treino_jutsu:
+    no_enhance_available: |
+      <p>Nenhum aprimoramento disponível.</p>
+      <br />
+      <p>
+        Lembre-se! Você <b>NÃO</b> pode aplicar aprimoramentos de defesa em golpes de ataque, nem o contrário.<br /><br />
+        Você também <b>NÃO</b> pode aplicar aprimoramentos de Buff/Debuff em golpes normais, nem o contrário.<br /><br />
+        Aprimoramentos de Buff não podem sem aplicados em Debuff, e aprimoramentos de Debuff não podem ser aplicados em Buff.<br /><br />
+      </p>
+      <br />
+      <p>
+        Para adquirir mais aprimoramentos vá para o <a href="?secao=compra_aprimoramento">Aprimoramentos</a>
+      </p>
+  usuario_dados:
+    audio_notifications: Quero ouvir avisos sonoros e música
+  recompensa_log:
+    title: Recompensas
+    msg: Abaixo encontram-se todas as recompensas recebidas por seu personagem durante o Round.
+    msg_title: Minha recompensas Recebidas
+    header:
+      source: Tipo
+      reward: Recompensa
+      received: Recebido em
+    reward:
+      training: |
+        %s Pontos de treinos diário abatido
+      pvp: Batalha PVP
+      npc: Batalha NPC
+      guild_lvl: Nível da Organização
+      equipe_lvl: Nível da Equipe
+      quest: Missão interativa
+      quest_tempo: Missão de tempo
+      quest_equipe: Missão de equipe
+      quest_especial: Missão especial
+      npc_vila: NPC da Invasão de vila
+      at: Atributos
+      item: Ganhou %s x%s
+      ryou: |
+        %s Ryous
+      exp: |
+        %s Pontos de experiência
+      coin: |
+        %s Créditos VIP
+      estudo_ninja: Troca de estudo ninja
+      bingo_book: Recompensa do Bingo Book
+      bingo_book_guild: Bingo Book da Organização
+      historia: Modo Historia
+      torneio_pvp: Torneio PVP
+      torneio_npc: Torneio NPC
+      arena: Arena
+      evento_equipe: Evento equipe
+      equipe_npc: Desafio de equipe
+      equipe_pvp: Desafio de equipe
+      guild_solo: Missão de organização Solo
+      guild_grupo: Missão de organização em grupo
+      random: Batalha 4x4 Aleatória
+      guild_obj_solo: Objetivo de Organização Solo
+      guild_obj_grupo: Objetivo de Organização em Grupo
+      reputation: |
+        %s pontos de reputção
+      training_total: |
+        %s pontos no seu total de treino
+      bingo_book_equipe: Bingo Book de Equipe
+  recompensa_receber:
+    receive: Receber recompensas
+    title: Recompensas pendentes
+    msg1: Você no momento não possui recompensas pendentes. Não se preocupe em vir até essa página agora, ela aparecerá automaticamente para você quando ouver pendências.
+    msg_title1: Problema!
+    msg2: Abaixo estão listadas as recompensas pendentes para você receber. Você poderá jogar normalmente apos clicar no botão "Receber"
+    msg_title2: Receber Recompensas
+  classe_tipo:
+    nin: Ninjutsu
+    tai: Taijutsu
+    gen: Genjutsu
+    ken: Bukijutsu
+  at:
+    tai: Taijutsu
+    nin: Ninjutsu
+    gen: Genjutsu
+    ken: Bukijutsu
+    for: Força
+    forc: Força
+    agi: Agilidade
+    int: Inteligência
+    inte: Inteligência
+    con: Selo
+    res: Resistência
+    conc: Crítico
+    esq: Absorção
+    conv: Convicção
+    det: Determinação
+    ene: Energia
+    desc:
+      nin: |
+        Treinando o Ninjutsu de seu personagem ele ganha: Chakra.
+      gen: |
+        Treinando o Genjutsu de seu personagem ele ganha: Chakra.
+      tai: |
+        Treinando o Taijutsu de seu personagem ele ganha: Stamina.
+      ken: |
+        Treinando o Bukijutsu de seu personagem ele ganha: Stamina.
+      agi: |
+        Treinando a Agilidade de seu personagem ele ganha: Esquiva.
+      con: |
+        Treinando o Selo de seu personagem ele ganha: Precisão.
+      for: |
+        Treinando a Força de seu personagem ele ganha: Ataque ( Tai / Buk ).
+      ene: |
+        Treinando a Energia de seu personagem ele ganha: HP, Chakra e Stamina.
+      int: |
+        Treinando a Inteligência de seu personagem ele ganha: Ataque ( Nin / Gen ).
+      res: |
+        Treinando a Resistência de seu personagem ele ganha: Defesa ( Tai / Buk ) e Defesa ( Nin / Gen ).
+      conc: |
+        Treinando o Critico de seu personagem ele ganha: Concentração.
+      esq: |
+        Treinando a Absorção de seu personagem ele ganha: Percepção.
+      conv: |
+        Treinando a Convicção de seu personagem ele ganha: Convicção.
+      det: |
+        Treinando a Determinação de seu personagem ele ganha: Determinação.
+  missao_invasao:
+    guild_ult_invasao: "Os seguintes jogadores fizeram uma missão de invasão nos últimos 5 dias e não podem fazer outra missão no momento:"
+  missao_guild:
+    cancelar: Você tem certeza que deseja cancelar essa missão? Todo o seu tempo será perdido.
+    cancelar2: Você tem certeza que deseja cancelar essa missão? Todo o seu tempo e o tempo dos integrantes da sua organização será perdido.
+  formula:
+    hp: Vida
+    sp: Chakra
+    sta: Stamina
+    atk_fisico: Ataque ( Tai / Buk )
+    atk_magico: Ataque ( Nin / Gen )
+    def_fisico: Defesa ( Tai / Buk )
+    def_magico: Defesa ( Nin / Gen )
+    def_base: Defesa Base
+    prec_fisico: Precisão
+    prec_magico: Precisão
+    esq: Percepção
+    precisao: Precisão
+    det: Determinação
+    conv: Convicção
+    conc: Concentração
+    esquiva: Esquiva
+    crit_min: Crítico Mínimo
+    crit_max: Crítico Máximo
+    crit_total: Incremento de Crítico
+    esq_min: Absorção Mínima
+    esq_max: Absorção Máxima
+    esq_total: Incremento de Absorção
+    bonus_hp: Vida
+    bonus_sp: Chakra
+    bonus_sta: Stamina
+    desc:
+      atk_fisico: Esse é o total de Ataque ( Tai / Buk ) que seu personagem possui fora de combate.
+      atk_magico: Esse é o total de Ataque ( Nin / Gen ) que seu personagem possui fora de combate.
+      def_fisico: Esse é o total de Defesa ( Tai / Buk ) que seu personagem possui fora de combate.
+      def_magico: Esse é o total de Defesa ( Nin / Gen ) que seu personagem possui fora de combate.
+      def_base: Esse é o total de Defesa Base que seu personagem possui fora de combate.
+      hp: Esse é o total de HP que seu personagem possui fora de combate.
+      sp: Esse é o total de Chakra que seu personagem possui fora de combate.
+      sta: Esse é o total de Stamina que seu personagem possui fora de combate.
+      prec_fisico: Precisão define se o seu personagem vai executar os seus jutsus corretamente em combate.
+      prec_magico: Precisão define se o seu personagem vai executar os seus jutsus corretamente em combate.
+      esq: Percepção é a chance que seu personagem tem em reduzir o dano sofrido por um ataque inimigo.
+      det: Determinação desperta forças ocultas de sua vila em você ( Quando seu HP estiver abaixo de 50% do total ) e você ganha bônus adicional durante a luta.
+      conv: Convicção aumenta a confiança de seu ninja e diminui 75% do total de concentração e percepção de seu inimigo em combate.
+      esquiva: Esquiva é a chance de seu personagem de desviar completamente de um golpe inimigo.
+      conc: Concentração é a chance que seu personagem possui para acertar movimentos criticos em seu inimigo no combate.
+  formula2:
+    hp: Vida
+    sp: Chakra
+    sta: Stamina
+    atk_fisico: Atk. ( Tai / Buk )
+    atk_magico: Atk. ( Nin / Gen )
+    def_fisico: Def. ( Tai / Buk )
+    def_magico: Def. ( Nin / Gen )
+    def_base: Defesa Base
+    prec_fisico: Prec. ( Tai / Buk  )
+    prec_magico: Precisão
+    esq: Percepção
+    precisao: Precisão
+    det: Determinação
+    conv: Convicção
+    conc: Concentração
+    esquiva: Esquiva
+    crit_min: Crítico Mínimo
+    crit_max: Crítico Máximo
+    crit_total: Incremento de Crítico
+    esq_min: Absorção Mínima
+    esq_max: Absorção Máxima
+    esq_total: Incremento de Absorção
+    bonus_hp: Vida
+    bonus_sp: Chakra
+    bonus_sta: Stamina
+  botoes:
+    sublider: Sub-Líder
+    trocar_lider: Trocar Líder
+    drop: Já Dropado
+    no_drop: Não Dropado
+    pendencias: Pendências
+    jogar_agora: Jogar agora
+    por_fila: Por na fila
+    concluir_graduacao: Concluir sua Graduação
+    cadastrar: Cadastrar
+    ativar: Ativar
+    recusar: Recusar
+    dados_player: Exibir dados do jogador
+    deixar_guild: Sair da Organização
+    enviar_mensagem: Enviar Mensagem
+    pagina_proxima: Próxima página
+    pagina_anterior: Página anterior
+    terminar_estudo_ninja: Terminar Estudo Ninja
+    trocar_alvo: Trocar Alvo com Ryous
+    trocar_alvo2: Trocar Alvo com Créditos VIP
+    aceitar_missao: Aceitar Missão
+    ver_log: Ver Log
+    anterior: Anterior
+    proximo: Próximo
+    treinar_jutsu: Treinar Jutsu
+    aceito_pagar: |
+      Pagar RY$ %s
+    usar_cartao: Usar Cartão
+    usar_cartao2: |
+      Usar Ticket
+    duelar: Duelar
+    clique_aprender: Clique para Aprender
+    clique_remover: Clique para Remover
+    excluir_membro: Excluir Membro
+    cancelar_evento: Cancelar Evento
+    finalizar_rec: Finalizar e receber recompensa
+    criar_equipe: Criar Equipe
+    postar_resposta: Postar Resposta
+    criar_personagem: Criar Personagem
+    treinar: Treinar
+    treinado: Treinado
+    graduar: Graduar
+    graduado: Graduado
+    aprender: Aprender
+    cancelar: Cancelar
+    remover: Remover
+    finalizar: Finalizar
+    jogar: Jogar
+    desfazer: Desfazer
+    participar_torneio: Participar do Torneio
+    participar: Participar
+    comprar: Comprar
+    aceitar: Aceitar
+    desistir: Desistir
+    trocar: Trocar
+    comecar_o_estudo_ninja: Começar o Estudo Ninja
+    sorte_ninja: Sorte Ninja
+    sorte_ninja_especial: Sorte Ninja Especial
+    procurar_oponente: Procurar Oponente
+    sair_espera: Sair da sala de espera
+    criar: Criar
+    falha: Falha
+    detalhes: Detalhes
+    excluir_topico: Excluir Tópico
+    criar_topico: Criar Tópico
+    cancelar_missao: Cancelar Missão
+    alterar: Alterar
+    expulsar: Expulsar
+    concluido: Concluído
+    lider: Líder
+    sair_do_cla: Abandonar Clã
+    entrar_no_cla: Entrar no Clã
+    rejeitar_selo: Rejeitar Selo
+    aceitar_selo: Aceitar Selo
+    quebrar_pacto: Quebrar Pacto
+    aceitar_pacto: Aceitar Pacto
+    enviar_alteracoes: Enviar Alterações
+    excluir_guild: Excluir Organização
+    sair_guild: Deixar Organização
+    excluir_equipe: Excluir Equipe
+    sair_equipe: Sair da Equipe
+    finalizar_missao: Finalizar Missão
+    enviar_msg_equipe: Mensagem para Membros
+    enviar_msg_guild: Mensagem para Membros
+    remover_mensagens: Remover Mensagens
+    bloquear_ninjas: Bloquear Ninjas
+    nova_mensagem: Nova Mensagem
+    criar_batalha: Treinamento Dojo PVP
+    ver_desafiantes: Ver Desafiantes
+    lutadores_do_dojo: Batalhas do Dojo NPC
+    trocar_imagem: Trocar Imagem
+    veja_imagens: Veja mais imagens
+    aprender_sennin: Aprender Modo Sennin
+    ativar_minha_conta: Ativar Minha Conta
+    ver_resultados: Ver resultados
+    finalizar_doacao: Finalizar Doação
+    votar: Votar
+    filtrar: Filtrar
+    inscrever: Inscrever-se
+    fechar: Fechar
+    carregar_itens: Carregar Itens...
+    equipar: Equipar
+    nova_mensagem_vila: Enviar mensagem para vila
+    lutadores_pvp: Batalhas do Dojo PVP
+  geral:
+    missoes_combate: Missões de Combate
+    missoes_diarias: Missões Diárias
+    missoes_semanais: Missões Semanais
+    missoes_mensais: Missões Mensais
+    pontos: ponto(s)
+    elemento: Elemento(s)
+    m7: Você tem certeza do elemento que você quer aprender?
+    m6: Enviar Comentário
+    m4: Foi Útil
+    m5: Não Foi Útil
+    mensagem3: Opinião gravada com sucesso
+    mensagem2: Sua mensagem foi postada com sucesso!
+    mensagem1: Esse personagem não pode mais postar comentários nas news e no forum da vila por violar regras do jogo, se outro personagem de sua conta for bloqueado sua conta será bloqueada conforme termos explicitos nas regras do jogo.
+    topico_fixo: Tópico Fixo
+    por: por
+    util: Útil
+    nao_util: Não Útil
+    forum_vila: Fórum da Vila
+    sobre_mensagem: Por segurança e evitar bagunça no forum da vila, somente jogadores VIP ou jogadores acima do level 24 podem criar tópicos e somente jogadores VIP ou jogadores acima do level 14 podem postar em tópicos já criados.
+    sobre_forum: Sobre o Fórum da Vila
+    topico_criado: Tópico criado!
+    topico_mensagem: Você criou um tópico no Fórum da Vila com sucesso, e já pode ser visualizado por todos os ninjas de sua vila.
+    inventario: Inventário
+    nao: Não
+    ativo: Ativo
+    email: Email
+    data_cadastro: Data de Cadastro
+    treino_pontos: Treino Pontos
+    rank_vila: Rank Vila
+    rank_geral: Rank Geral
+    geral: Geral
+    personagem: Personagem
+    posicao: Posição
+    integrantes: Integrantes
+    membros: Membros
+    posicao_g: Posição Geral
+    no: No
+    graduacao: Graduação
+    pontuacao_final: Pontuação Final
+    lider: Líder
+    faltando: Faltando
+    adquirir: Adquirir
+    coordenada: Coordenada
+    posicao_v: Posição Vila
+    premios: Prêmios
+    premio_descricao: Prêmio / Descrição
+    req_prem: Requerimento / Prêmio
+    seus_pontos_requeridos: Seus Pontos / Pontos Requeridos
+    nom_desc: Nome / Descrição do Evento
+    ultimo_post: Último post
+    data_horario: Data e Horário
+    mensagem: Mensagem
+    criado_por: Criado por
+    criar_equipe: Criar Equipe
+    creditos: Créditos
+    exp: Experiência
+    de: De
+    e: e
+    ate: Até
+    level: Level
+    topico: Tópico
+    respostas: Respostas
+    premio: Prêmio
+    sua_resposta: Sua Resposta
+    player: Player
+    pontos_exp: Pontos de Experiência
+    pontos_treino: Pontos de Treino
+    rep: Reputação
+    pontos_rep: Pontos de reputação com a vila
+    descricao: Descrição
+    requerimentos: Requerimentos
+    status: Status
+    duracao: Duração
+    recompensa: Recompensa
+    recompensas: Recompensas
+    filtrar: Filtrar
+    jutsu: Jutsu
+    score: Score
+    ranking: Ranking
+    vitorias: Vitórias
+    topico_deletado: Tópico deletado com sucesso
+    caracteres: Caracteres restantes
+    derrotas: Derrotas
+    nome: Nome
+    saldo: Saldo
+    bonus: Bônus
+    falhas: Falhas
+    requer: Requer
+    vila: Vila
+    vilab: Vila B
+    crie_um_topico: Crie um Tópico
+    nenhum_topico: Nenhum Tópico
+    em: em
+    aliados: Aliados
+    inimigos: Inimigos
+    neutros: Neutros
+    diplomacia: Diplomacia
+    nome_descricao: Nome / Descrição
+    req_bonus: Requerimentos / Bônus
+    erro_ajax: Ocorreu um problema ao tentar essa operação. Aguarda um pouco e tente novamente. Se o problema persistir entre em contato com a STAFF através do suporte.
+    erro_prefixo: Os seguintes problemas evitaram que a operação fosse completada
+    item: Item
+    valor: Valor
+    quantidade: Quantidade
+    informacoes: Informações
+    atributos: Atributos
+    titulo: Titulo
+    hora: Hora
+    horas: Horas
+    minuto: Minuto
+    minutos: Minutos
+    vantagens_titulo: Adquira as Vantagens Vips!
+    enviou_mensagem: O jogador "%s" te enviou uma mensagem
+    g1: Você não pode utilizar esse item por enquanto!
+    g2: Item de quest
+    g3: Validade do item
+    g4: Este item está indisponível por hoje, você já excedeu o limite de uso.
+    g5: Você pode usar ainda
+    g6: vezes hoje
+    g7: Recupera
+    g8: Requer
+    g9: Intervalo de uso em batalha
+    g10: faltando
+    g11: Igual
+    g12: Mesmo valor
+    g13: Eventos de Vila
+    g14: Os Eventos de Vila é um novo módulo que vem para ressaltar a importância do trabalha em grupo dentro de sua Vila, pois, a Vila que conseguir completa-los ganhará Experiência para a mesma e com isso diversos novos bônus para todos os integrantes de sua Vila.
+    g15: para a sua Vila
+    g16: Informações do Jogador com o(a)
+    g17: Jogador
+    g18: Jogador nos Mapas
+    g19: Qual Mapa
+    g20: Coordenadas
+    g21: Não iniciado
+    g22: às
+    g23: Ver Torneio Ninja
+    g24: Ver Conquistas Ninja
+    g25: Ver Talentos Ninja
+    g26: Ver Equipamentos Ninja
+    g27: Líder
+    g28: Integrante
+    g29: O Estudo ninja não pode ser realizado durante as 11:45 até as 00:15
+    g30: Ajuda nas Missões com o Quest Helper
+    g31: Mostra no mapa a localização dos NPC das Missões Interativas.
+    g32: Ajuda para os Eventos
+    g33: Mostra no mapa a localização dos NPC de Evento.
+    g34: Ajuda para as Missões Diárias da Organização
+    g35: Mostra no mapa a localização dos NPC das Missões de Organização.
+    g36: Atenção!
+    g37: Somente ninjas a partir do nível 10 podem enviar mensagens.
+    assunto: Assunto
+    remetente: Remetente
+    entregue: Entregue
+    g38: Aviso Naruto Game
+    g39: Não lida
+    g40: Desafios nas Arenas
+    g41: Nessas batalhas os jogadores precisarão aguçar seus extintos ninjas e tentar sobreviver a diversas batalhas, sendo assim, ganhará o ninja que for o último sobrevivente no mapa. Os combates não possuem qualquer regra de proteção e os ramens deverão ser usados rapidamente depois de cada combate, pois, você será alvo de outros jogadores esperando esse momento.
+    g42: Sala de Espera
+    g43: Você está na fila para a Arena e o tempo para ela iniciar é de
+    g44: Vitórias NPC
+    g45: Vitórias PVP
+    g46: Derrotas NPC
+    g47: Derrotas PVP
+    g48: Range de Combate
+    g49: Armas
+    g50: Portões
+    g51: Selo
+    g52: Invocação
+    g53: está sendo atacado pelo jogador
+    g54: É sua vez de atacar
+    g55: está atacando
+    g56: Chave de segurança inválida. Se você abriu uma nova aba por favor feche esta.
+    g57: Ação inválida
+    g58: Ataque inválido
+    g59: Não é a sua vez de atacar
+    g60: Esse jogador não possui Especialização
+    g61: Mestre
+    g62: Aumenta em
+    g63: o dano de ataques
+    g64: A Especialização ainda não foi treinada
+    g65: Reduz a cura de justus medicinais em
+    g66: Aumenta a cura dos jutsus medicinais em
+    g67: Reduz o dano dos Ataques Mágicos em
+    g68: Reduz o dano dos Ataques Físicos em
+    g69: Não passa turno ao utilizar
+    g70: turno(s)
+    g71: Data da Expiração
+    g72: Data da Compra
+    g73: Créditos
+    g74: Reputação com sua Vila
+    g75: |
+      Agora você pode listar seu personagem para Batalhas 4x4 sem ter Equipes. As batalhas serão niveladas pela média de level dos jogadores de ambas Equipes e por dia todos jogadores poderão vencer <span class="laranja">5 combates</span>.
+    g76: Caso a fila demore é porque o jogo não está conseguindo formar batalhas no momento.
+    g77: Ir para a fila
+    g78: Total de Exp Requerido
+    g79: Os jogadores abaixo participaram de outra organização com Level Maior e não ganharão esse Prêmio
+    g80: Pontos de Experiência para sua Vila
+    g81: Etapa
+    g82: Heróis
+    g83: Vilões
+    g84: Força Aliadas
+    g85: Time 7
+    g86: Ninjas e Samurais
+    g87: Próximas
+    g88: Passadas
+    g89: Atual
+    g90: Habilidade Passiva
+    g91: Sem vantagens vips ou promoções no momento.
+    g92: |
+      Seu <span class="verde">Camuflagem Ninja</span> está <span class="verde">ativa</span> e o efeito vai durar ainda
+    g93: |
+      Seu <span class="verde">Camuflagem Ninja</span> está <span class="laranja">pronta</span> para ser ativa a qualquer momento.
+    g94: |
+      Seu <span class="verde">Camuflagem Ninja</span> está <span class="laranja">inativa</span> e ele só poderá ser reativada novamente dentro de
+    g95: Days
+    g96: Hours
+    g97: minutes
+    g98: Attack Range Level 1
+    g99: Attack Range Level 5
+    g100: Camouflage Ninja
+    g101: |
+      Seu <span class="verde">Range de Ataque de 3 Level</span> está <span class="verde">ativo</span> e o efeito vai durar ainda
+    g102: |
+      Seu <span class="verde">Range de Ataque de 3 Level</span> está <span class="laranja">pronto</span> para ser ativo a qualquer momento.
+    g103: |
+      Seu <span class="verde">Range de Ataque de 3 Level</span> está <span class="laranja">inativo</span> e ele só poderá ser reativado novamente dentro de
+    g104: |
+      Seu <span class="verde">Range de Ataque de 1 Level</span> está <span class="verde">ativo</span> e o efeito vai durar ainda
+    g105: |
+      Seu <span class="verde">Range de Ataque de 1 Level</span> está <span class="laranja">pronto</span> para ser ativo a qualquer momento.
+    g106: |
+      Seu <span class="verde">Range de Ataque de 1 Level</span> está <span class="laranja">inativo</span> e ele só poderá ser reativado novamente dentro de
+    g107: Promoção de Créditos em Dobro
+    g108: |
+      A promoção de créditos em dobro está ativa e na compra de qualquer plano vip você receberá o dobro dos créditos. <span class="verde">Valida até
+  graduation:
+    tournament:
+      title: Graduações indisponíveis
+      message: Por você estar participando de um torneio ninja, você não pode se graduar. Termine o torneio ou saia dele caso queria graduar seu personagem.
+  titulos:
+    rank_4x4: Ranking de 4x4
+    votacao_vila: Votação dos Conselheiros
+    gasto_vip: Compras feitas com Créditos VIP
+    compras_vip: Compras de Créditos VIP
+    batalha_equipe_pvp: Batalha de equipe PVP 4x4
+    mapa_vila: Mapa da Vila
+    missoes_equipe: Missões de Equipe
+    equipe_participar: Participar de uma equipe
+    status: Status do personagem
+    missoes: Missões
+    missoes_status: Status da Missão
+    missoes_concluida: Missão Concluída
+    academia_jutsu: Treinamento de Jutsus
+    graduacoes: Graduações
+    torneio_ninja: Torneios Ninja
+    treinamento_ninja: Treinamento Ninja
+    dados_da_conta: Dados da Conta
+    selo: Selos Amaldiçoados
+    sorte_ninja: Sorte Ninja
+    troque_senha: Troque sua Senha
+    rank_batalhas: Ranking de Batalhas
+    rank_conquistas: Ranking de Conquistas
+    rank_equipes: Ranking de Equipes
+    rank_estudo: Ranking de Estudo Ninja
+    rank_ninjas: Ranking de Ninjas
+    rank_vilas: Ranking de Vilas
+    rank_sensei: Ranking de Sensei
+    esqueci_senha: Esqueci minha Senha
+    ramen_shop: Ramen Shop
+    proximo_nivel: Ir para o Próximo Nível
+    selecione_personagem: Selecione seu Personagem
+    tecnicas_ninja: Aprender Jutsus
+    treinamento_jutsus: Treinamento de Jutsus
+    elementos: Elementos
+    negado: Acesso Negado
+    reputacoes: Reputações
+  criacao:
+    populacao: População
+    personagem: Personagem
+    vila: Vila Oculta
+    estatistica: Estatísticas
+    escolha: Escolha seu personagem
+    action:
+      existente: Já existe um personagem com o nome escolhido
+      nome_longo: O nome do seu personagem não pode ter mais de 18 caractéres
+      nome_invalido: O nome do seu personagem só pode conter letras, números, underlines e traços
+      vila_invalido: A vila especificada é inválida
+      classe_invalido: Personagem inválido
+      classe_tipo_invalido: Tipo de classe inválida
+      sem_credito: Você não tem créditos suficientes!
+      limite_personagem: Você só pode ter %d personagens
+      sucesso_titulo: Ninja  criado com sucesso!
+      successo_msg: |
+        Parabéns você acaba de criar seu personagem no Naruto Game.<br />
+        Comece agora mesmo seu treinamento <a href="index.php?secao=personagem_selecionar" class="linkTopo">clicando aqui</a> e selecione seu personagem
+  random:
+    error_day: As batalhas 4x4 só ficam disponíveis agora na Terça-Feira e Quinta-Feira
+    error_day2: Você já alcançou o limite de vitórias diárias
+    error_inactivity: |
+      Você não pode batalha no momento por ter ficado inativo na última batalha. E como punição você terá que aguardar
+      <span id="rnd-timer-count">--:--:--</span>
+    error_lvl: Você precisa ser Graduação Chunnin ou maior.
+    error: |
+      Você não pode participar no momento dessas batalhas. Lembrando que você NÃO pode estar nas seguintes condições:
+      <br />
+      <br />
+      <ul>
+        <li>Nível menor do que 15</li>
+        <li>Em torneio</li>
+        <li>Em missão interativa</li>
+        <li>Em missão em equipe</li>
+        <li>Em treino automatico</li>
+        <li>No hospital</li>
+        <li>Em missão de tempo</li>
+        <li>Em nenhum outra fila de batalha</li>
+        <li>Em missão de guild</li>
+        <li>Estar fora da sua vila de origem</li>
+      </ul>
+    error1x: |
+      Você não pode participar no momento dessas batalhas. Lembrando que você NÃO pode estar nas seguintes condições:
+      <br />
+      <br />
+      <ul>
+        <li>Em torneio</li>
+        <li>Em missão interativa</li>
+        <li>Em missão em equipe</li>
+        <li>Em treino automatico</li>
+        <li>No hospital</li>
+        <li>Em missão de tempo</li>
+        <li>Em nenhum outra fila de batalha</li>
+        <li>Em missão de guild</li>
+        <li>Estar fora da sua vila de origem</li>
+      </ul>
+    max_count: Você já venceu suas 2 batalhas diárias, mas pode continuar lutando, porém não irá ganhar/perder score.
+    progress: |
+      %s de 5 Combates 4x4 PVP
+    cancel_error: Não foi possível cancelar a fila de espera, por favor, atualize a página atual
+    wait_title: Procurando oponentes
+    wait_msg_title: Procurando oponentes
+    wait_msg: |
+      Estamos procurando um oponente para você. Durante esse tempo você não poderá efetuar nenhuma ação, caso demore muito é porque o jogo não está conseguindo formar 2 Equipes para que o combate comece e você poderá cancelar essa ação e voltar em um horário com mais jogadores.
+      <br /><br />
+      <span class="laranja">Recomendamos que você não saia dessa página, pois se encontrarmos um oponente, não conseguiremos te mandar para batalha e você poderá perder por inatividade.</span>
+    wait_msg2: |
+      Estamos no momento procurando um oponente do mesmo level que o seu, caso não encontremos a batalha poderá acontecer com um oponente com 1 level a mais ou 1 a menos que o seu.
+      <br /><br />
+      <span class="laranja">Recomendamos que você não saia dessa página, pois se encontrarmos um oponente, não conseguiremos te mandar para batalha e você poderá perder por inatividade.</span>
+    win:
+      title: Parabéns!
+      msg: |
+        Você venceu o combate, e como recompensa estará ganhando RY$ %s e %s pontos de experiência. <a href="?secao=personagem_status" class="linkTopo">Clique aqui</a> para sair da batalha
+    loss:
+      title: Que pena
+      msg: Você perdeu o combate. <a href="?secao=personagem_status" class="linkTopo">Clique aqui</a> para sair da batalha
+    tied:
+      title: Quase lá!
+      msg: Você empatou o combate. <a href="?secao=personagem_status" class="linkTopo">Clique aqui</a> para sair da batalha
+  equipe:
+    e1: Sua Equipe não possui 4 integrantes
+    e2: Ser o Lider da Equipe
+    e3: Ser um Ninja de Graduação Chunin ou maior
+    e4: Nenhum integrante ter completado esse Evento em outra Equipe
+    e5: Líder Excluído ou por muito tempo inativo.
+    e6: |
+      O líder da sua Equipe ou Organização encontra-se por muito tempo inativo ( 7 dias ou mais ) no jogo ou foi punido com exclusão por descumprir regras do jogo e por isso você pode assumir a liderança de sua Equipe ou Organização. <span class="laranja">Essa alteração de liderança custa 2 créditos!</span>
+    confirmar_mensagem: Confirma enviar a mensagem atual para os integrantes da equipe?
+    confirmar_mensagem_t: Enviar mensagem para equipe
+    participar:
+      nome: Nome da equipe
+      lider: Nome do Líder
+      nome_vila: Vila de Origem
+      range_combate: Range de Combate
+      total: Qtd de Integrantes
+    pvp:
+      wait: Aguardando Equipe Inimiga
+      wait_msg: |
+        Sua Equipe esta agora disponivel para que outras Equipes possam aceitar o seu desafio, isso pode levar algum tempo e por segurança todos os membros de sua Equipe estão
+        com os menus reduzidos até que esse combate inicie. <br /><br /> <span class="laranja">Caso demore muito, você pode cancelar e continuar normalmente no jogo.</span>
+        <br /><br />
+      search: Procurar Desafiantes
+      queue: Ir para sala de espera
+      queue_problem: Sua Equipe não pode ir para Sala de Espera
+      queue_problem_msg: |
+        As seguintes restrições incapacitam sua Equipe de aceitar Duelos PVP:<br /><br /> %s
+      title: Batalhas de equipe 4x4 PVP
+      msg: |
+        Somente Equipes com 4 integrantes são liberadas para combater contra as demais Equipes do jogo. Cada Equipe possui seu próprio Range de Combate, que é a Média do Level de todos os Integrantes de sua Equipe. Essa Média terá um Range de mais ou menos 5 pontos para os Combates desse Módulo!<br /> <br /><span class="laranja">O Range de Combate de sua Equipe é de
+      finished:
+        title_win: Parabéns! Sua equipe foi a vencedora
+        win_msg: |
+          Como recompensa você ganhou %s pontos de experiência e %s ryous por vencer esse combate de equipes. Ir para o <a href="?secao=equipe_detalhe" class="linkTopo">Detalhe da equipe</a>.
+        title_draw: Quase lá! Sua equipe empatou o combate
+        draw_msg: |
+          Pelo combate ter terminado empatado nenhuma recompensa foi ganha. Ir para o <a href="?secao=equipe_detalhe" class="linkTopo">Detalhe da equipe</a>.
+        title_loss: Que pena!
+        loss_msg: |
+          Sua equipe perdeu o combate. Nenhuma recompensa foi ganha. Ir para o <a href="?secao=equipe_detalhe" class="linkTopo">Detalhe da equipe</a>.
+      battle:
+        accept: Aceitar
+        requirements: Sua equipe não tem os requerimentos necessários para essa operação
+        problem: Você não pode aceitar batalhas
+        problem_msg: |
+          As seguintes restrições incapacitam sua Equipe de aceitar Duelos PVP:<br /><br /><span class="laranja">%s</span>
+        only_leader: Somente o líder da sua equipe pode aceitar batalhas 4x4 PVP
+        none: Não há equipes disponíveis para luta. Você pode ficar na sala de espera caso queira batalhar com uma equipe
+        pvp1: Entre na Fila de Combates 4x4 PVP
+        pvp2: Para entrar na fila de espera de combates 4x4, os integrantes de sua equipe ficarão travados esperando com que outra equipe aceite o desafio
+  missoes:
+    falhas: Falhas
+    nenhuma: Nenhum(a)
+    treino: Pontos abatidos do seu treino diário
+    derrotar: Derrotar
+    derrotar_npc: Derrotar o NPC
+    adiquirir: Adquirir
+    adiquirir_itens: Adquirir os itens
+    ninjas_inimigos: ninja(s) inimigo(s)
+    o_npc: o NPC
+    objetivos: Seus Objetivos serão
+    tempo: Por Tempo
+    interativa: Interativas
+    especial: Especial
+    alvo: Alvo
+    vezes: vezes
+    de: de
+    ate: até
+    coordenadas: Coordenadas do NPC
+    inimigos: Derrotar ninjas inimigos
+  item_tooltip:
+    consome_combate: Consome em combate
+    recupera: |
+      Recupera <span class="verde">%d</span> ponto(s)
+    recupera2: Recupera
+    nivel_atual: Nível Atual
+    prox_nivel: Próximo Nível
+    valores_combate: Valores para Combate
+    efeitos:
+      p: Efeitos no seu personagem
+      e: Efeitos no inimigo
+    requerimentos: Requerimentos
+    type5:
+      buff: Buff
+      debuff: Redutor
+      def: Técnica Defensiva
+      atk: Técnica de Ataque
+      elem: Elemental
+    at:
+      pontos_ene: Pontos em Energia
+      esquiva: Esquiva
+      pontos_for: Pontos em Força
+      pontos_int: Pontos em Inteligência
+      pontos_agi: Pontos em Agilidade
+      pontos_con: Pontos em Selo
+      pontos_tai: Pontos em Taijutsu
+      pontos_ken: Pontos em Bukijutsu
+      pontos_nin: Pontos em Ninjutsu
+      pontos_gen: Pontos em Genjutsu
+      pontos_res: Pontos em Resistência
+      atk_fisico: em Ataque ( Tai / Buk )
+      atk_magico: em Ataque ( Nin / Gen )
+      def_fisico: em Defesa ( Tai / Buk )
+      def_magico: em Defesa ( Nin / Gen )
+      tai: em taijutsu
+      ken: em bukijutsu
+      nin: em ninjutsu
+      gen: em genjutsu
+      agi: em agilidade
+      ene: em energia
+      con: em selo
+      inte: em inteligência
+      forc: em força
+      res: em resistência
+      def_base: em defesa base
+      prec_fisico: ponto(s) em Precisão
+      prec_magico: ponto(s) em Precisão
+      crit_min: ponto(s) no Crítico mínimo
+      crit_max: ponto(s) no Crítico máximo
+      crit_total: ponto(s) no Incremento de Crítico
+      esq_min: ponto(s) no Absorção mínima
+      esq_max: ponto(s) no Absorção máxima
+      esq_total: ponto(s) no Incremento de Absorção
+      esq: ponto(s) em percepção
+      det: ponto(s) em determinação
+      conv: ponto(s) em conviccão
+      conc: ponto(s) em concentração
+      bonus_hp: |
+        % em vida
+      bonus_sp: em chakra
+      bonus_sta: em stamina
+      consume_hp: |
+        Gasta %s%% a menos de vida ao usar um ataque
+      consume_sp: |
+        Gasta %s%% a menos de chakra ao usar um ataque
+      consume_sta: |
+        Gasta %s%% a menos de stamina ao usar um ataque
+      bonus_treino: pontos de treino diário
+      turnos: menos turnos de espera dos jutsus
+      turnos2: mais turnos de duração
+      ryou: |
+        % a mais de Ryous em Missões
+      req_con: |
+        Aumenta o dano das armas de curto alcance em %s%%
+      req_tai: |
+        Aumenta o dano das armas de curto alcance em %s%%
+      req_int: |
+        Aumenta em %s o limite de batalhas com NPCs no mapa
+      req_for: |
+        Aumenta em %s o limite de batalhas com NPCs no dojo
+      req_agi: |
+        Reduz o tempo das missões em %s min
+    mod:
+      atk_fisico: em Ataque ( Tai / Buk )
+      atk_magico: em Ataque ( Nin / Gen )
+      def_fisico: em Defesa ( Tai / Buk )
+      def_magico: em Defesa ( Nin / Gen )
+      agi: em agilidade
+      con: em selo
+      forc: em força
+      ene: em energia
+      inte: em inteligência
+      res: em resistência
+      def_base: ponto(s) em defesa base
+      crit: ponto(s) em crítico
+      esq: ponto(s) em poder esquiva
+      def_extra: ponto(s) em poder defesa extra
+    kinjutsu:
+      unique: Só pode ser usado uma vez na batalha
+      dead: Revive o jogador selecionado
+      dead_all: Revive todos os jogadores da sua equipe
+      friendly:
+        one: Essa habilidade aplica-se somente a um aliado
+        all: Essa habilidade aplica-se a toda sua equipe
+        bonus_hp: |
+          Recupera %s%% da vida total
+        bonus_hp2: Da vida total é recuperada
+        bonus_sp: |
+          Recupera %s%% do chakra total
+        bonus_sp2: Do chakra total é recuperado
+        bonus_sta: |
+          Recupera %s%% da stamina total
+        bonus_sta2: Da stamina total é recuperada
+      enemy:
+        one: Essa habilidade aplica-se somente a um inimigo
+        all: Essa habilidade aplica-se a toda equipe inimiga
+        bonus_hp: |
+          Remove %s%% da vida total
+        bonus_hp2: Da vida total é removida
+        bonus_sp: |
+          Remove %s%% do chakra total
+        bonus_sp2: Do chakra total é removido
+        bonus_sta: |
+          Remove %s%% da stamina total
+        bonus_sta2: Da stamina total é removida
+    base:
+      hp: Da sua vida máxima
+      sp: Do seu chakra máxima
+      sta: Da sua stamina máxima
+    esp:
+      bonus_hp:
+        plus: Aumenta a recuperação de vida jutsus medicinais em %s%%
+        minus: Reduz a recuperação de vida jutsus medicinais em %s%%
+      bonus_sp:
+        plus: Aumenta a recuperação de chakra de jutsus medicinais em %s%%
+        minus: Reduz a recuperação de chakra de jutsus medicinais em %s%%
+      bonus_sta:
+        plus: Aumenta a recuperação de stamina de jutsus medicinais em %s%%
+        minus: Reduz a recuperação de stamina de jutsus medicinais em %s%%
+      consume_hp:
+        plus: Aumenta o custo de vida dos kinjutsus em %s%%
+        minus: Reduz o custo de vida dos kinjutsus em %s%%
+      consume_sp:
+        plus: Aumenta o custo de chakra dos kinjutsus em %s%%
+        minus: Reduz o custo de chakra dos kinjutsus em %s%%
+      consume_sta:
+        plus: Aumenta o custo de stamina dos kinjutsus em %s%%
+        minus: Reduz o custo de stamina dos kinjutsus em %s%%
+      tai:
+        plus: Aumenta o bonus de vida dos kinjutsus em %s%%
+        minus: Reduz o bonus de vida dos kinjutsus em %s%%
+      nin:
+        plus: Aumenta o bonus de chakra dos kinjutsus em %s%%
+        minus: Reduz o bonus de chakra dos kinjutsus em %s%%
+      gen:
+        plus: Aumenta o bonus de stamina dos kinjutsus em %s%%
+        minus: Reduz o bonus de stamina dos kinjutsus em %s%%
+      atk_magico:
+        plus: Aumenta seu Ataque ( Nin / Gen ) em %s%%
+        minus: Reduz o seu Ataque ( Nin / Gen ) em %s%%
+      atk_fisico:
+        plus: Aumenta o seu Ataque ( Tai / Buk ) em %s%%
+        minus: Reduz o seu Ataque ( Tai / Buk ) em %s%%
+      def_base:
+        plus: Aumenta a sua Defesa Base em %s%%
+        minus: Reduz a sua Defesa Base em %s%%  
+    reqs:
+      ponto_npc: Ponto(s) NPC
+      ponto_pvp: Ponto(s) PVP
+      ponto_batalha: Ponto(s) de batalha
+      ponto_misto: |
+        %s Ponto(s) PVP e %s Créditos VIP
+  enhance_tooltip:
+    point_needed: Necessário %s Ponto(s) de Aprimoramento
+    enhances: Aprimoramentos
+    slot: Melhor Equipado no Slot %s
+    slot_only: SOMENTE pode ser Equipado no Slot %s
+    buff_only: SOMENTE pode ser Equipado em Buff
+    not_buff: NÃO PODE ser Equipado em Técnicas Redutor/Buff
+
+    debuff_only: SOMENTE pode ser Equipado em Redutor
+    buff_or_debuff: SOMENTE pode ser equipado em Redutor/Buff
+    element_only: SOMENTE pode ser Equipado em Técnicas Elementais
+    defense_only: SOMENTE pode ser Equipado em Técnicas Defensivas
+    attack_only: SOMENTE pode ser Equipado em Técnicas de Ataque
+    grad: SOMENTE Técnicas com Graduação a partir de %s
+    consume:
+      hp:
+        plus: Aumenta o Consumo de Vida em %s
+        minus: Reduz o Consumo de Vida em %s
+      sp:
+        plus: Aumenta o Consumo de Chakra em %s
+        minus: Reduz o Consumo de Chakra em %s
+      sta:
+        plus: Aumenta o Consumo de Stamina em %s
+        minus: Reduz o Consumo de Stamina em %s
+    bonus:
+      hp:
+        plus: Aumenta a Recuperação de Vida em %s
+        minus: Reduz a Recuperação de Vida em %s
+      sp:
+        plus: Aumenta a Recuperação de Chakra em %s
+        minus: Reduz a Recuperação de Chakra em %s
+      sta:
+        plus: Aumenta a Recuperação de Stamina em %s
+        minus: Reduz a Recuperação de Stamina em %s
+    atk_fisico:
+      plus: Aumenta seu Ataque ( Tai / Buk ) em %s
+      minus: Reduz seu Ataque ( Tai / Buk ) em %s
+    atk_magico:
+      plus: Aumenta seu Ataque ( Nin / Gen ) em %s
+      minus: Reduz seu Ataque ( Nin / Gen ) em %s
+    def_fisico:
+      plus: Aumenta seu Defesa ( Tai / Buk ) em %s
+      minus: Reduz seu Defesa ( Tai / Buk ) em %s
+    def_magico:
+      plus: Aumenta seu Defesa ( Nin / Gen ) em %s
+      minus: Reduz seu Defesa ( Nin / Gen ) em %s
+    def_base:
+      plus: Aumenta sua Defesa Base em %s
+      minus: Reduz sua Defesa Base em %s
+    duration:
+      plus: Aumenta a Duração dos Buffs e Redutores em %s turno(s)
+      minus: Diminui a Duração dos Buffs e Redutores em %s turno(s)
+    cooldown:
+      minus: Reduz o Tempo de Recarga dos Jutsus em %s turno(s)
+      plus: Aumenta o Tempo de Recarga dos Jutsus em %s turno(s)
+    precision:
+      minus: Diminui a Chance Adicional de Crítico nesse Jutsu em %s
+      plus: Aumenta a Chance Adicional de Crítico nesse Jutsu em %s
+    reqs:
+      con:
+        plus: Aumenta o Requerimento de Selo em %s
+        minus: Reduz o Requerimento de Selo em %s
+      agi:
+        plus: Aumenta o Requerimento de Agilidade em %s
+        minus: Reduz o Requerimento de Agilidade em %s
+      extra: Requerimentos adicionais
+      l1: Requer %s técnicas nível 1
+      l2: Requer %s técnicas nível 2
+      l3: Requer %s técnicas nível 3
+      l4: Requer %s técnicas nível 4
+      all: Requer %s justus aprimorados (faltando %s)
+    element:
+      red: Diminuir a Fraqueza contra o Elemento %s em %s%%
+      inc: Aumenta o Dano contra o Elemento %s em %s%%
+    buff_mine: Efeitos no seu Personagem
+    buff_enemy: Efeitos no Inimigo
+    can_enhance: |
+      Você possui %s ponto(s) de aprimoramento(s) - <span style="display: none" id="d-enchance-count-container">Próximo ponto em <span id="d-enchance-count-timer"></span></span>
+    cant_enhance: |
+      Você ganhará um ponto para aprimorar um jutsu em:
+  status:
+    fidelidade: Pontos de Fidelidade
+    qtd_dias: Qtd. dias no round
+    cla: Clã
+    portao: Portão
+    selo: Selo
+    sennin: Mode Sennin
+    invocacao: Invocação
+    elementos: Elemento(s)
+    rank_vila: Ranking (Vila)
+    rank_geral: Ranking (Geral)
+    pt_conquista: Pontos de Conquistas
+    equipe: Equipe
+    guild: Organização
+    vila: Vila Oculta
+    class: Classe
+    grad: Graduação
+    titulo: Título
+    d_principal: Dados Principais
+    classe: Classe
+    vitoria_dojo: Vitórias NPC
+    vitoria_dojo_pvp: Vitórias Dojo PVP
+    vitoria_mapa_pvp: Vitórias Mapa PVP
+    vitoria_rnd: Vitórias 4x4 Dojo
+    derrota_pvp: Derrotas Dojo PVP
+    derrota_pvp2: Derrotas Mapa PVP
+    derrota_npc: Derrotas NPC
+    derrota_rnd: Derrotas 4x4 Dojo
+    fugas: Fugas
+    empate: Empates
+    empate_rnd: Empates RND
+    rank: Rank
+    rank_s: Rank S
+    rank_a: Rank A
+    rank_b: Rank B
+    rank_c: Rank C
+    rank_d: Rank D
+    tarefas: Tarefas
+    total_treino: Total de treino
+    pontos_distribuidos: Pontos Distribuídos
+    treino_at: Informações Extras
+    missoes_completas: Resumo de Missões
+    treino_total: Total de Treino
+    pontos_dist: Pontos Distribuídos
+    resumo_combate: Resumo de Combates
+    atributos: Atributos
+    formulas: Fórmulas
+    ult_atividade: Último Login
+    tl_bb: Bingo Book Mortos
+    tl_hr: Total de Horas Jogadas
+    tl_torneio_npc: Torneios NPC Vencido(s)
+    tl_torneio_pvp: Torneios PVP Vencido(s)
+    tl_arena: Arenas Vencida(s)
+  academia_jutsu:
+    msg_chakra_stamina: Você não possui %s suficiente para treinar esse Jutsu.
+    academia_jutsu_t: Jutsus Ninjas
+    adquira_vantagens: Adquira as Vantagens Vips!
+    jutsu_medicinais: Jutsus Medicinais
+    aj_descricao: Os Jutsus Medicinais só aparecem em combates 4x1 e 4x4, sendo assim, não possuem utilidade em combates 1x1 no jogo e por isso não aparecem nesse tipo de combate.
+    sobre_as_tecnicas_ninjas: Sobre os Jutsus Ninjas
+    aj_descricao2: |
+      Aprenda novos Jutsus para combater em melhor nível nos duelos e para isso alcance os requerimentos de cada jutsu. <span class="azul">( Jutsus que não são da mesma Classe do seu personagem possuem requerimentos dobrados. )</span><br /><br />
+      <span class="laranja">Jutsus Medicinais e Kinjutsus só podem ser usados em Batalhas de Equipe ( 4x4 e 4x1 ).</span><br /><br />
+      E não esqueça que todas os jutsus ninjas podem ser evoluidos em <a class="link_verde" href="http://narutogame.com.br/index.php?secao=personagem_jutsu">Meus jutsus</a>
+    dicas_jutsus: Dicas sobre os Jutsus Ninja
+    problema: Problema!
+    voce_ja_treinou_jutsu: Você já treinou o jutsu escolhido.
+    parabens: Parabéns! Você conseguiu!
+    voce_esforcou_aprendeu: Você se esforçou e aprendeu o jutsu
+    durante_treinamento: Durante o treinamento do justu você ganhou
+    de_experiencia: de experiência.
+    treine_bastante: Treine bastante para conseguir novos jutsus e ficar mais poderoso.
+    filtrar_por: Filtrar por
+    todos: Todos
+    aprenda_esse_jutsu: Aprenda esse jutsu com
+    equipe_insuficiente: Sua Equipe não possui membros suficientes
+  academia_treinamento:
+    at1: Vantagens Vips do Treino de Atributos Ninjas
+    at2: Adquira as Vantagens Vips!
+    at3: Treinamento Estendido
+    at4: Aumente o total de pontos diários de treino do seu personagem para tonar-se forte mais rapidamente.
+    at5: Treinamento Automático
+    at6: Habilite o treinamento automático em seu personagem para maior comodidade no jogo.
+    at7: Redistribuir pontos de treino
+    at8: Redistribua os pontos de treino caso mude de idéia em relação em que atributos investir.
+    at9: Entenda o Treinamento de Atributos
+    at10: |
+      Seu personagem é capaz de treinar seus atributos desde o level 1 e esse treinamento possui um limite diário. Quanto mais você treinar, melhor serão seus resultados em luta no dojo e contra seus inimigos.<br />
+      Os dias NÃO treinados vão se acumulando: Por exemplo, se você não pode treinar na terça e na quarta, na quinta-feira você poderá treinar o equivalente de terça, quarta e quinta.<br />
+      Terça-Feira, é o dia que é renovado o limite semanal, mesmo que você não tenha treinado, portanto tente sempre treinar seu limite semanal até segunda feira.
+      <br /><br />
+      O treinamento de atributos é a chave de ter um bom personagem, portanto, jamais deixe de treina-lo!
+    at11: Treinamento de Atributos
+    at12: Academia Ninja em Reconstrução
+    at13: |
+      Os ninjas inimigos destruiram a Academia Ninja e por isso todos os ninjas ganham a metade do treino normal por 24 horas.<br /><br />
+      <strong>Punição Total de treino ganho é reduzido por 24 horas.</strong>
+      <br /><br />
+      Tempo de punição restante: <span id="d-penality-timer">--:--:--</span>
+    at14: Treinamento Concluído
+    at15: Problema!
+    at16: O codigo ninja está incorreto!
+    at17: Você gastou
+    at18: Consumo de Chakra
+    at19: Consumo de Stamina
+    at20: Você ganhou
+    at21: Pontos de Experiência
+    at22: em pontos de habilidade.
+    at23: Você não possui
+    at24: suficiente para esse treinamento.
+    at25: Desafio Ninja
+    at26: |
+      Você está indo muito bem no seu treinamento, mas para prosseguir você precisa digitar o código ninja abaixo e clicar novamente em Treinar<br /><br /> %s
+    at27: Treinamento Manual
+    at28: Quantidade
+    at29: Você pode fazer o treino manual várias vezes por dia.
+    at30: Você gastará
+    at31: Escolha o tempo que quer deixar treinando automático, esse recurso pode ser usado sempre que você quiser.
+    at32: Treinar por 30 Minutos
+    at33: Treinar por 1 Hora
+    at34: Treinar por 1 Hora e 30 Minutos
+    at35: Limite de Treinamento Semanal
+    at36: Todos os ninjas podem treinar o seu limite diário normalmente, para aqueles que não conseguirem treinar o limite no mesmo dia, podem treinar no dia seguinte e assim consecutivamente. O limite de treino diário, aumenta conforme sua graduação, um Jounin tem mais limite por dia que um Estudante, por exemplo.
+    at37: Pontos de Treino
+    at38: Você tem
+    at39: |
+      <strong class="verde">Pontos Livres</strong> sendo
+    at391: |
+      <strong class="laranja">Pontos Treináveis</strong> para distribuir em seus Atributos.
+    at40: Você não tem mais Pontos!
+    at41: Continue treinando, só faltam
+    at42: Pontos de Treinamento para conseguir mais um Ponto de Habilidade para distribuir em seus Atributos.
+    at43: Próximo Ponto de Habilidade
+    at44: Quando a barra de treinamento se completar, você receberá um ponto para treinar seus atributos! Porém seu desafio será cada vez mais dificil!
+    at45: Treino do Atributo Energia
+    at46: |
+      Cada ponto de Energia adquirido atraves do Treino de Atributos vale: 2 pontos de vida e 4 pontos de chakra e stamina.<br /><br />Para saber maiores detalhes entre na página de <a href="?secao=atributos" class="verde">Fórmulas do Jogo</a> e veja o valor original do Atributo Energia.
+    at47: Pontos Distribuidos
+    at48: Você ainda pode redistribuir %s pontos(s)
+  requerimentos:
+    experiencia: Experiência Ninja
+    batalhas_pvp: Batalhas Mapa PVP 
+    batalhas_npc: Batalhas NPC
+    batalhas_sensei: Batalhas vencidas com o Sensei atual
+    ser_level: Ser Level
+    ser: Ser
+    vitorias_npc: Vitórias NPC
+    vitorias_pvp: Vitórias PVP
+    derrotas_npc: Derrotas NPC
+    derrotas_pvp: Derrotas PVP
+    empates: Empates
+    fugas: Fugas
+    ser_da_vila: Ser da Vila de
+    ter: Ter
+    ser_do_cla: Ser do Clã
+    ser_portoes: Ser Usuário dos Portões de Chakra
+    ser_sennin: Ser Usuário do Modo Sennin
+    ser_nivel: Ser do nível %s até o nível %s
+    campeao_torneio: |
+      Ter sido campeão do torneio:
+    ja_venceu: Você ja venceu um torneio hoje
+    campeao_com: Campeão com %s Vitórias
+    atualmente_com: Atualmente com %s Vitórias
+    no_taijutsu: Sua classe não pode ser Taijutsu ou Bukijutsu
+  torneios:
+    aguarda_oponente: Aguardando Oponente
+    espera_desc: Esses combates dependem exclusivamente dos jogadores que estão online no jogo, ou seja, pode acontecer momentos de não existir desafiantes e você esperar um tempo relativamente grande. Para isso você pode sair da sala de espera e tentar em outro momento
+    titulo2: Torneios Ninjas ( NPC e PVP )
+    espera_desc2: Os Torneios Ninjas são o jeito de testar a sua força em combates entre ninjas de sua vila ou contra ninjas de outras vilas. Eles estão divididos entre Torneios PVP e NPC, com limite de 1 participação por dia. Cada torneio possui requerimentos especificos e quantidade de duelos para a grande final. Para maiores informações cliquem no botão <strong>Detalhes</strong> embaixo de cada torneio.
+    desistir_torneio: |
+      Você quer realmente desistir desse torneio?<br />Você poderá participar novamente mas irá começar da primeira chave!
+    torneio_pvp: Torneio PvP
+    torneio_npc: Torneio NPC
+    reputacoes: Reputações
+    t1: Este torneio só vai de
+    t2: até
+  treinamentos:
+    treino_concluido: Treinamento Concluído
+    treino_andamento: Treinando
+    treino_msg_ok: Depois de muito esforço você completou seu treinamento. Clique no botão abaixo para continuar sua aventura.
+    treino_msg_curso: Seu treinamento ainda esta em curso! Ele será completado em
+  arvore_talento:
+    at1: Talentos Ninja
+    at2: Sem pontos para Distribuir na Árvore!
+    at3: Você já distribuiu seus pontos nos Talentos Ninja!
+    at4: Pontos Distribuidos
+    at5: Pontos para Distribuir
+    at6: Você possui
+    at7: pontos
+    at8: para distruibuir na Árvore de Talentos.
+    at9: Adquira as Vantagens Vips!
+    at10: Distribuição dos Pontos
+    at11: |
+      Você ganha um ponto por level a partir do level 5, e seu último ponto no level 45, totalizando 40 pontos.<br />
+      Use-os com sabedoria, pois não será possível pegar todos os talentos com apenas 40 pontos !!
+    at12: Redistribuir pontos dos talentos ninja
+    at13: Redistribua os Pontos dos Talentos Ninja do seu Personagem se fizer algo errado, ou queira mudar a estratégia !!
+    at14: Dicas & Vantagens Vips dos Talentos Ninja
+  ativacao_ativado:
+    aa1: Conta Ativada
+    aa2: Parabéns! Sua Conta foi ativada com sucesso.
+    aa3: A partir de agora sua aventura como um ninja começa e para começar agora mesmo, utilize o formulário ao lado para acessar sua conta.<br />A equipe do Naruto Game agradece e lhe deseja uma boa sorte nas batalhas.
+  dados_cadastrais:
+    dados_atualizados: Dados Cadastrais Atualizados
+    dados_atualizados_msg: Seus dados cadastrais foram editados com sucesso.
+    atualize: Mantenha seu Cadastro Atualizado
+    atualize_msg: Mantenha seus dados cadastrais atualizados e corretos para que possamos enviar prêmios caso você ganhe algo no jogo.
+    facebook: Conecte sua conta do Facebook
+    facebook_msg: Deixe seus amigos no Facebook saberem quando você for campeão, obter novas conquistas e muito mais, basta clicar no botão abaixo para conectar sua conta do Naruto Game com o seu Facebook!<br />Após conectada, você poderá até mesmo logar diretamente no Naruto Game através da sua conta no Facebook.
+    sexo: Sexo
+    data_nasc: Data de Nascimento
+    feminino: Feminino
+    masculino: Masculino
+    cep: CEP
+    end_completo: Endereço Completo
+    cidade: Cidade
+    bairro: Bairro
+    estado: Estado
+    pais: País
+    newsletter: Desejo receber emails da Anime Game com novidades de seus projetos e jogos.
+    aceitar_news: Sim
+    nome_erro: |
+      Campo 'Nome' com valor inválido! Verifique os dados e tente novamente.
+    cep_erro: |
+      Campo 'CEP' com valor inválido! Verifique os dados e tente novamente.
+    endereco_erro: Campo 'Endereço' com valor inválido! Verifique os dados e tente novamente.
+  ativacao_enviar:
+    ae1: Ativação da Conta
+    ae2: Sua conta ainda não foi ativada.
+    ae3: Para enviar o e-mail com o link de ativação novamente
+    ae4: clique aqui
+    ae5: Para maior certeza verifique a possibilidade do seu provedor de e-mail não estar marcando a mensagem como spam.
+  ativacao_erro:
+    ae1: Problema na Ativação
+    ae2: Sua conta ainda não está ativada
+    ae3: |
+      Sua conta não pode ser ativada, veja os seguintes motivos: <br /> Chave de validação expirada. Para esse caso, utilize o formulário de login com os dados utilizados para se cadastrar e siga os passos.<br />Sua conta ja está ativada<br /><br />Se nenhuma das soluções acima funcionar, entre em contato com o nosso suporte: <a href="mailto:suporte@narutogame.com.br"><strong>suporte@narutogame.com.br</strong></a>
+  ativar_conta_manual:
+    acm1: Ativação Manual
+    acm2: Caso não tenha recebido o email com a validação de sua conta, agora você não precisa mais de nossa ajuda para logar em sua conta. Basta digitar seu email abaixo para ativar sua conta sozinho agora mesmo!
+    acm3: Digite o email da sua conta
+  atributos:
+    a1: Fórmulas
+    a2: Atributos e Fórmulas ( Nome / Descrição / Bônus)
+    a3: Fórmula da Vida
+    a4: Fórmula do Chakra
+    a5: Exclusiva para ( Nin / Gen )
+    a6: Chakra ( Nin / Gen )
+    a7: Exclusiva para ( Tai / Buk )
+    a8: Chakra ( balanceado)
+    a9: Fórmula da Stamina
+    a10: Exclusiva para Balanceado
+    a11: Stamina ( balanceado )
+    a12: de Defesa Base
+    a13: de Ataque ( Tai / Buk )
+    a14: de
+    a15: de Percepção
+    a16: Crítico
+    a17: Fórmula do Ranking de Ninjas ( Pontos / Descrição)
+    a18: Por level da Equipe
+    a19: Level
+    a20: Por graduação do player
+    a21: pontos
+    a22: A cada graduação
+    a23: Por Vitória Mapa PVP
+    a231: Por Vitória Dojo PVP
+    a24: Por Vitória Dojo NPC
+    a25: Por Derrota Mapa PVP
+    a251: Por Derrota Dojo PVP
+    a26: Por Derrota Dojo NPC
+    a27: Por Fuga
+    a28: Total de treino
+    a29: Por tarefa concluída
+    a30: Por missão D concluída
+    a31: Por missão C concluída
+    a32: Por missão B concluída
+    a33: Por missão A concluída
+    a34: Por missão S concluída
+    a35: Por Missão de Invasão concluída
+    a36: Por Missão de Invasão falha
+    a37: Por Objetivo de Organização Solo
+    a38: Por Torneio Npc Vencido
+    a39: Por Torneio PVP Vencido
+    a40: Por Alvo do Bingo Book Derrotado
+    a41: vitória mapa pvp
+    a411: vitória dojo pvp
+    a42: vitória dojo npc
+    a43: derrota mapa pvp
+    a431: derrota dojo pvp
+    a44: derrota dojo npc
+    a45: fuga
+    a46: Total do Treino
+    a47: Total de Tarefa
+    a48: Total de missão D
+    a49: Total de missão C
+    a50: Total de missão B
+    a51: Total de missão A
+    a52: Total de missão S
+    a53: Total de missão invasão
+    a54: Total de missão solo
+    a55: Total de torneio npc
+    a56: Total de torneio pvp
+    a57: Total derrotado
+    a58: Fórmula do Ranking de Equipes ( Pontos / Descrição)
+    a59: Por Vitória nos Desafios de Equipe
+    a60: Por Derrota nos Desafios de Equipe
+    a61: Vitória
+    a62: Por Vitória nos Desafios de Equipe
+    a63: Por Derrota nos Desafios de Equipe
+    a64: Por Vitória no Evento de Equipe
+    a65: Por Derrota no Evento de Equipe
+    a66: Por tarefa falha
+    a67: Por missão D falha
+    a68: Por missão C falha
+    a69: Por missão B falha
+    a70: Por missão A falha
+    a71: Por missão S falha
+    a72: Fórmula do Ranking de Organizações ( Pontos / Descrição)
+    a73: Por vitória da Organização em missão de invasão
+    a74: Por derrota da Organização em missão de invasão
+    a75: Por Objetivo de Organização Solo Completo
+    a76: Por Objetivo de Organização Grupo Completo
+    a77: Total de Vitórias
+    a78: Total de Derrotas
+    a79: Total de Missões
+    a80: Por level do Jogador
+    a81: Por vitória 4x4 dojo
+    a82: Por derrota 4x4 dojo
+    a83: Vitória 4x4 dojo
+    a84: Derrota 4x4 dojo
+    a85: de Defesa ( Tai / Buk )
+    a86: de Defesa ( Nin / Gen )
+    a87: Fórmula da Experiência Ninja ( Pontos / Descrição )
+    a88: Bingo Book morto
+    a89: Batalhas PVP
+    a90: Vitórias NPC
+    a91: Vitórias PVP
+    a92: Missões
+    a93: Vitórias 4x4 PVP
+  aviso_legal:
+    al1: Aviso Legal
+    al2: |
+      <em>Naruto Game</em> é um site de fãs, não tendo nenhuma relação com qualquer série ou
+      personagem citado no site, bem como nenhuma participação em qualquer etapa de produção
+      ou comercialização da série.<br />
+      <br />
+      O sistema de jogo baseado em WEB <em>Naruto Game</em> foi desenvolvido por uma equipe de fãs de
+      Naruto, sendo gratuito e sem fins lucrativos, podendo sofrer alterações a qualquer momento
+      sem prévio aviso. Todos os direitos relativos ao sistema de jogo baseado em WEB <em>Naruto Game</em>, bem como os de utilização do software e de sua base de dados, são de propriedade da
+      referida equipe, nos termos dos art. 1&ordm; e 2&ordm; da Lei Brasileira de Proteção ao Software &ndash; Lei
+      Federal n.&ordm; 9.609/98. O objetivo do site é a divulgação do anime/mangá como fonte de cultura
+      para o público em geral, nos termos do art. 215 da Constituição Federal de 1988 da República
+      Federativa do Brasil, respeitados os respectivos direitos autorais, de propriedade do criador
+      Masashi Kishimoto.<br />
+      <br />
+      Todas as imagens, logotipos e nomes do anime supracitado são marcas registradas de seu
+      criador, pelo que o uso de &ldquo;screenshots&rdquo; dos personagens e eventuais referências à série não
+      constitui ofensa aos direitos autorais dos proprietários da série, nos termos do art. 46, inciso
+      VIII da Lei Brasileira de Direitos Autorais &ndash; Lei Federal n.&ordm; 9610/98, e art. 13 do Acordo
+      Internacional sobre Aspectos dos Direitos de Propriedade Intelectual Relacionados ao
+      Comércio (<em>TRIPS &ndash; Trade Related Aspects of Intellectual Property Rights</em>).<br />
+      <br />
+      Para todas as questões relacionadas ao servidor no qual a mídia específica ao jogo é
+      disponibilizada, informações originadas deste servidor residem em um sistema de computador
+      financiado pela equipe de fãs responsável pelo sistema de jogo e/ou terceiros a ela associados,
+      podendo a utilização deste sistema ser monitorada para fins de segurança. Todo acesso não autorizado
+      a este sistema, por quaisquer meios, é proibido, e o infrator está sujeito às sanções
+      penais cabíveis &ndash; sem prejuízo da responsabilização civil e consequente indenização por perdas
+      e danos, nos termos dos arts. 186, 187 e 927, todos do Código Civil Brasileiro de 2002.<br />
+      <br />
+      Em nenhuma hipótese poderá o site <em>Naruto Game</em>, bem como sua equipe responsável ou
+      quaisquer pessoas ou sites relacionados a este, serem responsabilizados por qualquer usuário
+      ou parte legitimada pela ocorrência de quaisquer danos diretos, indiretos, potenciais ou outros
+      danos conseq&uuml;entes da utilização deste site ou qualquer de seus links, estando cientes desde
+      já da possibilidade &ndash; ainda que tomadas todas as diligências necessárias ao bom
+      funcionamento do programa por parte da equipe &ndash; da ocorrência de tais danos.<br />
+      <br />
+      Qualquer tipo de arrecadação ou doações feitas ao <em>Naruto Game</em> serão revertidas em
+      melhorias ao site, divulgação deste e do anime, em observância ao projeto não ter quaisquer
+      fins lucrativos.
+      Todas as doações são pessoais e intransferiveis, ou seja, não podem ser repassadas a outro jogador ou conta cadastrada no jogo<br />
+      <br />
+      Ao continuar o acesso ao <em>Naruto Game</em>, você está expressamente concordando com todos os
+      avisos e condições de uso citadas no site, bem como com todos os termos supracitados,
+      afirmando ainda que você preenche os requisitos estabelecidos em Lei sobre o conteúdo e
+      utilização deste site.
+  bijuus:
+    b1: Bijuus
+    b2: Sobre os Bijuus
+    b3: |
+      Diariamente 9 jogadores serão sorteados para se tornarem Jinchuurikis. A cada dia que você entrar no jogo, receberá um ponto. Quantos mais pontos tiver, maior sua chance de ganhar uma Bijuu!<br /><br /><strong class="laranja">Atenção:</strong> Você não poderá receber a mesma Bijuu duas vezes no mesmo round.
+    b4: Quantidade de Player / Grupos de Pontos
+    b5: |
+      Todos os jogadores começam com 10 pontos e sempre em seu primeiro login do dia ganham +1 ponto. (Somente 1 ponto por dia)<br />
+      Os pontos foram divididos em 20 grupos e o sorteio começa sempre pelo grupo de maiores pontos (191 ~ 200).<br />
+      Caso não tenha jogadores nos grupos de maior ponto, o sorteio passa para os grupos anteriores até localizar um grupo com jogadores e fazer o sorteio dentro daquele grupo de forma randômica.<br />
+      Os jogadores escolhidos pelo sorteio voltam a ter 1 ponto e com isso voltam para o último grupo (1 ~ 10), assim os outros jogadores que estão nos grupos mais a frente terão sua chance de ganhar também!
+    b6: No momento você tem
+    b7: jogadores
+    player: Jogador
+    mapa_origem: Mapa de origem
+    no_mapa: No mapa
+    mapa_vazio: Este local está vazio
+    mapa_longe: O ponto onde você quer ir é muito longe!
+    coords: Coordenadas do mapa
+    mundi: Mapa Mundi
+    b8: Sobre as Espadas da Névoa
+    b9: |
+      Diariamente 7 jogadores serão sorteados para se tornarem Portadores das Espadas da Névoa. A cada dia que você entrar no jogo, receberá um ponto. Quantos mais pontos tiver, maior sua chance de ganhar uma Espada!<br /><br /><strong class="laranja">Atenção:</strong> Você não poderá receber a mesma Espada duas vezes no mesmo round.
+  cadastro:
+    ca1: Crie sua Conta
+    ca2: Agora falta pouco!
+    ca3: |
+      Preencha os dados abaixo para criar sua conta do Naruto Game e ter seu personagem nessa aventura.<br />Após seu cadastro será enviando um email para que você confirme seu cadastro, portanto é necessário informar um EMAIL VÁLIDO, para que possa jogar Naruto Game!
+    ca4: Nome Completo
+    ca5: Confirmar Email
+    ca6: Senha
+    ca7: Confirmar Senha
+    ca8: Pais
+    ca9: Sexo
+    ca10: Masculino
+    ca11: Feminino
+    ca12: Leia o contrato abaixo com atenção
+    ca13: |
+      Termos e condições de uso para jogar Naruto Game ( Jogo online Web Based )
+      SISTEMA:
+      O sistema/jogo NarutoGame foi desenvolvido como ferramenta de divulgação do anime &ldquo;Naruto&rdquo; e foi desenvolvido 100% por brasileiros sendo o único sistema de RPG WEB Based brasileiro (Primeiro sistema de Role Play Game em versão internet do Brasil).
+      Todas as imagens e nomes aqui mencionado no sistema/jogo pertence ao seu criador &ldquo;Masashi Kishimoto&rdquo;. Todos os direitos reservados.
+
+      CADASTRO:
+      Todo usuário tem direito a uma conta no NarutoGame, esta conta e de uso pessoal e intransferível não devendo ser utilizada em conjunto com um ou mais jogadores.
+      Cada usuário é responsável pela sua conta e senha não devendo repassar as mesmas a outras pessoas, nem mesmo membros da STAFF.
+
+      JOGO:
+      O sistema/jogo NarutoGame foi desenvolvido baseado em regras de sistemas de RPG e também baseado na história do anime.
+
+      A utilização do sistema/jogo deve seguir as seguintes regras:
+
+      1&deg; Fica proibido o uso do jogo para fazer propagandas de venda de qualquer anime.
+      2&deg; Fica proibido o uso de bugs e falhas encontradas na programação, o player que utilizar-se deste tipo de vantagem terá sua conta NERFADA/BANIDA.
+      3&deg; Cada usuário tem direito a uma conta no jogo, esta conta deve ser utilizada apenas para o seu propósito no jogo.
+      4&deg; Fica extremamente proibido qualquer player se passar por membro da STAFF, em caso de confirmação o player terá sua conta NERFADA/BANIDA.
+      5&deg; Todos os players que insultarem outros jogadores ou membros da STAFF serão BANIDOS sem prévio aviso.
+      6&deg; Fica proibido a qualquer player vender ou leiloar sua conta no NarutoGame, caso comprovado a conta será BANIDA
+      7&deg; Todas as contas que contenham nomes ilegais, ofensivos ou que contenham frases imorais ou que façam diferença entre cor, credo ou raça, serão BANIDAS.
+      8&deg; Todas os jogadores que utilizem sua conta para proliferar material pornográfico, ilegal e racista serão BANIDOS.
+      9&deg; A utilização do sistema de jogo baseado em WEB Naruto Game é gratuita e sem fins lucrativos, nosso intuito é a divulgação do anime/manga para todas as pessoas, respeitando os direitos autorais que são marcas registradas do criador Masashi Kishimoto.
+      10&deg; Toda conta sem utilização por mais de 30 dias será excluída de nossa base de dados por inatividade.
+      11&deg; Todo usuário do sistema/jogo fica ciente que pode sofrer eventuais ofensas através do sistema de mensagens do jogo. A equipe NarutoGame não se responsabiliza por qualquer ofensa de seus usuários.
+      12&deg; Ao fazer o cadastro no NarutoGame, o usuário assume estar ciente que a equipe não se responsabiliza por quaisquer tipos de perdas em suas contas no sistema/jogo, sejam elas causadas por hackers ou bugs no sistema. Em caso de discordância destes termos o usuário fica proibido de fazer o cadastro no Sistema/Jogo.
+      13&deg; Todas as imagens, logotipos e nomes referentes ao anime aqui citados, pertencem ao seu criador. Este sistema de jogo WEB Based foi desenvolvido por uma equipe de fãs de Naruto e pode sofrer alterações a qualquer momento sem prévio aviso.
+      14&deg; Qualquer tipo de arrecadação com o site será transformado em melhorias no site, divulgação do site e divulgação do anime e também será revertida em brindes para todos os usuários.
+      15&deg; Qualquer tipo de arrecadação com o sistema/jogo será transformado em melhorias no jogo, divulgação do jogo e divulgação do anime e também será revertida em brindes para todos os usuários que colaborem adquirindo contas vips.
+
+      O usuário, ao se cadastrar, declara que está ciente dos termos e condições do jogo Naruto Game, que constam nos itens AVISO LEGAL, POLíTICA DE PRIVACIDADE E TERMOS DE USO, bem como dos termos mencionados acima.
+
+      O usuário declara ainda que está ciente de seus deveres como jogador, constantes na seção &quot;Regras &amp; Punições&quot;, assumindo o compromisso de seu fiel cumprimento, pelo que a não observância destes acarretará em penalidades.
+    ca14: Declaro que li e concordo com os
+    ca15: Termos de Uso
+    ca16: Política de Privacidade
+    ca17: Regras e Punições
+    ca18: Declaro que li e concordo com todos os termos e anexos apresentados
+    ca19: Campos obrigatórios
+    ca20: Insira o código ao lado para checagem anti-spam
+  calculadora:
+    ca1: Calculadora Ninja
+    ca2: Resultado Calculado do seu Personagem
+    ca3: Abaixo segue o resultado dos atributos e habilidades escolhidas por você.
+    ca4: Aumente seu HP treinando o seu atributo Energia e Resistência
+    ca5: |
+      Aumente seu Chakra treinando os seguintes atributos: Ninjutsu, Genjutsu, Inteligência e Energia
+    ca6: |
+      Aumente sua Stamina treinando os seguintes atributos: Taijutsu, Força e Energia!
+    ca7: Calcule os Pontos de seu Personagem
+    ca8: |
+      Abaixo você tem a possibilidade de testar seu personagem, de forma simples e rápida.<br />Escolha sua classe ninja, seu level, seu clã, sua invocação, seu selo, portão, mode sennin e distribuindo seus pontos de atributos. Após tudo isso basta clicar no botão "Calcular Atributos" e ter idéia de como ficaria seu personagem antes mesmo de fazer no próprio jogo.
+    ca9: Atributos e Habilidades
+    ca10: Classe do personagem
+    ca11: Nível do personagem
+    ca12: Distribua os Atributos
+    ca13: Selecione as Habilidades
+    ca14: Clã
+    ca15: Invocação
+    ca16: Selo
+    ca17: Modo Sennin
+    ca18: Portões
+    ca19: Filtrar
+    ca20: Escolha um tipo de habilidade ao lado
+  camisetas:
+    c1: Como Comprar
+    c2: |
+      As camisetas do Naruto Game foram feitas para serem sorteadas no Site e também para que nossos jogadores possam comprar e ter um produto de qualidade e bom gosto em seu armário.<br />
+      <br />Para as Camisetas a única forma de pagamento válida é o PagSeguro, porque nele é 100% certo que acharemos sua compra e não teremos atraso por falta de dados para comprovar seu pagamento.<br />
+      <br />Para Visualizar os Modelos Disponiveis acesse: <a href="http://animegame.com.br/loja/naruto-game/camisetas-ng" class="linkTopo" target="_blank">Loja Anime Game - Camisetas do NG</a><br /><br />
+    c3: O prazo de envio das camisetas séra de 7 a 10 dias úteis por que não temos como ter estoque das camisetas, portanto, todas serão feitas por encomenda.<br /><br />O prazo será menor para camisetas que tivermos em estoque!
+    c4: Camisetas
+  carteirinha:
+    c1: Registro Ninja - Carteirinha
+    c2: Carteirinha Ninja
+    c3: |
+      Agora você pode comparar seu desempenho com seus amigos de uma forma muito mais rápida e divertida.<br /><br /><strong class="verde">Importante:</strong> A carteirinha ninja atualiza-se todo dia às 01:00 da madrugada.
+    c4: Envie sua Carteirinha Ninja para o Facebook
+    c5:  Carteirinha Ninja do
+    c6: No Seu Orkut
+    c7: Copie e cole o texto abaixo no seu orkut ou no orkut  de seu amigo
+    c8: No Seu Site
+    c9: Copie e cole o texto abaixo no seu site ou no site  de seu amigo
+  invocacoes:
+    errors:
+      already: Você já tem pacto com uma invocação
+      chakra_gate: Você não pode possuir os portões de chakra para aprender uma invocação
+      lacking: Distribua todos os pontos antes de aprender a invocação
+      denied: Você tentou distribuir pontos em atributos não permitidos
+      maxed: Você tentou por mais pontos do que o permitido em um ou mais atributos
+      total: Você tentou distribuir mais pontos que o disponível
+  clas:
+    c1: Saindo do clã fara você perder todas as habilidades e jutsus do mesmo.
+    c2: Você também perderá qualquer equipamento de clã!
+    sair1: Por essa a sua primeira vez, você não irá gastar nada por sair do clã, porém, as próximas vezes serão cobradas.
+    sair2: Também serão necessários 1000 ryous.
+    sair3: Também serão necessários 2 Créditos VIP.
+    c4: Quer continuar?
+    c5: Clãs
+    c6: Parabéns!
+    c7: Você agora faz parte do clã
+    c8: Depois de seu esforço no treinamento, você aprendeu usar
+    c9: Você faz parte do Clã
+    c10: Escolha um Clã
+    c11: Você ganhou os seguintes prêmios
+    c12: Você realmente aceitar esse selo?
+    errors:
+      already: Você já faz parte de um clã
+      chakra_gate: Você não pode possuir os portões de chakra para aprender o clã
+      lacking: Distribua todos os pontos antes de aprender o clã
+      denied: Você tentou distribuir pontos em atributos não permitidos
+      maxed: Você tentou por mais pontos do que o permitido em um ou mais atributos
+      total: Você tentou distribuir mais pontos que o disponível
+  comprando_vip:
+    cv1: Seja Vip
+    cv2: Selecione um plano VIP!
+    cv3: Selecione uma forma de realizar sua doação
+    cv4: Você confirma o valor a ser doado?
+    cv5: Carregando...
+    cv6: Comprovante enviado!
+    cv7: Se seus dados estiverem corretos em breve seus cr&eacute;ditos VIP estarão liberados para uso.
+    cv8: Sistema de Créditos
+    cv9: |
+      O Naruto Game é um jogo gratuito e sem fins lucrativos, e por isso a contribuição de seus jogadores é fundamental para que,
+      cada dia mais, o jogo se desenvolva e melhore suas funcionalidades. Qualquer tipo de arrecadação ou doações feitas ao Naruto
+      Game serão revertidas em manutenção e melhorias ao site, bem como divulgação deste e do anime. E contribuindo com sua doação
+      ao jogo, além de nos ajudar a cada dia melhorar o Naruto Game, você, jogador, passa a ser um Jogador VIP, com acesso à vantagens exclusivas.<br /><br />
+      O Sistema VIP permite usufluir do valor doado de forma inteligente, e o valor doado é convertido para você em créditos, conforme descrito abaixo
+    cv10: Valor doado
+    cv11: Plano
+    cv12: Vantagens Vip
+    cv13: Bônus no jogo
+    cv14: créditos
+    cv15: |
+      Ao adquirir seu  Plano Vip tenha a certeza que:<br />
+      <br />
+      - Seus créditos não expiram por falta de uso.<br />
+      - A sua conta ser&aacute; Vip por tempo indeterminado e participar&aacute; sempre de promoções exclusivas ( Vantagens Vip ).<br />
+      - Todos os personagens de sua conta podem usufluir dos créditos.<br />
+      - Estar colaborando com a manuntenção e evolução do jogo.<br />
+      <br />
+      Com a opção PagSeguro, você poderá doar com todos os Cartões de Crédito, Transferências Bancárias e Boletos Bancários. <br />
+      Abaixo segue a lista de planos do sistema VIP do Naruto Game:
+    cv16: Todos os créditos adquiridos só serão liberados após Confirmação da Doação, no caso de depósitos e cartões de créditos o limite é de 24 a 48 horas, no caso de boletos somente após a Confirmação da Doação que pode levar até 4 dias.
+    cv17: Formas de Doação
+    cv18: Doações Nacionais
+    cv19: Doações Internacionais
+  conquistas:
+    c1: Conquistas Ninja
+    c2: Pontos de Experiência
+    c3: Pontos de Energia Treinados
+    c4: Pontos de Inteligência Treinados
+    c5: Pontos de Resistência Treinados
+    c6: Pontos de Força Treinados
+    c7: Pontos de Agilidade Treinados
+    c8: Pontos de Selo Treinados
+    c9: Pontos de Taijutsu Treinados
+    c91: Pontos de Bukijutsu Treinados
+    c10: Pontos de Ninjutsu Treinados
+    c11: Pontos de Genjutsu Treinados
+    c12: Créditos VIP
+    c13: Título ninja
+    c14: Na Vila
+    c15: Classe
+    c16: Clã
+    c17: Missão
+    c18: Missões Ranking
+    c19: Graduação
+    c20: Possuir o elemento(s)
+    c21: Nível igual ou superior a
+    c22: Possuir a Especialização
+    c23: Possuir a Invocação
+    c24: Possuir o Selo
+    c25: no dojo
+    c26: no mapa mundi
+    c27: no mapa da vila
+    c28: em qualquer lugar do jogo
+    c29: Derrote
+    c30: Jogadores
+    c31: vez(es)
+    c32: do dojo
+    c33: Derrote o npc
+    c34: Requer vencer o desafio de equipes
+    c35: no total de Vida
+    c36: no total de Chakra
+    c37: no total de Stamina
+    c38: de créditos VIP
+    c39: Requer vencer o torneio
+    c40: |
+      Você finalizou a seguinte Conquista:
+    c41: |
+      e ganhou as seguintes recompensas:<br />
+    c42: Meu Ninja
+    c43: ganhou a Conquista
+    c44: |
+      Requer a arena <b>%s</b>
+    c45: Requer %s jogador(es) morto(s) na arena
+    c46: Requer %s vitoria(s) na arena
+    c47: Requer que a equipe inimiga tenha média de nível maior ou igual a %s
+    c48: Requer que a equipe inimiga tenha nível maior ou igual a %s
+    c49: Requer que a equipe inimiga seja da vila %s
+    c50: Ser alvo do seu bingo book
+    c51: Ser alvo de bingo book da sua organização
+    c52: Matar o NPC do Modo História
+    c53: Matar o NPC do Evento de Equipe
+    c55: Complete o Tutorial Iniciante
+    c56: Troque o layout para do Round 8
+    item_tipo: |
+      Ter um item do tipo "%s"
+    ser: |
+      Ter graduação %s ou superior
+    tema_vip: |
+      %s Temas VIP adiquiridos
+    tema_ultimate: |
+      %s Temas VIP Ultimate adiquiridos
+    c54: os NPCs da Guerra
+    c57: Vencer o Desafio do Sensei
+  diplomacia:
+    d1: Diplomacia
+    d2: Sobre a Diplomacia
+    d3: O sistema de diplomacia é muito simples, os ninjas acima da graduação Chuunin devem viajar até o País do Ferro e votar na diplomacia que achar melhor, se sua vila será aliada ou inimiga das outras vilas. Cada personagem pode votar uma única vez. Ao viajar até o País do Ferro tome muito cuidado, pois a Akatsuki estará disposta a atrapalhar a votação, prepare-se para combates no meio do caminho.
+    d4: Neutro
+    d5:  Aliado
+    d6: Inimigo
+    d7: Resultado dos Votos
+    d8: |
+      Confira os votos que resultaram na diplomacia de sua vila e as demais vilas, os votos são agrupados e por vilas e ao clicar no nome das vilas você muda e verifica os dados de outras vilas.<br /><br /><strong class="verde">Lembretes</strong> A votação inicia-se em toda sexta feira e termina na mesma sexta feira ( 24 horas de votação ) e essa página é atualizada.
+  sorte:
+    msg_titulo: Desafie a Tsunade na Sorte Ninja
+    msg_desc: |
+      Conhecida como a maior azarada, Tsunade desafia você para um desafio de sorte.<br />Será você o único à perder para ela em um jogo de azar?<br /><br />
+      Agora o Sorte Ninja acontece todos os <strong>Dias da Semana!</strong><br /><br />
+      Lembrando que o sorte ninja fica INDISPONÍVEL das <strong>23:45</strong> até as <strong>00:15</strong>. Então fique atento a hora.<br /><br />
+    msg_unavailable: |
+      O sorte ninja está indisponível no momento. Volté após as 00:15 e teste sua sorte.
+    itens: Itens Disponiveis para o Sorteio
+    chances: Chances de Ganhar o Item
+    vezes: Qtd de Vezes Ganha
+    usada: Você não pode usar mais a Sorte Ninja por hoje!
+    s1: Sorte Ninja Especial da Semana
+    s2: |
+      Para jogar na Sorte Ninja Especial da Semana você precisa jogar na Sorte Ninja todos os dias da semana. Quando você completar sua participação em todos os sorteios, será habilitado um novo sorteio com os melhores prêmios do Sorte Ninja.<br /><br />
+  senha_trocar:
+    preencher_campos: Favor preencher todos o campos de senha
+    senhas_incorretas: As novas senhas não coincidem, por favor verifique os dados
+    senha_trocada: Sua senha foi alterada com sucesso.
+    senha_invalida: A senha atual digitada não é válida.
+    parabens: Parabéns
+    problema: Problema
+    msg_titulo: Fique Atento
+    msg_desc: |
+      Ao fornecer os dados de sua conta para estranhos, você corre o risco deles trocarem a senha e você perder o acesso de sua conta para sempre.<br /><br /> <span class="verde">AVISO:</span> Se você tem sua conta conectada no Facebook, alterar a senha no jogo, não altera nenhuma informação de senha no Facebook.
+    senha_atual: Senha Atual
+    nova_senha: Nova Senha
+    redigitar_senha: Redigite a Nova Senha
+    alterar_senha: Alterar Senha
+  selos:
+    rejeitar: |
+      Rejeitar o fara você perder todas as habilidades e jutsus do mesmo.<br /> Também serão necessários 2 créditos. <br /> Quer continuar?
+    possui: Você agora possui o
+    aprendeu: Depois de seu esforço no treinamento, você aprendeu usar
+    treinou: Você já treinou o Selo escolhido
+    tem: Você tem o selo
+    escolha: Escolha um selo
+    c1: Rejeitando o selo fara você perder todas as habilidades e jutsus do mesmo.
+    sair1: |
+      Por essa a sua primeira vez, você não irá gastar nada por rejeitar o selo, porém, as próximas vezes serão cobradas.<br />Quer continuar?
+    sair2: |
+      Para rejeitar o selo serão necessários 1000 ryous.<br />Quer continuar?
+    sair3: |
+      Para rejeitar o selo serão necessários 2 Créditos VIP.<br />Quer continuar?
+  divulgue_nos:
+    d1: Divulgue-nos
+    d2: No seu Orkut
+    d3: Naruto Game - Esse é o seu jeito Ninja de ser
+    d4: Descobri um jogo super legal de Naruto Web Game. <br /> Crie agora mesmo seu ninja e corra para conquistar o exame Gennin!
+    d5: Cadastre-se Grátis no Naruto Game
+    d6: (Copie e cole o texto acima no seu orkut ou no orkut  de seu amigo)
+    d7: No seu Site
+    d8:  tamanho
+  ranks:
+    filtros: Filtros do Rank
+    posicao: Posição
+    vila: Vila
+    lider: Líder
+    pontos: Pontos
+    personagem: Personagem
+    vit_dojo: Vitória Dojo NPC
+    vit_dojo_p: Vitória Dojo PVP
+    vit_mapa: Vitória Mapa PVP
+    der_dojo: Derrotas Dojo NPC
+    der_dojo2: Derrotas Mapa PVP
+    derrotas: Derrotas Dojo PVP
+    empates: Empates
+    fugas: Fugas
+    periodo: Período
+    diario: Diário
+    semanal: Semanal
+    mensal: Mensal
+    geral: Geral
+    nome: Nome
+    vit_dojo2: |
+       Vitórias<br />Dojo NPC
+    vit_dojop2: |
+      Vitórias<br />Dojo PVP
+    vitorias: |
+      Vitórias<br />Mapa PVP
+    derrotas_dojo: |
+      Derrotas<br />Dojo NPC
+    derrotas_dojo_pvp: |
+      Derrotas<br />Dojo PVP
+    derrotas_mapa: |
+      Derrotas<br />Mapa PVP
+    pop_up: |
+      Dicas & Vantagens Vips do Ranking de Ninjas
+    vantagens_titulo: Adquira as Vantagens Vips!
+    livro_reg: Livro de Registros
+    livro_reg2: Veja os atributos de seus inimigos e descubra seus pontos fortes e fracos para hora do combate.
+    spy_ninja: Espionagem Ninja
+    spy_ninja2: Veja os Talentos Ninja de seus inimigos e descubra como eles distribuiram seus pontos.
+    nome_level: |
+      Nome / Level
+  dojo:
+    d1: Batalhas Diárias do Dojo NPC
+    d2: |
+      Todos os Ninjas possuem um limite diário de combates contra os NPC do jogo, esse limite é de <span class="verde">%s combates</span>. Esse limite é resetado todos os dias apartir da <span class="laranja">Meia Noite ( 00:00 horas )</span>
+    d3: Combates NPC Diários
+    d4: de
+    nome_da_sala: Nome da Sala
+    nao_ha_desafiantes: Não há nenhum desafiante no momento!
+    msg_nivel: Você está em um nível diferente e não pode batalhar com esse personagem
+    check_nivel: Só quero jogadores do mesmo nível que eu
+    d5: Batalhas do Dojo PVP
+    d6: |
+      Aqui você pode duelar contra os oponentes de todas as vilas do jogo, de forma automatica o jogo tentará formar uma batalha contra um adversário do mesmo level que o seu, caso não tenha no momento, daremos um alvo com 1 level a menos ou mais que o seu.
+    d7: Treinamento Dojo PVP
+    d8: Nesse modo de Treinamento as batalhas não dão contadores de vitória, derrota, experiência, ryous e também não gastam sua vida, chakra e stamina ao final da luta. Aqui é apenas um modo de testar suas habilidades contra amigos ou inimigos que queiram participar desse treinamento juntamente com você.
+  indique:
+    i1:  Indique seus Amigos
+    i2: Indique seus Amigos e Ganhe!
+    i3: Copie a URL abaixo e passe para seu amigo e ganhe
+    i4: Caso o seu amigo se cadastre e chegue no level 10
+    i5: Caso o seu amigo se cadastre e adquira um plano vip.
+    i6: Nenhum amigo indicado ainda
+    i7: Sim
+    i8: Não
+  dojo_batalha_espera:
+    d1: Dojo - Aguardando Oponente
+    d2: Aguardando Oponente!
+    d3: Você criou um desafio com os ninjas de sua vila e em breve um deles pode aceitar seu combate, caso esteja demorando muito sinta-se &agrave; vontade para cancelar o desafio no seu menu ao lado!
+    d4: Desafio Dojo
+  dojo_batalha_multi:
+    db1: Batalha em Equipe
+    db2: Escolha um alvo para atacar!
+    db3: Escolha um player aliado para usar esse jutsu!
+    db4: Parabéns! Você venceu o Desafio
+    db5: Sua equipe ganhou o combate! Como recompensa ganhou os seguintes prêmios
+    db6: |
+      Ir para os <a href="?secao=equipe_detalhe" class="linkTopo">Detalhes da Equipe</a>
+    db7: Que pena!
+    db8: |
+      Sua equipe perdeu o combate! Ir para o <a href="?secao=hospital_quarto" class="linkTopo">hospital</a>
+    db9: Ataque Ninjutsu
+    db10: Menos cura ao usar jutsus medicinais
+    db11: De bonus de cura em jutsus medicinais
+    db12: Menos Ataque ( Nin / Gen )
+    db13: Menos Ataque ( Tai / Buk )
+    db14: Bonus em todos os Genjutsus
+    db15: Ataque ( Tai / Buk )
+  equipe_criar:
+    ec1: Nome da equipe não pode ficar em branco!
+    ec2: Selecione uma forma de criar a equipe!
+    ec3: Criar uma Equipe
+    ec4: Você não os requisitos necessários para criar a equipe.
+    ec5: A Senha da equipe não pode ficar em branco.
+    ec6: Quero liderar uma Equipe
+    ec7: É muito importante liderar uma equipe, ensine seus alunos como evoluir no jogo e serem ótimos ninjas para sua vila. Como bonificação você ganhará 5% em experiência por ninja derrotado no mapa.
+    ec8: 2000 Ryous e ser Chunnin
+    ec9: O nome precisa ter mais de 3 caracteres e menos de 14!
+  equipe_detalhe:
+    aceito: |
+      Você foi aceito na Equipe %s
+    recusado: |
+      Você foi recusado na Equipe %s
+    e1: Você não pode efetuar essa ação enquanto sua equipe estiver em missão
+    e2: |
+      Equipes - Recusado na equipe
+    e3: Seu pedido para entrar na equipe
+    e4: foi negado
+    e5: |
+      Não foi possível adicionar o(s) jogador(es) selecionado(s) porque sua equipe já está com o limite de 4 jogadores
+    e6:  |
+      Equipes - Aceito na Equipe
+    e7: Parabéns você foi aceito na equipe
+    e8: Você não pode sair ou expulsar membros enquanto a equipe estiver participando de um evento
+    e9: Você não pode deletar a equipe enquanto estiver em uma missão de equipe
+    e10: Você não pode deletar a equipe enquanto todos os integrantes(faltando
+    e11: não finalizarem a missão de equipe
+    e12: O líder da equipe
+    e13: Equipe removida
+    e14: deletou a equipe na qual você participava.
+    e15: Você não pode remover esse integrante pois ele ainda está na batalha 4x1/4x4
+    e16: Você não pode remover esse integrante pois ele ainda não finalizou a missão de equipe
+    e17: Expulso da equipe
+    e18: Você foi removido da equipe
+    e19: pelo líder
+    e20: Você realmente quer Deletar sua Equipe? Serão necessários
+    e21: Você realmente quer sair dessa Equipe? Serão necessário
+    e22: Confirma expulsar esse Jogador da sua Equipe? Serão necessário
+    e23: ryous para sair. Lembrando que esse jogador não poderá mais participar dessa equipe.
+    e24: ryous. Lembrando que esse jogador não poderá mais participar dessa equipe.
+    e25: Ocorreu um erro ao alterar a especialização!
+    e26: Especialização alterada com sucesso!
+    e27: Equipe
+    e28: Informações sobre Equipes
+    e29: |
+      A Equipe só poderá ser excluida quando apenas o Líder estiver nela, sem nenhuma missão ativa.<br />
+      Caso um ninja mude de equipe, não ganhará a mesma recompensa em outra equipe, só ganhará recompensas em niveis ainda não atingidos<br />
+      Sair de sua Equipe e ajudar outra em Eventos não te dá Experiência caso já tenha concluído o mesmo em outra equipe.
+    e30: Imagem inválida, muito grande ou de resolução acima do permitido!
+    e31: Você não possui ryous suficiente para essa ação.
+    e32: ALTERAR IMAGEM
+    e33: Tamanho máximo<br /> 659x162 (largura x altura). 300kb.
+    e34: EQUIPE
+    e35: de
+    e36: Levels
+    e37: Limite Semanal
+    e38: Prox. Level
+    e39: PONTUAÇÃO
+    e40: MISSÕES
+    e41: OPÇÕES
+    e42: Não é possível sair da equipe <br /> enquanto a missão atual não <br /> for encerrada ou cancelada.
+    e43: Médico
+    e44: Não é possível remover membros enquanto a missão atual estiver ativa.
+    e45: Jogador ainda em missão
+    e46: Você ainda está em missão
+    e47: Integrantes da Equipe
+    e48: Equipe Level
+    e49: Sua Equipe deve conseguir
+    e50: Todos os Ninjas da Equipe ganham
+    e51: Nenhum
+    e52: Pendência(s)
+    e53: Aceitar
+    e54: Recusar
+    e55: OBJETIVOS
+  equipe_especializacao:
+    ee1: Especialização da Equipe
+    ee2: Habilidade adquirida com sucesso!
+
+    ee3: Mudar ou Ativar uma Especialização
+    ee4: |
+      No momento você possui <span style="font-size: 12px; font-weight: bold;" class="verde"> %s pontos</span>.<br /><br />
+      Esses pontos são soma dos pontos ganhos diariamente em sua equipe. Cada jogador pode no máximo ganhar 700 pontos de experiência por dia. (Veja mais nos <a href="?secao=equipe_detalhe" class="linkTopo">Detalhes de sua Equipe</a>)<br/><br/>
+      Obs.: Você pode aprender todas as especializações, poderá mudar a qualquer momento FORA de combate. Esse bonus é válido apenas em combates 4x1 e 4x4
+    ee5: Medicinal
+    ee6: Mestre
+    ee7: Level
+    ee8: |
+      <b>Requerimentos</b><br /> Saiba o que você precisa para aprender essa habilidade:<br />
+
+  recupera_senha:
+    msg: Se você não lembra mais a sua senha, digite seu e-mail na qual fez o cadastro abaixo e clique em "enviar". Dentro de alguns instantes você receberá sua nova senha em seu email
+    digite_email: Digite o email da sua conta
+    codigo_ver: Código de verificação
+    senha_minima: A senha necessita ter no mínimo 6 caracteres!
+    senha_dif: As senhas digitadas não coincidem!
+    senha_ok: Parabéns
+    senha_ok2: Ap&oacute;s essa etapa sua senha sera alterada e você poder&aacute; jogar normalmente.
+    nova_senha: Digite sua nova senha
+    confirme_senha: Confirme sua nova senha
+    cod_segur: Código de Segurança
+    cod_ninja: O c&oacute;digo ninja digitado &eacute; inv&aacute;lido
+
+  ramen_shop:
+    pop_up_title: Dicas & Vantagens Vips do Ramen Shop
+    pop1: |
+      Recupere seu HP, Chakra e Stamina</a></b><br />
+    pop2: Ao comer ramen, seu ninja recupera Vida, Chakra e Stamina, e pode ser usado até mesmo no mapa !!
+    pop3: |
+      Ramens Reforçados</a></b><br />
+    pop4: Usando créditos, você pode comprar ramens reforçados que recuperam ainda mais seus atributos !!
+    construcao: Ramen Shop em Construção
+    construcao2: |
+      Os ninjas inimigos destruiram o Ramem Shop e por isso todos os ninjas pagam o
+      dobro do preço pelos itens por 24 horas.<br/><br/>
+      <strong>Punição Itens do Ramem Shop com o Dobro do preço por 24 horas.</strong>
+      <br /><br />
+      Tempo de punição restante: <span id="d-penality-timer">--:--:--</span>
+  proximo_nivel:
+    msg1: Parabéns, sua força está aumentando!
+    msg2: Você se esfor&ccedil;ou bastante  para poder chegar nesse momento e ver as gratificações de seu treino e empenho. Os seus inimigos v&atilde;o temer sua for&ccedil;a e suas novas habilidades.
+    if_torneio: |
+      <strong>AVISO:</strong>  Você está em torneio, para poder subir de nível, você será retirado do torneio pois seu nível será maior do que o permitido para participar nele.<br />
+  personagem_sel:
+    selecionar: SELECIONE SEU PERSONAGEM
+  equipe_forum:
+    ef1: Fórum da Equipe
+    ef2: Topico criado com sucesso!
+    ef3: Você criou um tópico e já pode ler as respostas dos outros jogadores nele.
+  equipe_forum_topico:
+    ef1: Mensagem postada com sucesso!
+    ef2: Sua resposta ao tópico foi enviada e já pode ser visualizada por todos os membros da equipe.
+  equipe_participar:
+    e1: Você realmente quer participar dessa equipe?
+    e2: Seu pedido para entrar na equipe foi enviado. Aguarde a aprovação do líder!
+    e3: Você não pode aceitar membros de sua própria conta em sua equipe
+    e4: Quero ser membro de Equipe
+    e5: Escolha a Equipe de seu amigo e clique no botão participar para enviar um pedido para entrar na equipe.
+  estudo_ninja:
+    e1: Estudo Ninja
+    e2: Troca efetuada com sucesso
+    e3: Você usou seus pontos e ganhou o seguinte prêmio
+    e4: |
+      No momento você possui <span class="verde"> %s pontos</span>.<br />Datas do Estudo Ninja: Terça, Quinta e Domingo. <br /><br />Veja abaixo a lista com prêmios disponiveis para troca, usando seus pontos do Estudo Ninja.<br /><span class="verde">IMPORTANTE:</span> Não faça o Estudo Ninja no <span class="verde">INTERNET EXPLORER 7</span>.
+    e5: |
+      <b>AVISO:</b> Você só pode trocar esse prêmio uma vez na sua conta(ou seja, após trocar, nem mesmo outros personagens seus poderão trocar os pontos por esse prêmio)
+  evento4:
+    e1: Eventos
+    e2: Sistema de Desafios
+    e3: |
+      É necessário estar em uma Equipe, então somente o Líder da Equipe, poderá aceitar os desafios, os desafios serão liberados de acordo com o Nível da equipe, cada Nível possui 3 desafios. Caso a equipe perca o desafio será contada um derrota na sua equipe e o evento estará disponível para ser feito novamente.<br /> Obs. Caso você tenha feito algum desafio e entre em outra equipe, esta nova equipe não poderá fazer os desafios que você já tenha feito.
+    e4: Aguarde...
+    e5: Sua equipe já participou nesse desafio
+    e6: Sua equipe ainda não participou desse desafio
+    e7: Dificuldade
+    e8: Normal
+    e9: Díficil
+    e10: Extremo
+    e11: Saiba qual level sua equipe precisa para esse combate
+    e12: Você precisa de uma equipe com 4 integrantes
+    e13: Algum player da equipe já concluiu esse desafio
+  evento_detalhe:
+    e1: Status do Evento
+    e2: Todos os oponentes deste evento foram eliminados
+    e3: Ainda faltam alguns inimigos para serem eliminados.<br />Os integrantes da sua equipe precisam derrotá-los para concluir o evento e receber sua recompensa<br />
+    e4: Não será possivel concluir esse evento caso você cancele. Continuar ?
+    e5: Ou se preferir, cancele a participação nesse evento
+  evento_listar:
+    e1: Como participar dos Eventos?
+    e2: |
+      Os Eventos são somente para ninjas a partir da Graduação Chunin e terá 24 Horas a partir da data de inicio do Evento, para que ele seja finalizado.<br /><br /> PS.: Ao cancelar um evento, você não terá chance de fazê-lo novamente nessa data.
+
+    e3: Nenhum evento disponível
+    e4: Você está nesse evento
+    e5: Você já participou nesse evento
+    e6: Você falhou nesse evento
+  graduacoes_espera:
+    g1: Graduações Ninja
+    g2: Parabéns!
+    g3: |
+      Você me impressionou com seu poder e astúcia durante nossa luta porém, <br /> aconselho você à dedicar-se  aos treinos, porque em nossa pr&oacute;xima luta usarei meus dois braços na batalha!<br /><br />
+    g4: Aguardando sua vez de treinar com o mestre!
+    g5: |
+      Chegou o momento de me mostrar tudo que aprendeu durante seus treinos e lutas.<br /> Espero que não me decepcione jovem ninja e mostre-me todo seu poder e veremos se &eacute; o bastante para graduar-se.<br /><br /><span class="verde" style="font-size:13px; font-weight:bold">Tempo restante
+  guild_detalhe:
+    aceito: Parabéns! Você foi aceito na organização %s
+    recusado: Você foi recusado na organização %s
+    confirmar_mensagem: Confirma enviar a mensagem atual para os integrantes da Organização?
+    confirmar_mensagem_t: Enviar mensagem para Organização
+    g1: Você não pode efetuar essa ação enquanto sua organização estiver em missão
+    g2: |
+      Organizações: Recusado na organização
+    g3: Seu pedido para entrar na organização %s foi negado.
+    g4: Não foi possível adicionar o(s) jogador(es) selecionado(s) porque sua organização já está com o limite de 20 players
+    g5: |
+      Organizações: Aceito na organização
+    g6: Parabéns você foi aceito na organização
+    g7: Você não pode efetuar essa ação enquanto o jogador estiver em uma missão diária da organização!
+    g8: Você não pode efetuar essa ação enquanto o jogador estiver em uma missão solo da organização!
+    g9: Você precisa remover todos os integrantes da sua organização antes de excluir a organização!
+    g10: Você não tem ryous suficientes
+    g11: Organização
+    g12: deixou a sua organização
+    g13: Você foi expulso da organização
+    g14: Título da mensagem não especificado!
+    g15: Corpo da mensagem não especificado!
+    g16: Sair da organização
+    g17: Você quer realmente deixar essa organização? Serão necessários
+    g18: Expulsar membro
+    g19: Você deseja expulsar esse membro da sua organização? Serão necessários
+    g20: para continuar. Lembrando que eles não poderão mais entrar na sua organização.
+    g21: ADMINISTRAÇÃO
+    g22: Missões Solo
+    g23: Missões Grupo
+    g24: Integrantes da Organização
+    g25: Organização Level
+    g26: Sua Organização deve conseguir
+    g27: Todos os Ninjas da Organização ganham
+  personagem_jutsu:
+    buffs: Buffs & Debuffs
+    conclusao: Conclusão do Jutsu em
+    treinando: Treinando o Jutsu
+    tempo_treino: Tempo de Treino
+    nivel_atual: |
+      Esse jutsu ja é nível %s porém você não tem requerimentos e ele está como nível %s
+    treinamento: Treinamento do jutsu concluído.
+    treinamento_msg: Você dedicou-se em treinar um jutsu e por seu esforço você ganhou pontos de experiência para poder evoluir o poder de seu jutsu.
+    jutsu_desc: Jutsu/Descrição
+    limite_atingido: Limite Atingido
+    limite_desc2: Todos os Ninjas possuem 3000 pontos diários e a cada dia esse valor será acumulado para que você possa treinar em outro dia, caso você não consiga logar em um determinado dia da semana.
+    limite_treinamento: Limite de Treinamento Semanal ....................................................
+    pop_up_title: Dicas & Vantagens Vips do Treinamento de Jutsu
+    desaprender_nivel: Você quer mesmo desaprender o nível desse golpe? Serão necessários 2 créditos VIP para essa operação!
+    creditos_low: Créditos insuficientes. Você precisa ter no mínimo 2 créditos VIP para essa operação!
+    estendido_vip: Treinamento de Jutsus Estendido
+    estendido_desc: Deixe mais tempo treinando sem precisar treinar várias vezes ao dia!
+    limite_vip: Treinamento Reforçado de Jutsu
+    limite_desc: Adicione ao seu total de treino diário 1000 Pontos!
+    msg_funciona_t: Como funciona o Treinamento de Jutsus
+    msg_funciona_desc: |
+      Cada Aprimoramento possui um determinado SLOT preferido para ser alocado, porém, você pode adicionar Aprimoramentos fora de seu SLOT preferido e <span class="laranja">perder 50% do Bônus daquele Aprimoramento</span>.
+  personagem_elementos:
+    pop_up_title: Dicas & Vantagens Vips dos Elementos Ninjas
+    mudar_elemento1: |
+      Desaprender esse elemento fara você perder todas as habilidades e jutsus do mesmo.<br />' +
+                   'Você também perderá qualquer equipamento que utilize esse elemento!<br />' +
+                    'Por essa a sua primeira vez, você não irá gastar nada por desaprender o elemento, porém, as próximas vezes serão cobradas.<br />Quer continuar?
+    mudar_elemento2: |
+      Desaprender esse elemento fara você perder todas as habilidades e jutsus do mesmo.<br />' +
+                   'Você também perderá qualquer equipamento que utilize esse elemento!<br />' +
+                    'Também serão necessários 1000 ryous.<br />Quer continuar?
+    mudar_elemento3: |
+      Desaprender esse elemento fara você perder todas as habilidades e jutsus do mesmo.<br />' +
+                   'Você também perderá qualquer equipamento que utilize esse elemento!<br />' +
+                    'Também serão necessários 2 créditos.<br />Quer continuar?
+    msg_titulo: Sobre os Elementos
+    msg_desc: Ninjutsu é qualquer técnica que manipula o chakra para ser realizada, e é a mais tradicional das artes ninja. É possivel ainda realizar a fusão de 2 tipos de chakras elementais, para formar um terceiro elemento, como você pode ver logo abaixo
+    novo_elemento1: Parabéns, você aprendeu um novo Elemento!
+    novo_elemento2: |
+            Vá ate as <a href="?secao=academia_jutsu&tipo=1" class="link_verde">Jutsus Elementais</a> e veja os novos jutsus que te esperam!
+    desaprender1: Você desaprendeu um elemento!
+    desaprender2: Com isso, você desaprendeu todos os jutsus ligados a esse elemento, ou relativo ao terceiro elemento!
+    saiba: Saiba o que você precisa para aprender esse elemento
+  guild_forum:
+    g1: Fórum da Organização
+    g2: Seu tópico foi criado e já pode ser visualizado pelos membros da sua Organização
+    g3: Sua resposta já pode ser visualizada por todos que visitarem este tópico
+    g4: Nenhuma resposta
+  guild_missoes:
+    g1: Missões de Organização
+    g2: Reputação com a sua vila
+    g3: Experiência para a organização
+    g4: para cada integrante da organização
+    g5: para seu personagem
+    g6:  Experiência para seu personagem
+    g7: Somente o líder pode aceitar essa missão
+    g8: Sua organização já está em uma missão desse tipo
+  guild_missoes_status_guild:
+    g1: Status da Missão
+    g2: Organização
+  guilds_criar:
+    g1: Criar Organização
+    g2: 15 Mil Ryous e ser Chunnin
+    g3: 3 Créditos e ser Level 15
+    g4: 15 Mil Ryous e ser Genin
+  guilds_participar:
+    g1: Organizações - Participar
+    alvo_vivo: Alvos Vivos
+    alvo_morto: Alvos Mortos
+  halldafama:
+    h1: Hall da Fama
+    h2: As memórias dos grandes ninjas do Naruto Game estão guardadas aqui, para que  possam sempre ser lembrados como heróis de suas temporadas.
+    h3: Caos
+    h4: do
+    h5: Legenda dos Prêmios
+    h6: Ganhador do
+    h7: Camiseta do
+    h8: Filtros de Ranking
+    h9: Melhor Organização
+    h10: Melhor Equipe
+    h11: Equipe de
+    h12: Top Geral
+    h13: Organização
+    h14: Pontos
+    h15: Equipe da
+    h16: Filtros do Ranking
+    h17: Hall da Fama de Equipes
+    h18: Hall da Fama de Organizações
+  historia:
+    h1: Modo História
+    h2: Seja um Héroi no Naruto Game
+    h3: Selecione abaixo a Saga e complete os desafios que os Hérois do Naruto tiveram e seja também um Héroi no Naruto Game.
+    h4: Ao completar todos os Desafios dessa Saga você ganhará
+    h5: ou maior
+    h6: Requer graduação
+    h9: Requer level
+    h7: Requer o npc
+    h8:  morto
+  historico:
+    h1: Histórico Ninja
+    h2: Estudante
+    h3: Informações do Personagem
+  home:
+    h1: Carregando...
+    h2:  |
+      Total de %s ninjas cadastrados
+    h3: Organização
+    h4: Equipe
+    h5: Estudo Ninja
+    h6: Conquistas
+    h7: |
+      Total de %s acertos
+    h8: jogadores
+  hospital_quarto:
+    h1: Dicas & Vantagens Vips do Hospital
+    h2: Adquira as Vantagens Vips!
+    h3: Recupere-se no Hospital Ninja
+    h4:  Gaste seus Ryous para recuperar 100% de seus atributos ou espere que há cada 2 minutos você recupera 20% de seus atributos automaticamente.
+    h5: Planos Especiais
+    h6: Adquira com créditos Planos Especiais que recuperam os atributos de seus Ninjas sem gastar Ryous.
+    h7: Quarto do Hospital
+    h8: Você foi muito machucado!
+    h9: Você possui o Cartão do Convênio, com ele é possível realizar seus tratamentos sem nenhum custo em Ryous.
+    h10: Ou você pode esperar gratuitamente um ninja médico de plantão te salvar, recuperando seu personagem por completo no máximo de 10 minutos. ( 20% do total de seus atributos à cada 2 minutos )
+    h11: Pague para um atendimento de qualidade,
+    h12: o especialista custa
+    h13: Ryous e você estará imediatamente curado.
+    h14: |
+      Você possui o Ticket do Hospital, com ele é possível realizar seus tratamentos sem nenhum custo em Ryous.
+  ie6:
+    i1: Não suportamos IE6
+    i2:  |
+      Nós do Naruto Game não damos mais suporte para o navegador Internet Explorer 6, caso você queira jogar o Naruto Game faça o download um dos seguintes browsers: Firefox, IE7, IE8 ou Google Chrome.<br />Agradecemos a colaboração de todos, e aguardamos você para jogar conosco em algum navegador mais recente.
+  ninja_shop:
+    pop_up_titulo: Dicas & Vantagens Vips do Ninja Shop
+    pop_up1: Adquira as Vantagens Vips!
+    pop_up2: Armas Especiais
+    pop_up3: Você pode comprar apenas uma arma de curto alcance por vez e essas Armas precisam ser Equipadas na página de Equipamentos Ninjas para que funcionem em Batalha.
+    pop_up4: Armas Especiais Vips
+    pop_up5: Usando créditos, você pode comprar uma arma mais forte ainda !!
+    pop_up6: Limite Quinzenal de Armas
+    pop_up7: As Armas de Longo Alcance só podem ser compradas a cada 15 dias, nos dias primeiro e 15 de cada mês.
+    pop_up8: Sobre os Aprimoramentos
+    pop_up9: Custo de Aprimoramentos
+    pop_up10: Você pode comprar essa Vantagem para reduzir a quantidade de Pontos de Batalhas necessários para comprar seus aprimoramentos!
+    recon1: Ninja Shop em Reconstrução
+    recon2: |
+      Ninjas inimigos destruiram o Ninja Shop e haverá uma falta de itens na vila.
+      <br/><br/><strong>Punição: Itens do Ninja Shop com o Dobro do preço por 24 horas,
+      contadas à partir da destruição.</strong>
+      <br /><br />
+      Tempo de punição restante: <span id="d-penality-timer">--:--:--</span>
+    recon3: Equipamentos Ninja em Reconstrução
+    recon4: |
+      Ninjas inimigos destruiram o Equipamentos Ninja e haverá uma falta de itens na vila.<br/><br/>
+      <strong>Punição: Itens do Equipamentos Ninja com o Dobro do preço por 24 horas, contadas à partir da destruição.</strong>
+      <br /><br />
+      Tempo de punição restante: <span id="d-penality-timer">--:--:--</span>
+  negado:
+    titulo: A última ação não foi processada corretamente
+    msg: |
+      A página que você tentou acessar não foi carregada e geralmente acontece pelos seguintes motivos:<br />
+      <br />
+      &bull; Você não tem permissão para abri-la ou tentou acessá-la de forma ilegal.<br />
+      &bull; Houve uma tentativa de redirecioná-lo para o local correto, mas algo impediu<br />
+      &bull; Sua conexão com o servidor não está estável<br />
+      <br />
+      Tente novamente, caso necessite de ajuda, use o sistema de Suporte.
+    msg_ban: |
+      Essa ação não está disponível pois sua conta está atualmente banida
+  mode_sennin:
+    parabens: Parabéns
+    parabens1: Agora você é um %s
+    parabens2: Depois de seu esforço no treinamento, você aprendeu usar %s
+    ms1: Modo Sennin
+    msg1: |
+      Usuários do Mode Sennin são extremamentes equilibrados e poderosos, e no Naruto Game eles não podem ter: (<span class="laranja">Portão ou Selo Amaldiçoado</span> ) e precisam obrigatoriamente ter a invocação dos Sapos, Cobras, Lesmas ou Armas Ninjas para aprenderem o Senjutsu.<br /><br /><strong>Requerimentos:</strong><br /><span class="verde">- Ter a invocação dos Sapos, Cobras, Lesmas ou Armas Ninjas - Não ter Portões de Chakra - Não ter Selo Amaldiçoado</span>
+    ms2: |
+      Aviso: Se você escolher treinar o Modo Sennin, não poderá aprender selos e portões de chakra!<br />Quer continuar ?
+    sair1: |
+      Por essa a sua primeira vez, você não irá gastar nada por desaprender o Mode Sennin, porém, as próximas vezes serão cobradas.<br />Quer continuar?
+    sair2: |
+      Para desaprender o Mode Sennin serão necessários 1000 ryous.<br />Quer continuar?
+    sair3: |
+      Para desaprender o Mode Sennin serão necessários 2 Créditos VIP.<br />Quer continuar?
+    ms4: Você é um
+    ms5: Escolha o Modo Sennin
+  missoes_status:
+    equipe_travada: O player %s esta ocupado em outra tarefa %s. Você só poderá aceitar as missões da equipe quando todos os players estiverem livres.
+    equipe_insuficiente: Sua equipe não tem integrantes suficientes
+    coordenadas_x: Coordenadas X de
+    coordenadas_y: e em Y de
+    seus_alvos: Seus alvos serão
+    falhou: Falhou
+    completa: Completa
+    outro_integrante: Outro Membro Já Concluiu
+    missoes_equipe1: Missão de Equipe
+    missoes_equipe2: |
+      As Missões de Equipe são interativas, ou seja, você e sua equipe tem que matar 4 inimigos no mapa mundi e ao completar os 4 ganham a recompensa.<br /><br />
+      Essas missões contam para a graduação e são excelentes para ganhar ryous e exp de forma rápida, porém, possua uma equipe bem participativa para não ter problemas em derrotar npcs sozinho.
+    msg: |
+      Você obteve mais %s pontos para o treino diário<br /><br />
+      Obs.: Esses pontos removem do seu total de treino diário, portanto, não finalize essa missão até ter treinado.<br /><br />
+    missao_ok1: Missão Concluída com Sucesso!
+    missao_ok2: |
+        %s <br /> %s <br />
+    missao_completa1: Missão Concluída com Sucesso!
+    missao_completa2: Como recompensa você receberá
+    conclusao: |
+        Conclusão da missão em:
+  invocacao:
+    i1: Invocações
+    i2: Você realmente quer criar esse pacto?
+    sair1: |
+      Quebrar o pacto fara você perder todas as habilidades e jutsus do mesmo.<br />Por essa a sua primeira vez, você não irá gastar nada por quebrar o pacto, porém, as próximas vezes serão cobradas.<br />Quer continuar?
+    sair2: |
+      Quebrar o pacto fara você perder todas as habilidades e jutsus do mesmo.<br />Também serão necessários 1000 ryous.<br />Quer continuar?
+    sair3: |
+      Quebrar o pacto fara você perder todas as habilidades e jutsus do mesmo.<br />Também serão necessários 2 Créditos VIP.<br />Quer continuar?
+    i4: Você já treinou a invocação escolhida.
+    i5: Você tem o pacto
+    i6:  Escolha um pacto
+    i7: Para quebrar o pacto você tem que primeiro desaprender o Modo Sennin!
+  ler_noticia:
+    l1: Ler Notícia
+    l2: Agradecemos o seu comentário
+    l3: Muito obrigado por participar de nosso jogo e sempre parcitipe para que o jogo sempre melhore com seus comentários!
+    l4: postado por
+    l5: em
+    l6: Esse personagem não pode mais postar comentários nas news e no forúm da vila por violar regras do jogo, se outro personagem de sua conta for bloqueado sua conta será bloqueada conforme termos explicitos nas regras do jogo.
+    l7: Deixe seu Comentário
+    l8: Comentário
+  licoes:
+    l1: Tarefas Iniciais
+    l2: Ajude sua vila em missões de verdade!
+    l3: |
+      Agora você já é Genin e deve ajudar sua vila fazendo as quests de level D, C , B , A e S.<br/><a href="?secao=missoes" class="linkTopo">Clique aqui</a> para ver a lista de Missões para você!
+  log_batalha:
+    lg1: Histórico de Batalha
+    lg2: Log de batalha VIP
+    lg3: Com o log de batalha VIP, além de ver suas próprias batalhas, você pode ver as batalhas que outros jogadores tiveram, até 5, 10 ou 15 vezes por dia dependendo do tipo que você adquiriu.
+    lg4: Filtros dos Logs de Batalhas
+    lg5: Jogador A
+    lg6: Jogador B
+    lg7: Hora de Início
+    lg8: Hora de Término
+
+    lg9: Você ainda não fez nenhuma batalha PVP
+    lg10: Nenhum resultado encontrado
+    lg11: Finalizada por inatividade
+    lg12: Batalha em progresso
+    lg13: Página
+  portoes:
+    p1: Se você aprender os portões de chakra, não poderá ter, clãs, mode sennin e o selo amaldiçoado!<br />Deseja continuar?
+    sair1: |
+      Por essa a sua primeira vez, você não irá gastar nada por desaprender os portões, porém, as próximas vezes serão cobradas.<br />Quer continuar?
+    sair2: |
+      Para desaprender os portões serão necessários 1000 ryous.<br />Quer continuar?
+    sair3: |
+      Para desaprender os portões serão necessários 2 Créditos VIP.<br />Quer continuar?
+    p3: Os 8 Portões de Chakra
+    p4: Parabéns!
+    p5: Depois de seu esforço no treinamento, você aprendeu usar
+    p6: Problema!
+    p7: Você já treinou o portão escolhido.
+  bingo_book:
+    msg_troca: Para trocar esse alvo serão necessários 5 créditos VIP
+    msg_troca2: Para trocar esse alvo serão necessários 5000 Ryous
+    msg_troca_ok: Alvo trocado com sucesso! Abra o bingo book novamente para ver seu novo oponente
+  actions:
+    a1: Naruto Game - Confirmação de cadastro
+    a2: Contato Naruto Game
+    a3: E-Mail de confirmação enviado com sucesso. Verifique sua caixa de entrada dentro de alguns instantes.
+    a4: E-Mail não encontrado em nosso banco de dados
+    a5: Conta Ativada com Sucesso!
+    a6: Agora você pode logar normalmente no Naruto Game.<br />Divirta-se em nosso jogo e qualquer problema entre em contato conosco.
+    a7: Sua conta ja está ativada
+    a8: Informações sobre o Bingo Book
+    a9: Objetivo do Bingo Book
+    a10: |
+      <b>*</b> Os ninjas listados aqui podem ser atacados sem restrição de level.<br/><br/>
+      <b>*</b> Quando encontra-lo e derrota-lo o ninja volta a ter a restrição normal de level imposta pelo jogo.<br/><br/>
+      <b>*</b> A recompensa é ganha apenas uma vez, depois disso qualquer combate contra o mesmo player vale como uma luta normal do jogo.<br/><br/>
+      <b>*</b> Somente Ninjas Jounin, ANBU, Sanin e Kage tem acesso ao Bingo Book.<br/><br/>
+      <b>*</b> Uma vez por semana é adicionado um alvo para você caçar. ( Caso você se transforme em Jounin, ANBU, Sanin ou Kage você só ganhará o seu primeiro alvo no dia determinado pelo jogo. ).<br/><br/>
+      <b>*</b> Toda Segunda-Feira os ninjas Jounin, ANBU, Sanin  e Kage recebem 1 alvo para caçar.<br/><br/>
+      <b>*</b> Você não conseguirá enviar mensagens para players do seu Bingo Book.<br/><br/>
+      <b>*</b> Os alvos nunca somem de seu bingo book.<br/><br/>
+    a10_1: |
+      <b>*</b> Os ninjas listados aqui podem ser atacados sem restrição de level.<br/><br/>
+      <b>*</b> Quando encontrá-lo e derrotá-lo o ninja volta a ter a restrição normal de level imposta pelo jogo.<br/><br/>
+      <b>*</b> A recompensa é ganha apenas uma vez, depois disso qualquer combate contra o mesmo player vale como uma luta normal do jogo.<br/><br/>
+      <b>*</b> Uma vez por semana é adicionado dois alvos para sua vila caçar.<br/><br/>
+      <b>*</b> Você não conseguirá enviar mensagens para players do seu Bingo Book.<br/><br/>
+      <b>*</b> Os alvos serão substituídos uma vez por semana.<br/><br/>
+    a11: |
+      <b>*</b> Fazer com que os players tenham a interatividade para buscar seus alvos em outras vilas e pesquisar sobre os mesmos. A tarefa não é fácil, porém, a recompensa é muito boa! <br/><br/>
+    a12: Nenhum Título
+    a13: Valor da Doação
+    a14: Qual é seu plano preferido?
+    a15: Campo 'E-Mail' com valor inválido! Verifique o dado e tente novamente
+    a16: O Endereço de email especificado ja está cadastrado, por favor use um endereço de e-mail diferente
+    a17: Campo 'Nome' com valor inválido! Verifique o dado e tente novamente
+    a18: |
+      Campo 'Senha' com valor inválido! No mínimo são requridos 6 caractéres e os caractéres permitidos são: 0-9 A-Z _
+    a19: Campos 'Senha' e 'Confirma senha' com valores diferentes! Verifique os dados etente novamente
+    a20: Campo de verificação necessita de 5 caractéres!
+    a21: Codigo de verificação inválido!
+    a22: Para prosseguir com o cadastro você deve aceitar o contrato
+    a23: Para prosseguir com o cadastro você deve aceitar os termos de uso
+    a24: Para prosseguir com o cadastro você deve aceitar à política de privacidade
+    a25: Para prosseguir com o cadastro você deve aceitar as Regras e Punições
+    a26: Foram encontrados os seguintes erros enquanto seu cadastro era processado
+    a27: Parabéns seu cadastro foi concluído com sucesso!
+    a28: Dentro de alguns instantes você receberá um e-mail com o link de confirmação do seu cadastro
+    a29: Confirmação de Cadastro
+    a30: Já existe um batalha declarada com esse nome!
+    a31: Você não pode criar essa batalha no momento, recupere sua vida, chakra e stamina antes!
+    a32: Essa batalha ja foi aceita por outro player. Por favor atualize a lista de lutadores!
+    a33: Essa batalha não foi autorizada e seu personagem será analisado pela equipe do Naruto Game!
+    a34: O ninja que você escolheu para batalhar, não esta em um nivel adequado para você!
+    a35: Você não pode lutar mais com esse player por hoje!
+    a36: Não é possível lutar com um player da mesma organização que a sua!
+    a37: Dados inválidos
+    a38: A página será recarregada!
+    a39: Por ambos estarem muito cansados, o combate terminou em empate!
+    a40: Empates!
+    a41: Como recompensa você estará recebendo
+    a42: pontos de experiência
+    a43: |
+      Ir para o <a href="?secao=hospital_quarto" class="linkTopo">Hospital
+    a44: Seu inimigo viu que você era mais forte e fugiu do combate.
+    a45: Seu oponente fugiu do combate!
+    a46: Ufa!
+    a47: Você conseguiu escapar de um tremenda enrascada! Como prêmio de consolação você ganhou
+    a48: Voltar ao
+    a49: Mapa da Vila
+    a50: Mapa
+    a51: Seu inimigo ficou sem efetuar uma ação por muito tempo e perdeu o combate.
+    a52: Parabéns!
+    a53: Por ficar muito tempo sem efetuar nenhuma ação, você perdeu o combate!
+    a54: Ops!
+    a55: Parabéns! Você venceu o combate!
+    a56: Você perdeu o combate.
+    a57: Que pena!
+    a58: Hospital
+    a59: Ir para o
+    a60: Bônus de batalha
+    a61: Pela sua participação você recebeu 50 pontos de treino!
+    a62: Não é sua vez de atacar!
+    a63: Você não tem chakra suficiente para usar essa técnica
+    a64: Você não tem stamina suficiente para usar essa técnica
+    a65: A habilidade escolhida ainda não está disponível
+    a66: Você so pode usar um tipo de habilidade sem turno por vez
+    a67: O item selecionado é inválido para esse tipo de ação
+    a68: Ninja controlador de elementos
+    a69: O ninja pode controlar até 3 elementos de uma vez, habilitando jutsus elementais
+    a70: Aguardando a sua ação
+    a71: Aguardando a ação do oponente
+    a72: Você já esta em combate no momento
+    a73: Você conseguiu escapar de um tremenda enrascada!
+    a74: Porém, perdeu
+    a75: Clique aqui
+    a76: para continuar
+    a77: Mapa Mundi
+    a78: |
+      Naruto Game: Missão de invasão
+    a79: Sua organização derrotou o NPC da missão de invasão e você recebeu 10 mil pontos de experiência e 20 mil ryous
+    a80: Como recompensa você estará recebendo RY$ 20000 e 10000 pontos de experiência
+    a81: Torneios
+    a82: Modo História
+    a83: e
+    a84: Adicionalmente você também ganhou os seguintes itens
+    a85: Combate Encerrado!
+    a86: Ataque inválido!
+    a87: Você não possui esse ataque!
+    a88: Player alvo inválido!
+    a89: O Jogador selecionado não está disponível para essa ação!
+    a90: Somente uma habilidade desse tipo por vez
+    a91: Escolha um player aliado para utilizar esse jutsu!
+    a92: Habilidade inválida!
+    a93: Você não pode usar esse jutsu em você mesmo!
+    a94: Você não pode usar esse jutsu em um player que foi derrotado!
+    a95: Esse não é o seu turno! Jutsus desse tipo so podem ser usado quando é o seu turno
+    a96: utiliza o jutsu medicinal
+    a97: Escolha um oponente para atacar!
+    a98: O jogador escolhido não está mais disponível para batalha!
+    a99: É o seu turno! Aguardando sua ação
+    a100: É o seu turno! Escolha um oponente e efetue sua ação
+    a101: Você está sendo atacado! Aguardando sua ação!
+    a102: Não é o seu turno, aguarde as ações do(s) oponente(s)
+    a103: Batalha de equipe 4x1/4x4
+    a104: A Equipe
+    a105: venceu o desafio
+    a106: Ganhando
+    a107: pontos de treinamento
+    a108: |
+      Você excedeu o número de %s batalhas no dojo por hoje!
+    a109: Você está muito fraco para lutar, recupere seus atributos e tente novamente!
+    a110: Dados inválidos. Nada de bandidar =(
+    a111: Chave inválida, não abra multiplas abas, nessa página.
+    a112: Você não possui o item especificado
+    a113: Desequipe o item especificado antes de continuar!
+    a114: O item escolhido está indisponível
+    a115: Um leilão desse item já está ativo, você só poderá colocar mais itens desse tipo após o termino do tempo/alguém comprar ou se cancelar o leilão
+    a116: Quantidade inválida!
+    a117: Valor inválido
+    a118: Horário inválido!
+    a119: O valor de compra não pode ser menor que lance!
+    a120: Leilão criado com sucesso
+    a121: Nenhuma ação adicional para esse item
+    a122: Já existe uma equipe com o nome especificado!
+    a123: O nome da equipe é inválido! Só são permitidos letras e números, com um espaço único que divida o nome ou sem nenhum espaço!
+    a124: O nome da equipe não pode ter mais que 25 caractéres!
+    a125: Chave se sessão inválida! Se você abriu mais de uma aba isso invalida a última página aberta
+    a126: Você não pode entrar mais nessa equipe porque você foi expulso ou saiu dela anteriormente!
+    a127: A equipe escolhida já possui o número máximo de integrantes!
+    a128: enviou um pedido para entrar na sua equipe
+    a129: O jogador
+    a130: GM Cadastrou item errado! Favor notificar!
+    a131: Informações sobre o Estudo Ninja
+    a132: |
+      O Estudo ninja não pode ser realizado durante as 11:45 até as 00:15
+    a133: |
+      O tempo da sua prova no Estudo Ninja foi expirado ou você já finalizou ele hoje.<br/><br/>
+      Os dias que o Estudo Ninja é liberado são: Terça, Quinta e Domingo.<br/><br/>
+    a134: |
+      <b>*</b> O estudo ninja encerra em: <span id="f-estudo-ninja-c-timer" style="font-size: 18px;"></span><br/><br/>
+      <b>*</b> São 10 perguntas com 5 alternativas cada, sendo apenas 1 certa.<br/><br/>
+      <b>*</b> Terça, Quinta e Domingo são os dias do Estudo Ninja.<br/><br/>
+      <b>*</b> A cada acerto o ninja acumula 1 ponto. <br/><br/>
+      <b>*</b> Errar as questões não dão pontos e não retiram também.<br/><br/>
+      <b>*</b> O total de pontos do jogador poderá ser trocado por prêmios.<br/><br/>
+      <b>*</b> Perguntas não respondidas serão anuladas.<br/><br/>
+    a135: Acertou
+    a136: Errou
+    a137: |
+      Se você respondeu todas as perguntas, clique no botão abaixo para terminar o estudo ninja por hoje.<br /><br/>
+      Lembrando que ainda faltam <span id="f-estudo-ninja-c-timer2" style="font-size: 18px;"></span> para terminar o estudo ninja!<br/><br/>
+    a138: O tempo do estudo ninja acabou. As respostas que você marcou até agora serão avaliadas e as outras ignoradas
+    a139: Você acertou
+    a140: perguntas
+    a141: Parabéns! Sua equipe concluiu o evento
+    a142: e como recompensa ganhou
+    a143: Sua equipe não tem 4 jogadores
+    a144: O integrante
+    a145: está inativo no site
+    a146: está em batalha no momento
+    a147: está em missão no momento
+    a148: não pode estar no mapa da vila ou no mapa mundi
+    a149: está em processo de graduação
+    a150: encontra-se no hospital
+    a151: está treinando jutsu
+    a152: está fazendo o treinamento automático
+    a153: Todos os jogadores devem estar conectados em IPs diferentes.
+    a154: Não é possível iniciar a batalha pelos seguintes motivos
+    a155: Um dos jogadores está com status baixo(vida, chakra ou stamina). Para esta batalha todos os integrantes precisam estar recuperados!
+    a156: Não é possível iniciar o desafio enquanto o personagem estiver em uma vila neutra!
+    a157: Não é possível iniciar o desafio enquanto o personagem estiver no mapa mundi!
+    a158: A missão escolhida não pode ser feita hoje
+    a159: Sua organização já está em uma missão desse tipo!
+    a160: A missão só pode ser aceita pelo líder da organização!
+    a161: Sua organização não tem a quantidade de integrantes necessária!
+    a162: Você precisa ser nível 15 ou maior para entrar em uma organização!
+    a163: Organização não encontrada!
+    a164: Você não pode entrar mais nessa organização porque você foi expulso ou saiu dela anteriormente!
+    a165: enviou um pedido para entrar na sua organização
+    a166: Seu pedido para entrar na organização foi enviado com sucesso!
+    a167: Organização inválida!
+    a168: Já existe uma organização com o nome especificado!
+    a169: O nome da organização é inválido! Só são permitidos letras e números, com um espaço único que divida o nome ou sem nenhum espaço!
+    a170: O nome da organização não pode ter mais que 25 caractéres!
+    a171: Você não tem os requerimentos necessários para criar a organização!
+    a172: Total de
+    a173: notícias postadas
+    a174: Nenhum resultado
+    a175: Seu ticket do hospital está vencido por hoje!
+    a176: Sentimos muito, mas você não tem dinheiro suficiente para pagar o nosso especialista.
+    a177: Após ter feito o pagamento a enfermeira trouxe o especialista designado e você foi curado completamente.
+    a178: Você precisa ser no mínimo genin para usar esse pergaminho!
+    a179: Você não pode usar esse item durante uma missão de tempo!
+    a180: Você não pode usar esse item durante o treinamento!
+    a181: Você não pode usar esse item durante o treinamento de jutsu!
+    a182: Antes de continuar por favor, vá para o próximo nível do seu personagem
+    a183: Você não pode usar esse item com pouca vida!
+    a184: Você não pode usar esse item com pouca chakra!
+    a185: Você não pode usar esse item com pouca stamina!
+    a186: Log de Batalha
+    a187: Você não pode mais ver o log de batalha de outros jogadores por hoje!
+    a188: Esta foi sua última visualização de log de batalha por hoje
+    a189: Você ainda pode visualizar
+    a190: logs de batalha hoje
+    a191: A batalha terminou em empate
+    a192:  fugiu do combate / perdeu por inatividade
+    a193:  venceu o combate
+    a194: Você está sendo deslogado, aguarde…
+    a195: Você avistou um ninja inimigo, deseja combater ou ignora-lo?
+    a196: Batalha
+    a197: O ninja que você escolheu para batalhar possui a proteção VIP que permite apenas o ninja com 1 nível de diferença!
+    a198: O ninja que você escolheu para batalhar, não esta em um nivel adequado para você!
+    a199: Essa batalha não foi autorizada e seu personagem será analisado pela equipe do Naruto Game!
+    a200: Não é possível lutar com um player da mesma organização que a sua!
+    a201: Você não pode batalhar com um aliado!
+    a202: Não é possível lutar com um player da mesma equipe que a sua!
+    a203: Você não pode lutar mais com esse player por hoje!
+    a204: O jogador escolhido encontra-se muito fraco para duelar!
+    a205: O jogador escolhido não está mais no mapa da vila!
+    a206: O jogador selecionado não esta mais disponivel para batalhar
+    a207: O player escolhido não esta mais disponível para batalha!
+    a208: Um jogador da sua equipe ja está em batalha com esse NPC!
+    a209: Um jogador já está em batalha com esse NPC!
+    a210: Não é possível atacar um ninja durante uma missão interativa/organização ou durante um evento!
+    a211: Não é possível atacar um ninja que está em uma missão interativa/organização ou está em evento!
+    a212: O ninja que você escolheu para batalhar, não esta mais no mapa!
+    a213: Não é possível lutar com um jogador da mesma vila!
+    a214: Você não pode batalhar com um personagem da sua conta!
+    a215: O NPC acabou fugindo
+    a216: Você já enviou convite para essa Equipe
+    a217: Ninja não encontrado
+    a218: Nome do jogador
+    a219: Adicionar
+    a220: Nenhum jogador bloqueado
+    a221: Remover
+    a222: Os campos Titulo e Mensagem devem ser preenchidos para que a mensagem seja enviada.
+    a223: Você não tem os requerimentos suficientes para efetuar essa operação
+    a224: O ninja escolhido bloqueou o recebimento de mensagens enviadas por você!
+    a225: Você não pode enviar mensagens para ninjas que estão no seu bingo book!
+    a226: Mensagem enviada com sucesso!
+    a227: De
+    a228: Para
+    a229: Ocorreu um problema na missão selecionada, favor contatar a STAFF
+    a230: Chave inválida! A página será recarregada
+    a231: Você não possui graduação para comprar esse item.
+    a232: Item não permitido
+    a233: Você so pode comprar um item desse tipo
+    a234: Você so pode ter 20 itens desse tipo!
+    a235: Você não tem ryous suficientes para comprar essa quantidade
+    a236: |
+      Você não tem créditos vip suficientes para comprar essa quantidade.<br /><a href=\"?secao=vantagens\">Clique aqui</a> e conheça os planos para jogadores vip
+    a237: Forma de compra inválida
+    a238: Você não pode comprar essa quantidade de itens, pois excede o limite quinzenal
+    a239: Item(s) comprado(s) com sucesso
+    a240: Selecione
+    a241: Você já excluiu o limite de personagens!
+    a242: Você não pode remover esse personagem estando logado nele!
+    a243: Não é possível deletar esse jogador enquanto ele fizer parte de uma equipe!
+    a244: Não é possível deletar esse jogador enquanto ele fizer parte de uma organização!
+    a245: Senha enviada com sucesso!
+    a246: |
+      Em alguns instantes você recebará sua nova senha em seu email.<br/> Sua senha ainda não foi alterada, essa operação será somente efetuada através do link recebido em seu email.<br /> Lembre-se: Tenha certeza de copiar e colar a senha sem espaços em branco
+    a247: Sua senha foi alterada com sucesso!
+    a248: |
+      Aviso! Os sequintes jogadores não irão ganhar as recomensas pois já completaram essa missão em outra equipe:
+    a249: Esse ninja possui proteção contra espionagem. Tente novamente outra hora
+    a250: Suas consultas ao bingo book estão encerradas por hoje!
+    a251: Você não pode usar este Pergaminho na Arena.
+    a252: Esse item precisa ser equipado antes das batalhas
+    a253: Você não pode enviar mensagem para um Alvo do Bingo Book de sua Organização.
+    a254: Limite Quinzenal de Armas de Longo Alcance
+    a255: Todos os Ninjas possuem um <span class="verde">Limite de Compra Quinzenal</span> de <span class="laranja">%s Armas de Longo Alcance</span>, isso foi implementado no jogo para que o uso dessas armas seja feito de uma forma estratégica nos combates. O Reset acontece sempre no dia 1 e 15 de todo mês.
+    a256: Armas de Longo Alcance Quinzenais
+    a257: Treino
+    a258: Itens
+    a259: Somente o Kage da vila pode utilizar essa opção
+    a260: Mensagem enviada com sucesso para a vila
+    a261: Você não selecionou um aliado
+    a262: Essa habilidade só pode ser usada em um aliado morto
+    a263: Você não selecionou um inimigo
+    a264: Não há aliados mortos
+    a265: Você não tem vida suficiente para usar essa técnica
+    a266: O inimigo selecionado não pode estar morto
+    a267: Sua especialização atual não permite que você use esaa técnica
+    a268: Você so pode ter %s itens desse tipo
+    a269: Você não tem pontos NPC suficientes
+    a270: Você não tem Pontos de Batalha suficientes
+    a271: Você não tem Créditos ou Pontos de Batalha suficientes
+    a272: |
+      <br /><br />Você ganhou %s Ponto(s) de Batalha<br /><br />
+    a273: |
+      <br /><br />Você ganhou %s Ponto(s) de Batalha<br /><br />
+    a274: Seus atributos estão muito baixos para batalhar com o NPC
+    a275: Você não pode usar essa habilidade em um jogador morto
+    a276: Você não pode usar o pergaminho enquanto estiver em fila de espera 4x4 PVP
+    a277: Você foi curado com sucesso!
+    a278: Você não pode enviar mensagem para um Alvo do Bingo Book de sua Equipe.
+    a279: Você já está na vila de destino do pergaminho
+    a280: |
+      Você não precisa utilizar nenhuma ramen no momento, porque seus atributos estão cheios
+    a281: |
+      Você irá vender %item e irá ganhar RY$ %price.<br />Confirmar venda?
+    a282: Primeira vez batalhando com esse oponente
+    a283: |
+      <div class="box">
+        <div class="wins"></div>
+        <div><span>Vitórias</span>%s</div>
+      </div>
+      <div class="box">
+        <div class="losses"></div>
+        <div><span>Derrotas</span>%s</div>
+      </div>
+      <div class="box">
+        <div class="ties"></div>
+        <div><span>Empates</span>%s</div>
+      </div>
+    a284: |
+      O Oponente é seu arqui-inimigo, se você perder para ele, ele irá ganhar 30% a mais de Ryous e experiênca
+    a285: |
+      O Oponente é seu arqui-inimigo, se você ganhar dele, você irá ganhar 30% a mais de Ryous e experiênca
+    a286: |
+      O oponente tem você como alvo do bingo book
+    a287: |
+      Seu oponente é seu alvo do bingo book
+    a288: Estatisticas de Batalhas
+    a289: Você já usou esse pergaminho 5 vezes por hoje
+  templates:
+    t1: E-Mail ou senha não encontrados
+    t2: Proibido logar em dois personagens na mesma conta, deslogue e tente novamente em 5 minutos.
+    t3: Código de segurança inválido
+    t4: Esqueceu a Senha?
+    t5:  Encerra em
+    t6: Código
+    t7: Ir para o próximo nível
+    t8: dias
+    t9: Enquete
+    t10: Publicidade
+    t11: Esse é o seu jeito Ninja de ser
+    t12: Jogo online de Naruto RPG
+    t13: Crie seu personagem no jogo Naruto Game e participe online das aventuras RPG de Naruto com seus amigos
+    t14: Jogador Vip - Créditos Vip
+    t15: Guerra Ninja
+    t16: Como parte do Exército da Akatsuki, você deve impedir as Aliança Shinobi de derrotar os
+    t17: Como parte das Aliança Shinobi, você deve derrotar todos os
+    t18: espalhados pelo mapa
+    t19: Rotinas do Jogo
+    t220: Recupera
+    t221: dos seus atributos.
+    t20: |
+      <b class="azul">Missão NPC Vila: <span id="d-npc-vila-timer"></span></b><br />
+      Tempo da finalização das missão de invasão.<br />
+      <b class="azul">Cura do Guardião e Ranking Ninja: <span id="d-heal-npc-vila-timer"></span></b><br />
+      Recupera 50% de todos os atributos do npc guardião e Atualiza o ranking de ninjas<br />
+      <b class="azul">Ranking Equipe e Conquista: <span id="d-ranking1-eqp-timer"></span></b><br />
+      Atualiza o ranking de equipes e conquista<br />
+      <b class="azul">Ranking Organização: <span id="d-ranking-org-timer"></span></b><br />
+      Atualiza o ranking de organização<br />
+      <b class="azul">Bijuu: <span id="d-bijuu-timer"></span></b><br />
+      Novas bijuus são sorteadas e as do outro dia deletadas<br />
+      <b class="azul">Diversas Rotinas: <span id="d-midnight1-timer"></span></b><br />
+      Libera o treino de atributos e de jutsus<br />
+      Limpa os Tickets de Hospital, Histórico de Combates e Livro de Registros.<br />
+      Limpa o exp diário ganho nas equipes<br />
+      Renova os combates npcs diários e os contadores de treino dos duelos <br />
+      Libera a Diplomacia para votação ( Somente na Sexta-feira )<br/>
+      <b class="azul">Missões Especiais e Bingo Book: <span id="d-ranking2-eqp-timer"></span></b><br />
+      Libera as missões especiais ( Somente nos dias 1 e 15 de todos os meses )<br />
+      Novos Alvos para Ninjas no Bingo Book ( Somente na Segunda-feira )<br />
+
+    t21: Carregando Itens...
+    t22: Sua mochila ninja
+    t23: Derrotar ninja de uma vila inimiga
+    t24: Derrotar o inimigo
+    t25: Coordenadas
+    t26: |
+      [ALVO] Derrotar o inimigo
+    t27: na coordenada
+    t28: Você está em missão de invasão de vilas, dirija-se até a vila
+    t29: e derrote o NPC do(a)
+    t30: Você está em Evento de Equipes
+    t31: Você possui o Ticket VIP do Hospital
+    t32: Você ainda pode usar o ticket por
+    t33: Ajuda em Missões Interativas
+    t34: Você possui ajuda nas Missões Interativas.
+    t35: Você possui ajuda nos Eventos de Equipe.
+    t36: Você possui ajuda nas Missões Diárias da Organização.
+    t37: Você possui o Livro de Registros Ninjas
+    t38: Você ainda pode usar o Livro de Registros por
+    t39: Diplomacia Ninja
+    t40: Faça valer a democracia e vote ou acompanhe em tempo real os votos!
+    t41: Você possui o Clã
+    t42: para maiores informações
+    t43: Você possui o
+    t44: Você possui a Invocação
+    t45: Você possui o Elemento
+    t46: Você é um Jinchuriki, portador de uma Bijuu
+    t47: Bem vindo ao
+    t48: Nossos Jogos
+    t49: |
+      NARUTO GAME é um dos mais populares "browser games"<br /> de Naruto. Em nosso jogo você será um ninja e sua missão é desenvolver<br /> suas habilidades e traçar seu próprio caminho ninja para tornar-se Kage.
+    t50: Personagens e ilustrações originais © Copyright 2002 por Masashi Kishimoto. Todos os direitos reservados
+    t51: Somente privado
+    t52: Mensagem
+    t53: Canal
+    t54: Vila
+    t55: Equipe
+    t56: Organização
+    t57: Batalha
+    t58: Sistema
+    t59: Talentos Ninjas
+    t60: Você não tem a vantagem VIP necessária para ver essa página!
+    t61: Você não pode mais usar a espionagem ninja por hoje!
+    t62: Você ainda pode usar a espionagem ninja por
+    t63: veze(s) hoje
+    t64: Pontos gastos nos talentos ninjas
+    t65: Você está muito fraco para lutar, recupere seus atributos e tente novamente!
+    t66: Você se esforçou e aprendeu o jutsu
+    t67: Treine bastante para conseguir novos jutsus e ficar mais poderoso.
+    t68: Pacote com 20
+    t69: Nenhum
+    t70: Quarta Guerra Ninja
+    t71: |
+      Você possui %s
+    t72: |
+      Esse item ainda está ativo por: <span class='verde'>%s veze(s)</span>
+    t73: Mundo
+    t74: A Verdadeira Batalha
+    t75: Você é um Portador de uma Espada da Névoa
+    t76: Um jogador da sua organização está batalhando com o NPC no momento
+    t77: O NPC encontra-se disponível para batalhar
+    t79: Um ou mais guardiões da sua vila foram feridos.
+    t80: Tempo até ser curado
+    t81: Tempo restante da punição
+  vantagens_vip:
+    vv1: Vantagens VIP
+    vv2: Seja VIP no Naruto Game!
+    vv3: |
+      Veja como é fácil e rápido conseguir seu VIP, <strong><a href="index.php?secao=comprando_vip" class="linkTopo">clique aqui</a>
+    vv4: Vantagens Especiais
+    vv5: Jogador VIP
+    vv6: Jogador Normal
+    vv7: Ganhará prêmios exclusivos*
+    vv8: Participação em Sorteios
+    vv9: Trocar pontos VIP por Ryous
+    vv10: Acesso  ao Livro de Registros com informações de seus inimigos
+    vv11: Treinamento automático de seus atributos
+    vv12: Estenda o treinamento diário de seu personagem
+    vv13: Redistribua os pontos de atributos de seus personagens
+    vv14: Redistribua os pontos dos talentos ninjas
+    vv15: Trocar a classe de seu personagem
+    vv16: Cria equipe sem restrição de graduação e sem usar ryous.
+    vv17: Cria organização sem restrição de graduação e sem usar ryous.
+    vv18: Planos  especiais no hospital que não usam ryous na sua recuperação.
+    vv19: Ajuda na localização dos Npcs das Missões Interativas
+    vv20: Trocar o nome do seu personagem
+    vv21: Possibilidade  de Troca de Vila, Elementos, Clãs, Mode Sennin, Selos Amaldiçoados e Portões
+    vv22: Comprar itens únicos no ninja shop**
+    vv23: Pode criar até 5 personagens na sua conta
+    vv24: Opção para habilitar mais do que 5 personagens por conta
+    vv25: A cada reset de Round, NUNCA perde créditos nem as Vantagens (Exceto quando o prazo da vantagem acabar)
+    vv26: |
+      * Conforme posição no Rank do jogo
+    vv27: |
+      ** Conforme implementação no jogo
+    vv28: Quero ser Vip
+    vv29: Você realmente quer participar deste clã ? Não será possível treinar portões de chakra!
+    vv30: Pelo tempo restante de
+  classes:
+    c1: Elemento
+    c2: ponto(s) em agilidade
+    c3: ponto(s) em selo
+    c4: ponto(s) em força
+    c5: ponto(s) em energia
+    c6: ponto(s) em inteligência
+    c7: Requer graduação
+    c8: ou maior
+    c9: Requer portões de chakra
+    c10: Requer o item
+    c100: Requer a Especialização
+    c11: pontos gasto nos Talentos Ninja
+    c12: |
+      Você <b>NÃO</b> pode possuir
+    c13: Requer pontos para distribuir nos Talentos Ninja
+    c14: Requer o Clã
+    c15: Requer a Invocação
+    c16: Requer o Selo
+    c17: Requer o Modo Sennin
+    c18: Você não pode ter Clã
+    c19: Você não pode ter o Selo Amaldiçoado
+    c20: Você não pode ter portões e chakra
+    c21: Você não pode ter o Modo Sennin
+    c22: Requer reputação
+    c23: com a vila
+    c24: com a sua vila de origem
+    c25: Requer o total de pontos em QUALQUER um dos atributos abaixo
+    c26: ponto(s) em taijutsu
+    c261: ponto(s) em bukijutsu
+    c27: ponto(s) em ninjutsu
+    c28: ponto(s) em genjutsu
+    c29: pontos treinados no golpe
+    c30: Você precisa estar no Level
+    c31: ou superior
+    c32: pontos treinados em
+    c33: Você precisa ter completado
+    c34: ou mais
+    c35: Você precisa ter uma Equipe no Level
+    c36: |
+      Você precisa possuir qualquer uma das seguintes habilidades: <ul><li>Clãs</li>Portões<li>Mode Sennin</li><li>Invocacão</li></ul>
+    c37: Você precisa ter vencido um dos torneios abaixo
+    c38: de Equipe
+    c39: de Invasão
+    c40: Ter completado
+    c41: Jutsus Aprendidos
+    c42: Jutsus de Level 2 Treinados
+    c43: Jutsus de Level 3 Treinados
+    c44: Ter derrotado
+    c45: alvos do seu Bingo Book
+    c46: Ter Invocação Level
+    c47: Requer Clã Level
+    c48: ou Portão Level
+    c49: Desejo visualizar os Recados Vips que aparecem em algumas páginas do jogo
+    c50: Equipamentos Ninja
+    c51: Selecionar Equipamento
+    c52: Você pode vender esse item para o sistema ou equipar no seu personagem.
+    c53: Vender para o sistema
+    c54: Você irá ganhar
+    c55: Peça de seu Equipamento Ninja
+    c56: Você quer continuar
+    c57: Item vendido com sucesso!
+    c58: Ocorreu um problema ao vender item especificado!
+    c59: Você não pode equipar esse item pois o requerimento de Level dele é maior que o seu Level.
+    c60: Ocorreu um erro na requisição. O servidor pode estar muito ocupado ou você abriu mais de uma aba da seção atual.
+    c61: Batalhar
+    c62: Legendas
+    c63: Ninja Aliado
+    c64: Ninja Neutro
+    c65: Ninja Inimigo
+    c66: Ninja de Evento
+    c67: Ninja Alvo do BB
+    c68: Cor de Fundo Verde
+    c69: Cor de Fundo Cinza
+    c70: Cor de Fundo Vermelho
+    c71: Cor de Fundo Amarelo
+    c72: Cor de Fundo Roxo
+    c73: Entrada de Local
+    c74: |
+      Para movimentar-se pelo mapa, basta clicar duas vezes no quadrado aonde deseja ir.<br />Para entrar em algum local, Ramen Shop por exemplo, clique duas vezes.
+    c75: Ação não executada. Coordenada inválida de acordo com seu ponto de origem!
+    c76: Você avistou um ninja inimigo, deseja combater ou ignorá-lo?
+    c77: Batalha
+    c78: Ocorreu um erro não esperado, a página será recarregada. Se o problema continuar, entre em contato pelo suporte
+    c79: Área inativa
+    c80: Chave de segurança do mapa inválida. Você não pode ter duas abas do mapa aberta no seu navegador!
+    c81: Nada aqui
+    c82: Sim, quero ser mais forte!
+    c83: Você ja chegou no limite de personagens!
+    c84: |
+      Torne-se um jogador VIP para pode ter até 5 personagens. <a href="?secao=vantagens" class="linkTopo">Clique aqui</a> e conheça mais sobre as vantagens VIP
+    c85: |
+      Se você quiser criar mais personagens, compre um slot adicional agora mesmo <a href="?secao=jogador_vip" class="linkTopo">Clicando aqui</a>
+    c86: Por Bingo Book de Organização Morto
+    c87: Total de Alvos Mortos
+    c88: Você não pode equipar esse item por causa de sua graduação
+    c89: ponto(s) em resistência
+    c90: Necessário ser ninja da Classe
+    c101: dias ou mais no round
+  suporte:
+    s1: Sistema de Tickets
+    s2: Agora ficou muito mais fácil resolver seus problemas no Naruto Game, com o Sistema de Ticket integrado ao jogo você só precisa dizer o seu problema e a STAFF estará resolvendo rapidamente o mesmo. Tendo a possibilidade até mesmo da STAFF estar indo conversar com você via CHAT sobre o seu problema, caso você esteja online no momento que lermos o ticket.
+    s3: Abrir Ticket de Suporte
+    s4: Ticket de Suporte Criado com Sucesso
+    user: Usuário
+    fechar: Fechar Ticket
+    nenhuma: Nenhuma
+    adicionar_resposta: Adicionar Resposta
+    ultimo: Último a Responder
+    data_ocorrido: Data do Ocorrido
+    seu_ticket: Seu Ticket
+    foi_respondido: foi respondido
+    adicionar_arquivo: Adicionar outro arquivo
+    arquivo: Arquivo
+    arquivos: Possui alguma imagem do problema? Use os campos de arquivo abaixo para adiciona-las
+    titulo: Título
+    categoria: Categoria
+    status: Status
+    criacao: Data de Criação
+    alteracao: Data de Atualização
+    novo: Suporte - Novo ticket de Suporte
+    detalhe: |
+      Visualizando ticket de suporte #%d
+    suporte: Suporte
+    nenhum_resultado: Nenhum ticket encontrado
+    descricao: Descrição
+    data: Quando aconteceu
+    navegador: Navegador
+    navegador_atual: Foi no mesmo navegador que estou usando
+    email: E-Mail da conta
+    anexos: Arquivos anexados
+    resposta: |
+      Respondido por
+    erros:
+      categoria: Categoria inválida
+      titulo: Título inválido
+      data: Data inválida
+      descricao: Descrição inválida
+      ext_invalido: Arquivo inválido
+      tipo_invalido: Tipo de arquivo inválido
+      conteudo: Conteudo inválido
+      ticket_novo: |
+        Os seguintes problemas impediram que seu ticket fosse criado: %s
+    statuses:
+      all: Todos
+      new: Novo
+      awaiting: Aguardando resposta da STAFF
+      replied: Respondido
+      closed: Fechado
+    categories:
+      all: Todos
+      bug: Bug
+      vip: VIP
+      question: Dúvidas
+      suggestion: Sugestões
+      translation: Traduções
+      other: Outros
+    topic:
+      title: Oooops!
+      msg: Desculpe, mas não encontramos o tópico que você especificou
+    steps:
+      next: Próxima etapa
+      search: Procurar solução
+      step1:
+        msg1: Bem vindo ao sistema de suporte
+        msg2: |
+          Bem vindo ao Novo Sistema do Suporte, onde tentaremos solucionar seu problema sem que você precise esperar por resposta da STAFF. Criamos um banco de dados com as dúvidas mais frequentes dos jogadores e abaixo segue a lista das principais. Não conseguindo resolver seu problema, por favor, clicar abaixo em próxima etapa.
+        msg3: Clique em próxima etapa se seu problema não foi resolvido com os tópicos acima
+      step2:
+        msg1: Abaixo fizemos um filtro por categoria do site e as maiores dúvidas que os jogadores possuem nelas, tente localizar a sua dúvida / problema e senão localizar passe para a próxima etapa.
+        msg2: Se você não achou a solução de problemas nos tópicos acima, por favor, prossiga para a próxima etapa
+        msg3: |
+          Localizando sua Dúvida / Problema
+      step3:
+        msg1: Vamos lá, utilizando o formulário abaixo, digite em poucas palavras o seu problema que iremos tentar localizar uma solução.
+        msg2: |
+          Basta digitar acima e clicar no botão "Pesquisar". Tente utilizar termos simples como "Travado na batalha" ou "Evento de vila"
+        msg3: |
+          Os resultados acima foi o que localizamos com a sua pesquisa, caso não solucione sua dúvida / problema, clique em próxima etapa para criar um ticket personalizado para que possamos dar uma solução exclusiva para você.
+        msg4: |
+          Não achamos nada com as palavras que você adicionou, você pode tentar melhorar as palavras usadas para localizar algo de seu interesse, ou clicar em próxima etapa e redigir um ticket explicando sua dúvida ou problema.
+        msg5: |
+          Procurando uma Solução para seu Problema
+  vila:
+    v1: Vila da
+    v2: A melhoria da Vila foi aplicada com sucesso!
+    v3: Melhorando sua Vila
+    v4: |
+      Os Kages agora precisam escolher as melhorias básicas para sua Vila, lembrando que para fazer essas melhorias a Vila vai precisar passar de Level e ganhar pontos requeridos para as melhorias.<br /><br />
+      <span class="azul">Completar um Objetivo de Vila:</span> <span class="verde">500 pontos de Exp para a Vila.</span><br />
+      <span class="azul">Vencer um Inimigo Invasor em defesa na sua Vila:</span> <span class="verde">10 pontos de Exp para a Vila.</span><br />
+      <span class="azul">Completar um Evento de Vila:</span> <span class="verde">1000 pontos de Exp para a Vila.</span><br />
+      <span class="azul">Derrotar um NPC Guardião em Missão de Invasão:</span> <span class="verde">250 pontos de Exp para a Vila.</span>
+    v5: Kage Atual
+    v6: Melhorias Feitas
+    v7: Ponto(s) Disponíveis
+    v8: de
+    v9: Melhoria feita pelo Kage
+    v10: Requer que a Vila suba de Level
+    v11: Requer a Vila no Level
+    v12: outro(s) Bônus de 1 Estrela habilitados
+    v13: outro(s) Bônus de 2 Estrelas habilitados
+    v14: outro(s) Bônus de 3 Estrelas habilitados
+    v15: outro(s) Bônus de 4 Estrelas habilitados
+    v16: Requer
+    v17: Requerimentos
+    v18: Aumenta
+    v19: |
+      % no dano das Armas de Longo Alcance
+    v20: |
+      % de desconto no preço das armas
+    v21: Desconto
+    v22: no Preço do Ramen
+    v23: Missões levam menos
+    v24: minutos
+    v25: Mais
+    v26: de bônus de Ryou em Missões
+    v27: de bônus de Exp em Missões
+    v28: no preço do atendimento exclusivo
+    v29: Já chega no hospital com
+    v30: de vida cheia
+    v31: Ganhe
+    v32: em Ryous nos Combates NPC no Dojo
+    v33: em Exp nos Combates NPC no Dojo
+    v34: em Ryous nos Combates PVP no Dojo
+    v35: em Exp nos Combates PVP no Dojo
+    v36: no Limite Diário de Combates NPC no Mapa
+    v37: no Limite Diário de Combates NPC no Dojo
+    v38: em Ryous nos Combates PVP e NPC no Mapa
+    v39: em Exp nos Combates PVP e NPC no Mapa
+    v40: |
+      Aumenta em %s%% o HP dos NPCs guardiões da vila
+    v41: |
+      Habilita %s Slot(s) Extra(s) de Personagem para os Moradores da Vila
+    v42: |
+      Ganhe %s%% de desconto na compra de equipamentos ninja
+    v43: Reduzir a graduação para Genin na criação de Equipe Organização
+    v44: |
+      Reduzir o preço do sorte ninja em RY$ %s
+    v45: |
+      Reduzir o preço do sorte ninja semanal em RY$ %s
+    v46: |
+      Aumenta %s%% no dano das Armas de Curto Alcance
+    objetivos:
+      title: Objetivos da vila
+      msg_titulo: Objetivos da sua vila
+      msg_texto: |
+        Com os Objetivos à sua Vila terá diversos <span class="laranja">desafios quinzenais</span> para conquistar e com isso passar de level com maior facilidade.
+      exp: Experiência da vila
+  jogador_vip:
+    first_free: Primeiro uso grátis por round
+    jv1: Para trocar de vila, você tem que primeiro sair da sua equipe e da sua organização
+    jv2: Para trocar de vila, você tem que primeiro sair da sua equipe
+    jv3: Para trocar de vila, você tem que primeiro sair da sua organização
+    jv4: Ao usar esse item todos os seus jutsus que não tiverem mais os requerimentos do mesmo serão deletados, tem certeza que quer usa-lo mesmo assim?
+    jv5: Nome inválido. O nome do seu personagem so pode conter letras sem acentos e numeros, sem espaços ou outros caractéres exceto underline!
+    jv6: Jogador VIP
+    jv7: Compra efetuada com sucesso!
+    jv8: Você adquiriu
+    jv9: Item ativado!
+    jv10: Você ativou o item
+    jv11: Você não tem créditos suficientes para fazer essa compra!
+    jv12: Já existe um jogador com o nome especificado!
+    jv13: Você não pode efetuar essa ação enquanto estiver em uma missão de equipe.
+    jv14: Você não pode efetuar essa ação enquanto estiver em uma missão de invasão.
+    jv15: Para trocar de vila você não pode fazer parte de uma equipe
+    jv16: Para trocar de vila você não pode fazer parte de uma organização
+    jv17: Você so pode adiquirir esse item gratuitamente uma vez!
+    jv18: Você não pode fazer essa ação enquanto estiver no treinamento de jutsu!
+    jv19: |
+      Lembre-se: Seus Créditos NUNCA somem, mesmo quando o jogo resetar (só quando você gastar), e as vantagens compradas NUNCA somem, mesmo quando o jogo resetar (exceto quando o prazo dela terminar).
+    jv20: Você possui
+    jv21: que podem ser gastos com as seguintes funcionalidades abaixo
+    jv22: Crédito(s)
+    jv23: Faltam
+    jv24: Dias
+    jv25: Horas e
+    jv26: minutos para reativar esse item
+    jv27: Dia(s)
+    jv28: Expira em
+    jv29: Eventos de Vila
+    jv30: Sua Vila possui
+    jv31: Itens dos
+    jv32: para concluir o Evento
+    jv33: Você possui o(s) seguinte(s) iten(s) do Evento
+    jv34: Resumo dos Atributos
+    jv35: Meus Jutsus
+    jv36: Poder Ninja
+    jv37: Jutsus
+    jv38: Para trocar sua classe para Taijutsu ou Bukijutsu você deve desaprender os elementos
+  fight:
+    f1: recebe
+    f2: de dano
+    f3: defende o ataque
+    f4: defende com sucesso e contrataca dando
+    f5: na fuga consegue contratacar dando
+    f6: consegue esquivar o ataque
+    f7: não consegue atacar pois está muito cansado
+    f8: tenta fugir do combate
+    f9: fugiu do combate
+    f10: tenta fugir do combate mas não consegue
+    f11: Defesa Crítica
+    f12: Ataque Crítico
+    f13: usa
+    f14: errou o golpe
+    f15: Dano Reduzido
+    f16: Requisição inválida
+    f17: Pontos no
+    f18: E adicionalmente você adquiriu
+    f19: Voltar aos
+    f20: Esta habilidade ou outra mais forte já está ativada no momento!
+    f21: Fraquezas
+    f22: Resistências
+    f23: Recebe 50% a mais de dano, e desfere 50% a menos de dano
+    f24: Elemento
+    f25: Efeitos no seu inimigo
+    f26: Efeitos no seu personagem
+    f27: Precisão
+    f28: de Chance de Erro
+    f29: Chance Crítico
+    f30: Não passa o turno ao utilizar
+    f31: Intervalo de uso
+    f32: Duração
+    f33: turno(s)
+    f34: Faltando
+    f35: Consome
+    f36: Escolha a nova imagem do seu personagem
+    f37: Deseja alterar a imagem do seu personagem para escolhida ?
+    f38: Recebe 50% a menos de dano, e desfere 50% a mais de dano
+  arena:
+    titulo: Batalhas de Arena
+    inicio: Começa em
+    fim: Finaliza em
+    nome: Nome
+    anteriores: Batalha de Arena Anteriores
+    futuros: Futuras Batalhas de Arena
+    proximos: Próximas Batalhas da Arena
+    vencedor: Vencedor
+    selo_req: Precisão Requirida
+    agi_req: Agilidade Requerida
+    chance_acerto: Chance de Acerto
+    batalhas: Batalhas vencidas
+    inscritos: de inscritos
+    sem_vencedor: Essa arena não teve um vencedor
+    msg:
+      inicio: A arena ira iniciar em %s minuto(s)
+      nenhum: A arena terminou sem nenhum jogador vitorioso
+      winner: O jogador %s venceu a arena hoje!
+      battle: O jogador %s ganhou uma batalha na arena contra %s
+  msg_global:
+    guild: |
+      A organização <span>%s</span> derrotou o npc <span>%s</span> da <span>%s</span>
+    bingo_book: |
+      O jogador <span>%s</span> matou seu alvo do bingo book <span>%s</span>
+    bingo_book_vila: |
+      O jogador <span>%s</span> matou o alvo do bingo book ( <span>%s</span> da <span>Vila da %s</span> )
+    bingo_book_guild: |
+      A organização <span>%s</span> matou seu alvo do bingo book <span>%s</span>
+    bingo_book_equipe: |
+      A equipe <span>%s</span> matou seu alvo do bingo book <span>%s</span>
+    kage: |
+      O Kage <span>%s</span> da vila da <span>%s</span> foi derrotado por <span>%s</span>
+    vila: |
+      A vila <span>%s</span> subiu um nível!
+    bijuu: |
+      O jogador %s derroutou o portador da <span>%s</span> %s
+    evento_vila_item: |
+      O jogador <span>%s</span> adquiriu o <span>%s</span>
+    evento_vila: |
+      A vila <span>%s</span> completeu o evento <span>%s</span>
+    sorte_ninja_azar: |
+      O Player <span>%s</span> é o "sortudo" do dia e ganhou <span>%s</span> no sorte ninja
+    tema_vip: |
+      O Player <span>%s</span> adquiriu um Tema Vip do <span>%s</span>
+    tema_vip_ultimate: |
+      O Player <span>%s</span> adquiriu um Tema Vip <span style="font-family: 'mistralregular' !important; color: #D12828 !important; font-size: 30px">ULTIMATE</span> do <span>%s</span>
+  votacao:
+    v1: Você confirma seu voto nesse Jogador para Conselheiro da Vila?
+    v2:  Você confirma seu voto nesse Jogador para Conselheiro da Guerra?
+    v3: Você confirma seu voto nesse Jogador para Conselheiro da Defesa?
+    v4: Os Eleitos até o momento
+    v5: Conselheiro da Vila
+    v6: Conselheiro da Defesa
+    v7: Conselheiro da Guerra
+    v8: Ninguem teve votos para Conselheiro da Vila
+    v9: Ninguem teve votos para Conselheiro da Defesa
+    v10: Ninguem teve votos para Conselheiro da Guerra
+    v11: Vote e Faça a Diferença
+    v12: Abaixo são listados os melhores ninjas de sua vila e você tem a missão de escolher os melhores candidatos para representar sua vila como conselheiro. Seu voto é único e deve ser usado de forma correta para que sua vila cresça.
+    v13: Cons. da Vila
+    v14: Cons. da Defesa
+    v15: Cons. da Guerra
+    v16: A votação não está aberta ainda. Volte todo dia 1 e 15 do mês e ajude a decidir os conselheiros da sua vila.
+    v17: Pontos para Aprimoramentos
+    v18: Abaixo segue os pontos que você possui para gastar/gastos com os Aprimoramentos.
+    v19: Pontos de Batalhas
+    v20: Pontos de Batalha
+    v21: Gastos
+    v22: Disponíveis
+    v23: Total
+  graduacoes:
+    1:
+      1: Estudante
+      2: Genin
+      3: Chuunin
+      4: Jounin
+      5: ANBU
+      6: Sannin da Folha
+      7: Herói
+    2:
+      1: Estudante
+      2: Genin
+      3: Chuunin
+      4: Jounin
+      5: ANBU
+      6: Selador da Areia
+      7: Herói
+    3:
+      1: Estudante
+      2: Genin
+      3: Chuunin
+      4: Jounin
+      5: ANBU
+      6: Espadachim da Névoa
+      7: Herói
+    4:
+      1: Estudante
+      2: Genin
+      3: Chuunin
+      4: Jounin
+      5: ANBU
+      6: Caçador da Pedra
+      7: Herói
+    5:
+      1: Estudante
+      2: Genin
+      3: Chuunin
+      4: Jounin
+      5: ANBU
+      6: Capitão da Nuvem
+      7: Herói
+    6:
+      1: Fugitivo
+      2: Nukenin D
+      3: Nukenin C
+      4: Nukenin B
+      5: Nukenin A
+      6: Caçador de Recompensas
+      7: Vilão
+    7:
+      1: Cobaia
+      2: Genin
+      3: Chuunin
+      4: Jounin
+      5: ANBU
+      6: Cientista do Som
+      7: Amaldiçoado
+    8:
+      1: Órfão
+      2: Genin
+      3: Chuunin
+      4: Jounin
+      5: ANBU
+      6: Guardião da Chuva
+      7: Deus
+    9:
+      1: Estudante
+      2: Genin
+      3: Chuunin
+      4: Jounin
+      5: ANBU
+      6: Soldado da Neve
+      7: Herói
+    10:
+      1: Estudante
+      2: Genin
+      3: Chuunin
+      4: Jounin
+      5: ANBU
+      6: Guardião da Cachoeira
+      7: Herói
+    11:
+      1: Órfão
+      2: Genin
+      3: Chuunin
+      4: Jounin
+      5: ANBU
+      6: Protetor das Termas
+      7: Deus
+    12:
+      1: Órfão
+      2: Genin
+      3: Chuunin
+      4: Jounin
+      5: ANBU
+      6: Guarda da Grama
+      7: Deus
+  mapa:
+    limite_npc: Total de NPCs no Mapa
+  sorte_ninja:
+    index:
+      play: Jogar!
+      daily: Diário
+      weekly: Semanal
+    daily:
+      vip: Créditos
+    weekly:
+      vip: Créditos
+    errors:
+      time: O sorte ninja está indisponível no momento. Volté após as 00:15 e teste sua sorte.
+      week_empty: Você não jogou todos os dias da semana ainda!
+      already: Você já jogou no sorte ninja hoje!
+      paymode: Modo de pagamento inválido
+      currency: Você não tem ryous suficientes
+      credits: Você não possui créditos suficientes
+  guild:
+    esquadrao:
+      actually: "Esquadrão atual:"
+      position: "Posição atual:"
+      select: Escolher integrante para esquadrão
+      add: Você quer realmente adicionar integrante a essa esquadrão e posição?
+      change: Você quer realmente trocar integrante atual pelo escolhido?
+      leader: Líder
+      member: Membro
+      total_quests: Missões feitas
+      total_exp: Experiência da org.
+      title: |
+
+        %sº Esquadrão
+      objective_count: Obj. solo
+      objective_exp: Total de exp
+      success:
+        added: Jogador adicionado a posição com sucesso
+        changed: Jogador trocado de posição com sucesso
+      errors:
+        invalid_key: CHave inválida
+        invalid_player: Jogador especificado é inválido
+        invalid_squad: Esquadrão inválido
+        invalid_position: Posição inválida
+        denied: Não é possível mudar a posição do líder da guild
+    objetivos:
+      options:
+        solo: Objetivos Solo
+        group: Objetivos em Grupo
+        obj: Objetivos
+        obj2: Objetivos Solo e de Grupo
+        obj3: Os Objetivos Solo e de Grupo é o novo modo de ganhar experiência para a sua Organização e esses Objetivos serão resetados de 5 a 5 dias.
+        obj4: Experiência para o Player
+        obj5: Experiência para a Organização
+  mensageiro:
+    types:
+      guild: Organização
+      team: Equipe
+      player: Jogadores
+      achiv: Conquistas
+      battle: Batalha
+      support: Suporte
+      amigos: Amigos
+    no_messages: Você não tem nenhuma mensagem nessa seção
+  missoes_fila:
+    clean: Limpar
+    accept: Aceitar
+    remove: Remover sel.
+    header:
+      name: Missão
+      exp: Exp.
+      rep: Reputação
+      ryou: Ryous
+      time: Duração
+    errors:
+      invalid_key: |
+        Chave inválida, por favor recarregue a página
+      advantage: Você não tem a vantagem VIP para efetuar essa ação
+      invalid: Uma ou mais missões especificadas são inválidas
+      invalid_time: O tempo especificado de uma ou mais missões é inválido
+      requirements: Você não tem um dos requerimentos necessários para aceitar essa missão
+  exame:
+    titulo: Exame Ninja
+    texto_espera: |
+      <span class="laranja">O uso de ramen não é permitido, porém no final de cada batalha, ganhando ou perdendo, você será completamente recuperado para próxima batalha!</span><br /><br />
+      O Exame Ninja começará em:
+    info_titulo: Exame Ninja
+    info_texto: |
+      Ao participar do Exame Ninja, você será enviado para a Floresta da Morte juntamente com todos os inscritos da sua mesma graduação.
+      Cada jogador receberá um pergaminho, e seu objetivo é conseguir os dois pergaminhos diferentes vencendo batalhas.
+      Ao conseguir os dois, você terá que esperar a Segunda Fase começar e ser o último sobrevivente.<br /><br />
+
+      <span class="laranja">O uso de ramen não é permitido, porém no final de cada batalha, ganhando ou perdendo, você será completamente recuperado para próxima batalha!</span>
+    inicio: |
+      <span class="laranja">Data de Inicio:</span>
+    msg_item: |
+      Você conseguiu saquear o
+    msg_step: |
+      Parabéns! Você conseguiu os dois pergaminhos e está classificado para <span class="laranja">Segunda Fase do Exame Ninja</span>.
+  daynames:
+    1: Segunda
+    2: Terça
+    3: Quarta
+    4: Quinta
+    5: Sexta
+    6: Sábado
+    7: Domingo
+  guerra_ninja:
+    titulo: Guerra Ninja
+    cron:
+      aliado:
+        etapa1: |
+          A Akatsuki juntou seu exército e começou uma Guerra Ninja! Preparem-se para a batalha, Aliança Shinobi!
+        etapa2: |
+          Metade dos Zetsus já foram derrotados, porém vários Edo Tensei apareceram!
+        etapa3: |
+          Todos os Zetsus foram derrotados e os Edo Tensei selados, mas agora os verdadeiros inimigos chegaram. Preparem-se, pessoal! Aliança Shinobi no Jutsu!
+        etapa4: |
+          *Madara Uchiha* Vocês acharam mesmo que poderiam vencer esta guerra? Em breve o Mugen Tsukuyomi estará completo e todos cairão em um sonho eterno!
+        vitoria3: |
+          O mundo foi salvo graças à Aliança Shinobi! Vamos comemorar o novo amanhecer!
+        vitoria4: |
+          A Aliança Shinobi venceu a guerra! O Bem nunca perderá!
+        derrota: |
+          *Madara Uchiha* Vocês falharam, Aliança Shinobi...Tenham bons sonhos... Mugen Tsukuyomi!
+      akatsuki:
+        etapa1: |
+          Chegou a hora de iniciar o plano Olho da Lua. A Aliança Shinobi tentará nos impedir, mas não podemos falhar!
+        etapa2: |
+          Faltam apenas metade desses insetos, mas as Forças Aliadas chegaram para nos atrasar
+        etapa3: |
+          Todos os Ninjas e as Forças Aliadas foram derrotadas. Vamos ver se esses novos oponentes vão nos divertir um pouco
+        etapa4: |
+          *Naruto Uzumaki* Vocês só podem estar brincando se acham que vão tomar o nosso mundo da gente! Sasuke, Sakura, vamos lá!
+        vitoria3: |
+          O plano Olho da Lua foi completado…. Tenham bons sonhos, Aliança Shinobi...Mugen Tsukuyomi!
+        vitoria4: |
+          O Exército da Akatsuki venceu a guerra! O Mal reinará!
+        derrota: |
+          *Naruto Uzumaki* Jamais vamos desistir do nosso mundo! Contemple o Aliança Shinobi no Jutsu!
+  profissao:
+    bonus1: Sai das batalhas com
+    bonus2: a mais dos atributos do final da batalha.
+    bonus3: Aumenta a cura dos Ramens em
+    bonus4: Reduz o preço das Armas de Curto em
+    bonus5: Aumenta a recompensa em
+    bonus6: ao matar Bingo Book.
+    bonus7: Reduz o custo de Chakra e Stamina do Treinamento de Atributos em
+    bonus8: Reduz o tempo das Missões de Tempo em
+    bonus9: Minutos
+    titulo: Profissão Ninja
+    aprender: Aprender
+    esquecer: Desaprender
+    ativa: Usar habilidade ativa
+    p1: |
+      Você é um Ninja:
+    p2: |
+      Escolha sua Profissão:
+    errors:
+      level_invalid: Nível de treino inválido
+      not_learned: Profissão não aprendida
+      requirements: Requerimentos insuficientes
+      no_ryou: Você não possui ryous suficientes
+      no_coin: Você não possui Créditos VIP suficientes
+      active_limit: Você já usou o limite máximo de vezes a sua habilidade ativa
+      no_hospital: Não há jogadores no hospital nesse momento
+    requirements:
+      prof_level: Requer profissão nível %s
+    sair1: |
+      Por essa a sua primeira vez, você não irá gastar nada por desaprender sua Profissão, porém, as próximas vezes serão cobradas.<br />Quer continuar?
+    sair2: |
+      Para desaprender sua profissão serão necessários 1000 ryous.<br />Quer continuar?
+    sair3: |
+      Para desaprender sua profissão necessários 2 Créditos VIP.<br />Quer continuar?
+    ativas:
+      p2: Preço dos Ramens reduzido em 20% por 10 minutos
+      p3: Força das armas aumentada em 20% por 10 minutos
+      p4: Camuflagem Ninja anulada por 10 minutos
+      p5: Força dos jutsus aumentada em 10% por 10 minutos
+      p6: Experiência de batalha aumentada em 10% por 10 minutos
+  tutorial:
+    titulos:
+      status:
+        1: Bem vindo ao Naruto Game!
+        2: Estatísticas de Batalhas
+        3: Estatísticas de Missões
+        4: Outras Informações
+        5: Fique mais Forte!
+        6: Valores de Combate
+        7: Escolha o Layout que mais gosta
+      clas:
+        1: Montando seu Clã
+      invocacao:
+        1: Montando sua Invocação
+      selo:
+        1: Ganhe mais Poder!
+      sennin:
+        1: O Chakra Natural
+      portoes:
+        1: Abrindo os Portões
+      talentos:
+        1: Aprenda novos Talentos
+      elementos:
+        1: Chakras Elementais
+        2: Vantagens e Desvantagens
+      bijuus:
+        1: Seja um Jinchuuriki!
+      espadas:
+        1: Seja um Espadachim!
+      estudo:
+        1: Testando seus Conhecimentos
+      sorte:
+        1: Ganhe prêmios!
+      profissao:
+        1: Se especialize em uma área!
+      graduacao:
+        1: Trilhando seu Caminho
+      treinamento:
+        1: Treine semanalmente!
+        2: Distribua seus pontos!
+      jutsus:
+        1: Aprendendo Jutsus Médicos
+        2: Aprendendo Jutsus Proibidos
+        3: Aprendendo e Utilizando
+        4: Customizando seus Jutsus
+        5: Trocando de Aprimoramento
+      vila:
+        1: Ajudando sua Vila
+        2: Caçando com sua Vila
+        3: Contribuindo com sua Vila
+      missoes:
+        1: Missões de Tempo
+        2: Missões Interativas
+        3: Missões Especiais
+      academia:
+        1: Recuperando suas Forças
+        2: Seus Itens
+        3: Armas de Longo Alcance
+        4: Armas de Curto Alcance
+        5: Pergaminhos
+        6: Meus Equipamentos
+      dojo:
+        1: Enfrentando o Computador
+        2: Enfrentando inimigos de verdade
+        3: Seu Personagem
+        4: Seu Inimigo
+        5: Resumo da Batalha
+        6: Seus Golpes
+        7: Resumindo
+      fidelidade:
+        1: Colete sua Recompensa
+      vip:
+        1: Vantagens vips com o primeiro uso grátis
+        2: Aumente o total do seu treino diário
+        3: Adquira créditos para as demais!
+    mensagens:
+      status:
+        1: Seu caminho para se tornar um Heroi começa agora! Batalhe e realize missões para ganhar experiência. Você poderá aguardar para recuperar seus status ou comer Ramen!
+        2: Aqui você poderá acompanhar suas vitórias, derrotas e empates de batalhas contra jogadores (PVP) e contra o computador (NPC).
+        3: Seu caminho para se tornar um Heroi começa agora! Batalhe e realize missões para ganhar experiência. Você poderá aguardar para recuperar seus status ou comer Ramen!
+        4: Nessa parte você poderá conferir algumas informações extras de seu personagem!
+        5: Seu caminho para se tornar um Heroi começa agora! Batalhe e realize missões para ganhar experiência. Você poderá aguardar para recuperar seus status ou comer Ramen!
+        6: Aqui você poderá conferir o valor cru de seus atributos em combate. Passe o mouse em cima de cada ícone para saber mais!
+        7: Escolha o layout que mais chame sua atenção ou que atenda suas necessidades! Simples, rápido e de graça!
+      clas:
+        1: |
+          Faça parte de algum Clã, e escolha os atributos que você irá receber ao ativá-lo em batalha! Mas lembre-se: se você entrar para algum clã, não poderá aprender os Portões de Chakra!
+      invocacao:
+        1: |
+          Crie um pacto com alguma Invocação, e escolha os atributos que você irá receber ao ativá-la em batalha! Existem algumas invocações que te permitem aprender o Modo Sennin, então fique de olho!
+      selo:
+        1: |
+          Aceite o poder do Selo Amaldiçoado para aumentar seus atributos em combate ao ativá-lo! Mas lembre-se: se você aceitar algum selo, não poderá aprender os Portões de Chakra!
+      sennin:
+        1: |
+          Controle o chakra da natureza e aumente seus atributos ao ativá-lo em batalha! Mas lembre-se: se você aprender o Modo Sennin, não poderá aprender os Portões de Chakra!
+      portoes:
+        1: |
+          Aprenda a abrir os Portões de Chakra de seu corpo e aumente consideravelmente seus atributos em combate ao ativá-lo! Mas lembre-se: se você aprender a abrir os Portões, não poderá entrar para nenhum Clã ou ativar o Selo Amaldiçoado e o Modo Sennin!
+      talentos:
+        1: |
+          A partir do level 5 você irá receber 1 Ponto por level, até num total de 40 pontos. Fique atento às restrições dos talentos, e distribua de acordo com sua estratégia!
+      elementos:
+        1: |
+          Você poderá aprender até 3 elementos, sendo dois básicos e um avançado. O seu primeiro elemento você consegue ao se tornar Chuunin, o segundo ao se tornar Jounin, e o terceiro (que será a combinação dos dois anteriores) ao se tornar ANBU.
+        2: |
+          Os elementos básicos causam um dano maior caso você use contra outro que tenha desvantagem: Katon > Fuuton > Raiton > Doton > Suiton > Katon. Fique atento ao elemento do seu inimigo para se sair melhor em combate!
+      bijuus:
+        1: |
+          Você irá receber um ponto a cada dia que entrar no jogo. A partir do level 10 serão sorteados 10 jogadores por dia para ganhar uma Bijuu por 24 horas, então fique atento!
+      espadas:
+        1: |
+          Você irá receber um ponto a cada dia que entrar no jogo. A partir do level 10 serão sorteados 7 jogadores por dia para ganhar uma Espada da Névoa por 24 horas, então fique atento!
+      estudo:
+        1: |
+          Toda terça, quinta e domingo você poderá testar seus conhecimentos. Ao começar o Estudo Ninja, serão entregue 10 perguntas, onde você deverá responder dentro do tempo determinado e ganhar 1 ponto por resposta. Em seguida você poderá trocar seus pontos por ótimos prêmios!
+      sorte:
+        1: |
+          Diariamente você poderá jogar na Sorte Ninja e receber um prêmio aleatório listado abaixo! Ao jogar uma vez em cada dia da semana, você ganha o direito de jogar uma vez a mais.
+      profissao:
+        1: |
+          Cada profissão possui uma habilidade passiva, que irá ajudar seu próprio personagem, e uma habilidade ativa, que irá ajudar algum jogador aleatório. Escolha bem!
+      graduacao:
+        1: |
+          Seu principal objetivo é crescer como ninja e se tornar o mais forte de todos! Ao cumprir os requerimentos e se tornar Genin, você ganhará o direito de ir explorar o mundo de Naruto. Grandes perigos o aguardam, pois outros jogadores mais fortes estarão à sua espera, mas prove que você é o melhor e receba grandes recompensas!
+      treinamento:
+        1: |
+          O seu limite de treino diário irá começar na terça, e vai acumulando até segunda, portanto procure sempre completar essa barra até segunda, ou ficará mais fraco que outros jogadores! Não se esqueça de ir em Jogador VIP e adquirir gratuitamente seu aumento de limite semanal!
+        2: |
+          Ao completar a barra de treinamento, você receberá um ponto livre. Veja os requerimentos de novos jutsus, e distribua de acordo com sua estratégia de combate!
+      jutsus:
+        1: |
+          Jutsus Medicinais podem ser aprendidos apenas por Membros de Equipe especializados em Jutsus Medicinais, e utilizados apenas nas batalhas de equipe realizadas toda quarta-feira e nos desafios de equipe.
+        2: |
+          Kinjutsus podem ser aprendidos apenas por Membros de Equipe especializados em Kinjutsus, e utilizados apenas nas batalhas de equipe realizadas toda quarta-feira ( Dojo 4x4 Random PVP ).
+        3: |
+          Complete os requerimentos necessários para aprender um novo jutsu. Cada jutsu aprendido aparecerá em batalha, mas não se esqueça de treinar sua Agilidade e seu Selo para aumentar suas chances de acerto!
+        4: |
+          Utilize seus Pontos de Aprimoramento para equipar até 3 aprimoramentos em cada jutsu. Cada slot possui um aprimoramento que funciona no seu poder total, mas você pode colocar qualquer aprimoramento em qualquer slot, com um corte no seu poder.
+        5: |
+          Participe de batalhas e utilize seus Pontos de Batalha para trocar algum aprimoramento já equipado.
+      vila:
+        1: |
+          Junte-se com os outros jogadores da sua vila para completar Objetivos e ganhar experiência para sua vila. Todo level a vila ganha 1 ponto disponível, que poderá ser utilizado pelo Kage (top 1 da vila) para melhorar alguma construção e garantir um bônus para todos seus habitantes.
+        2: |
+          Ajude sua vila a coletar todos os itens do evento ativo. Se todos os itens estiverem com ninjas da sua vila, vocês ganham o evento e recebem experiência para sua Vila.
+        3: |
+          Junte-se com os outros jogadores da sua vila para completar os Objetivos e ganhar experiência para sua vila! Mas atenção: os objetivos resetam todo dia 1 e 15!
+      missoes:
+        1: |
+          As missões de tempo foram criadas para você descansar do jogo, pois, seu personagem ficará por alguns minutos preso na missão e você não poderá fazer ações normais do jogo. Essas missões são necessárias para a graduação ninja!
+        2: |
+          Essas missões você terá que caçar no Mapa Mundi do jogo por NPC que estarão em coordenadas diversas e informadas depois que aceitar a missão. Essas missões são necessárias para a graduação ninja!
+        3: |
+          Essas missões possuem um objetivo simples, matar jogadores de outras vilas, portanto, precisam ser feitas no MAPA e sua recompensa é a redução do seu treino diário, portanto, não complete-a antes de treinar.
+      academia:
+        1: |
+          Como você é novo por aqui, lhe demos 5 Merendas para recuperar seu HP, Chakra e Stamina, mas aqui nesta loja você poderá comprar mais sempre que precisar!
+        2: |
+          Os Ramens que você comprar ou ganhar ficarão guardados aqui para serem usados fora de combate! Outros itens como armas de longo alcance também mostrarão aqui, mas podem ser usadas apenas em combate.
+        3: |
+          Armas de Longo Alcance servem para aumentar a força de seus golpes durante uma batalha. Você poderá comprar apenas 40 armas, mas esse limite reseta todo dia 1 e 15.
+        4: |
+          Essas armas funcionam como um jutsu. Após comprar você deve equipá-la na página Equipamentos Ninja, e então ela aparecerá para ser usada em combate.
+        5: |
+          Os Pergaminhos servem para um Genin ou mais se teletransportar diretamente para a Vila desejada, podendo ser usado para fácil locomoção ou até mesmo fugir de seus inimigos.
+        6: |
+          Você poderá deixar seu ninja mais forte com equipamentos conseguidos através de Batalhas NPC, Batalhas PVP ou comprados aqui embaixo.
+      dojo:
+        1: Diariamente você poderá enfrentar até 15 NPCs. Esses NPCs são requerimentos para se graduar, além de ter a chance de conseguir novos equipamentos!
+        2: As batalhas 4x4 só ficam disponíveis agora na Quarta-Feira e Domingo e somente nelas você poderá usar seus Jutsus do Tipo Medicinal e Kinjutsus.
+        3: Esse é seu Personagem e informações importantes sobre ele aparecerão aqui. Você perderá o combate se a sua Vida, Chakra ou Stamina ficarem abaixo de 10.
+        4: Esse é seu Inimigo, para vencê-lo você precisa fazer sua Vida, Chakra ou Stamina ficarem abaixo de 10.
+        5: Fique de olho nesta parte da Batalha, em uma Batalha PVP você terá apenas 1:30 para atacar! Aqui também irá mostrar o dano causado e se algum efeito aconteceu, como um golpe Crítico, por exemplo.
+        6: Aqui ficam seus Golpes escolhidos. É importante treina-los sempre para que possam ficar mais poderosos e assim derrotar os inimigos mais facilmente.
+        7: Durante a Batalha aparecerão icones em você e em seu inimigo que mostram o total de seus atributos e informações relevantes para um bom desempenho no combate, é importante que analise essas informações para melhor aproveitamento no combate. No final de cada duelo você terá chances de ganhar equipamentos especiais!
+      fidelidade:
+        1: |
+          Entre diariamente no jogo e colete sua recompensa como agradecimento! Mas atenção: se você deixar de coletar um dia, a recompensa irá voltar para o Dia 1!
+      vip:
+        1: O jogo disponibiliza algumas vantagens vips com o seu primeiro uso gratuito, logo após esse uso, elas passam a ser cobradas normalmente.
+        2: Aumente o total do seu treino diário com essa vantagem vip que é gratuita!
+        3: As demais vantagens vips são cobradas e diversas possuem funções indispensáveis para você. Os nossos planos de créditos são de 10 reais até 100 reais.
+    cla: Clã
+    invocacao: Invocação
+    selo: Selo
+    portoes: Portões
+    talentos: Talentos
+    elementos: Elementos
+    espadas: Espadas
+    estudo: Estudo
+    sorte: Sorte
+    profissao: Profissão
+    graduacoes: Graduações
+    treinamento: Treinamento
+    aprimoramento: Aprimoramento
+    medicinal: Medicinal
+    vila: Vila
+    missoes: Missões
+    eventos: Eventos
+    objetivo: Objetivo
+    equipamentos: Equipamentos
+    batalha: Batalha
+    fidelidade: Fidelidade
+    premio: |
+      Recompensa de 1000 de Experiência, 2000 Ryous, Título: Ninja Treinado e 5 Misso Gyoza-Ramen
+    erro1: O Sensei que você tentou ativar não existe!
+    erro2: Você não tem esse Sensei liberado no momento!
+    erro3: Você não tem Ryous suficientes para efetuar essa ação!
+    erro4: |
+      Você não tem Créditos VIP suficientes para efetuar essa ação!
+  sensei:
+    qtd_alunos: Quantidade de Alunos
+    desafio_vencido: Desafio Vencido
+    desafio_atual: Desafio Atual
+    melhor_aluno: Melhor Aluno
+    vitorias: Vitórias
+    derrotas: Derrotas
+    total: Total de Combates
+    desafio_sensei: Desafio do Sensei
+    virar_aluno: Virar Aluno
+    sensei_atual: Sensei Atual
+    msg1: Vença seu Sensei
+    msg2: Chegou o momento de testar sua força contra o seu Sensei, vença esse duelo e prove seu valor!
+    confirmar_sensei: Você tem certeza que gostaria de escolher esse Sensei?
+    confirmar_troca_sensei: Você tem certeza que gostaria de escolher esse Sensei? Essa troca vai custar 1000 ryous.
+    confirmar_sensei_vip: Você tem certeza que gostaria de escolher esse Sensei? Essa troca vai custar 2 créditos.
+    creditos: Créditos
+    ser_vip: Ser VIP
+  equipamentos:
+    1:
+      10: Bandana
+      11: Colete
+      12: Amuleto
+      13: Luva
+      14: Calça
+      15: Bota
+      29: Pergaminho
+    raridade:
+      comum: Comum
+      raro: Raro
+      epico: Épico
+      lendario: Lendário
+    raridadeb:
+      comum: Comum
+      raro: Rara
+      epico: Épica
+      lendario: Lendária
+  fidelity:
+    title2: Recompensas de Fidelidade
+    description2: Ao logar diariamente você pode coletar recompensas para seu personagem. Você deve entrar no jogo durante 8 dias seguidos para conseguir todas as recompensas e começar de novo. Caso você não logue um dos dias, o contador irá retornar para o primeiro dia.
+    logar: Logar
+    dias: dia(s) seguidos
+    title: Fidelidade Ninja
+    msg1: Você já recebeu seu prêmio hoje, volte amanhã!
+    msg2: |
+      Receba um <a href='?secao=fidelidade' class='linksSite'>prêmio especial</a> por logar hoje no jogo!
+    ja_ganhou: Já ganhou em outro personagem desta conta
+    days:
+      1: 1 Ponto de Fidelidade e 100 de Ryous
+      2: 1 Ponto de Fidelidade e 200 de Ryous
+      3: 1 Ponto de Fidelidade e 300 de Ryous
+      4: 1 Ponto de Fidelidade e 400 de Ryous
+      5: 1 Ponto de Fidelidade e 500 de Ryous
+      6: 1 Ponto de Fidelidade e 5 Shio Tyashu-Ramen
+      7: 2 Ponto de Fidelidade e 1000 de Ryous
+      8: 3 Ponto de Fidelidade e 1500 de Ryous
+    buttons:
+      recebido: Recebido
+      nao_recebido: Não Recebido
+      receber: Receber
+    errors:
+      day: O dia não corresponde com a data atual!
+      reward: Você já ganhou essa recompensa!

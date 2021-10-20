@@ -1,0 +1,139 @@
+#chat-window {
+	width: 284px	
+}
+
+#chat-window-text .chat-system {
+	color: #FFF;
+	font-weight: bold
+}
+
+#chat-window-text .chat-box-system {
+	background-color: #0583B0;
+	text-align: center;
+	padding: 2px;
+	border-radius: 5px;
+	margin-bottom: 5px
+}
+
+#chat-window-text .chat-ads, #chat-window-text .chat-ads a:link, #chat-window-text .chat-ads a:visited {
+	color: #674604;
+	font-weight: bold;
+	text-decoration: none
+}
+
+#chat-window-text .chat-box-ads {
+	background-color: #fbf482;
+	text-align: center;
+	padding: 2px;
+	border-radius: 5px;
+	margin: 2px
+}
+
+#chat-window-text .chat-private, #chat-window-text .chat-private-self {
+	color: #DE59DE
+}
+
+#chat-window-text .chat-guild {
+	color: #1E851B	
+}
+
+#chat-window-text .chat-team {
+	color: #9F52B3	
+}
+
+#chat-window-text .chat-gm span {
+	color: #FFA200 !important;
+	font-style: italic;
+	font-weight: bold
+}
+
+#chat-window-text .chat-world, #chat-window-text .chat-global {
+	color: #333
+}
+
+#chat-window-text {
+	height: 300px; 
+	overflow: auto;
+	margin: 4px;
+	border-bottom: dotted 1px #CCC;
+	word-wrap: break-word
+}
+
+#chat-window-text p {
+	font-size: 11px !important;
+	text-wrap: suppres;
+	line-height: 15px !important;
+	padding-bottom: 8px;
+}
+
+#chat-window-text .user {
+	cursor: pointer
+}
+
+#chat-window-bar {
+	background-color: #1f3e73;
+	margin: 1px;
+	padding: 6px;
+	color: #3e91d4;
+	font-size: 12px;
+	font-weight: bold;
+	cursor: pointer
+}
+
+#chat-window label {
+	font-weight: bold;
+	color: #333;
+	font-size: 11px;
+	width: 70px;
+	float: left;
+	text-align: right;
+	margin-top: 5px;
+	margin-right: 5px
+}
+
+#chat-window input, #chat-window select {
+	width: 200px
+}
+
+#chat-window .chat-card {
+	font-weight: bold;
+	text-decoration: none;	
+}
+
+#chat-window .chat-card:hover {
+	text-decoration: underline;
+}
+
+#chat-window .chat-card-comum	{
+	color: #a0a2a1
+}
+
+#chat-window .chat-card-raro	{
+	color: #cf9420
+}
+
+#chat-window .chat-card-epico	{
+	color: #d0100f
+}
+
+.chat-item-tooltip {
+	padding: 6px;
+	background-color: #FFF;
+	border-radius: 5px;
+	position: fixed	 !important;
+	bottom: 10px;
+	left: 270px;
+	height: 320px;
+	width: 237px;
+}
+
+.chat-item-tooltip a {
+	position: absolute;
+	bottom: 10px;
+	margin-left: 100px;
+	cursor: pointer	
+}
+
+#chat-window input {
+	border: solid 1px #CCC
+}

@@ -1,0 +1,14 @@
+[21-Aug-2018 00:56:47 America/Sao_Paulo] PHP Strict Standards:  Non-static method Recordset::_parse_set() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 267
+[21-Aug-2018 00:56:47 America/Sao_Paulo] PHP Strict Standards:  Non-static method Recordset::_parse_where() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 270
+[21-Aug-2018 00:56:48 America/Sao_Paulo] PHP Strict Standards:  Non-static method Recordset::_parse_set() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 267
+[21-Aug-2018 00:56:48 America/Sao_Paulo] PHP Strict Standards:  Non-static method Recordset::_parse_where() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 270
+[21-Aug-2018 03:08:48 America/Sao_Paulo] PHP Strict Standards:  Non-static method Recordset::_parse_set() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 267
+[21-Aug-2018 03:08:48 America/Sao_Paulo] PHP Strict Standards:  Non-static method Recordset::_parse_where() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 270
+[21-Aug-2018 16:25:42 America/Sao_Paulo] PHP Strict Standards:  Non-static method Recordset::_parse_set() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 267
+[21-Aug-2018 16:25:42 America/Sao_Paulo] PHP Strict Standards:  Non-static method Recordset::_parse_where() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 270
+[22-Aug-2018 09:37:50 America/Sao_Paulo] PHP Strict Standards:  Non-static method Recordset::_parse_set() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 267
+[22-Aug-2018 09:37:50 America/Sao_Paulo] PHP Strict Standards:  Non-static method Recordset::_parse_where() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 270
+[22-Aug-2018 19:15:07 America/Sao_Paulo] PHP Strict Standards:  Non-static method Recordset::_parse_set() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 267
+[22-Aug-2018 19:15:07 America/Sao_Paulo] PHP Strict Standards:  Non-static method Recordset::_parse_where() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 270
+[14-Sep-2020 14:12:47 UTC] PHP Strict Standards:  Non-static method Recordset::_parse_set() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 267
+[14-Sep-2020 14:12:47 UTC] PHP Strict Standards:  Non-static method Recordset::_parse_where() should not be called statically in /home/narutogame/public_html/class/Recordset.php on line 270

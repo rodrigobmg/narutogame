@@ -1,0 +1,177 @@
+{% extends 'bases/T002_BASE_SITE.html' %}
+
+{% block title %}Cloud Computing - Soluções completas em Data Center no Brasil{% endblock %}
+{% block description %}Essa é a solução que vem revolucionando à Internet, devido aos inúmeros benefícios: disponibilidade, escalabilidade, confiabilidade e performance.{% endblock %}
+
+{% block content %}
+<div class="container-fluid background4 header-margin">
+    <div class="container">
+      <div class="row">
+          <div class="col-xs-12 col-md-5 texto">
+            <h1>Cloud Computing</h1>
+            <p>Mais segurança, performance e disponibilidade para seu site e suas aplicações.</p>
+          </div>
+          <div class="col-xs-12 col-md-7">
+            <img src="/static/img/cloud/topo.png" alt="" width="100%">
+          </div>
+      </div>
+    </div>
+</div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="container">
+      <div class="col-md-12">
+        <h2 class="text-center">
+            O que é Cloud Computing?
+        </h2>
+        <br>
+        <p class="text-muted">
+          Cloud Computing é uma tecnologia que possibilita acesso remoto a programas e serviços por meio da internet. Não há mais a necessidade de instalar aplicativos no computador. Tudo está na rede. É possível acessar a qualquer hora e em qualquer lugar, com qualquer instrumento que tenha acesso à internet.<br><br>
+
+          Cloud Computing é uma tecnologia usada diariamente, em situações que podem fazer parte do cotidiano de qualquer pessoa. Ter a possibilidade de acessar um drive na internet para imprimir um trabalho de faculdade minutos antes da entrega, por exemplo, é possível porque os dados não estão confinados em um computador, eles estão disponíveis na web.<br><br>
+          A Sianet Business Hosting possui a solução de cloud computing indicada para hospedar sites, blogs, bancos de dados ou outras aplicações com alto volume de acessos e que precisam de flexibilidade para alterar ou customizar a capacidade sob demanda.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<br><br>
+<div class="container-fluid background1">
+  <div class="container text-center">
+    <h3>
+      Porque usar computação em nuvem?
+    </h3>
+    <br>
+    <div class="row">
+      <div class="col-md-3">
+        <div class="hover">
+          <div class="bg-icon"><i class="fa fa-cloud" aria-hidden="true"></i></div>
+          <h4>Tecnologia de Ponta</h4>
+        </div>
+        <p>Alta disponibilidade, alta escalabilidade de recursos e flexibilidade nos serviços.</p>
+      </div>
+      <div class="col-md-3">
+        <div class="hover">
+          <div class="bg-icon"><i class="fa fa-lock" aria-hidden="true"></i></div>
+          <h4>Ambiente Seguro</h4>
+        </div>
+        <p>Toda infraestrutura do Smart Cloud é protegida contra todo tipo de ataque.</p>
+      </div>
+      <div class="col-md-3">
+        <div class="hover">
+          <div class="bg-icon"><i class="fa fa-credit-card" aria-hidden="true"></i></div>
+          <h4>Redução de Custos</h4>
+        </div>
+        <p>Não é necessário invistir em equipamentos. Economize com nosso Cloud Computing!</p>
+      </div>
+      <div class="col-md-3">
+        <div class="hover">
+          <div class="bg-icon"><i class="fa fa-sliders" aria-hidden="true"></i></div>
+          <h4>Atendimento Personalizado</h4>
+        </div>
+        <p>Aqui você tem atendimento personalizado para ajudá-lo em qualquer dificuldade.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<br><br>
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      <div class="text-center">
+        <h2>
+          Funcionalidades da nossa Cloud Computing
+        </h2>
+        Conheça algumas funcionalidades da nossa solução em Computação nas Nuvens
+      </div>
+      <br><br>
+        <div class="col-md-7">
+          <img src="/static/img/cloud/foto.png" alt="" width="100%" ><br><br>
+        </div>
+        <div class="col-md-5">
+          A Sianet Business Hosting possui a solução de cloud computing indicada para hospedar sites, blogs, bancos de dados ou outras aplicações com alto volume de acessos e que precisam de flexibilidade para alterar ou customizar a capacidade sob demanda.<br><br>
+          Seu negócio seguro com as melhores práticas:<br><br>
+        </div>
+        <div class="col-md-12 text-center">
+          <br>
+          <ul class="ul-cloud">
+            <li>Escalabilidade</li>
+            <li>Alta Disponibilidade</li>
+            <li>Flexibilidade</li>
+            <li>Alto Desempenho</li>
+            <li>Melhores Preços</li>
+          </ul>
+        </div>
+
+        <div class="col-md-12 text-center">
+          <br><br><h2>
+            <i class="fa fa-pencil" aria-hidden="true"></i> Painel 100% Automatizado
+          </h2>
+          Você tem total controle de todo seu datacenter em poucos cliques. Tudo pode ser feito na hora, sem a necessidade de chamados com suporte para ações manuais.
+        </div>
+        <div class="col-md-12 text-center">
+          <br><br><h2><i class="fa fa-sliders" aria-hidden="true"></i> Monte seu Datacenter Virtual</h2>
+          Personalize o servidor para atender a demanda de sua empresa.<br><br><br>
+        </div>
+        <form class="form" class="form-inline" method="POST">{% csrf_token %}
+        <div class="col-md-6 text-center">
+          <label for="memoria">Memória - <span id="memoriaCurrentSliderValLabel"><span id="memoriaSliderVal">8</span> GB de 192GB</span></label><br>
+          <input id="memoria" name="memoria" type="text" data-slider-min="8" data-slider-max="192" data-slider-step="8" data-slider-value="8"/><br><br>
+          <label for="disco">Disco - <span id="discoCurrentSliderValLabel"><span id="discoSliderVal">250</span> GB de 10000GB</span></label><br>
+          <input id="disco" name="disco" type="text" data-slider-min="250" data-slider-max="10000" data-slider-step="250" data-slider-value="250"/><br><br>
+          <label for="processador">Processador - <span id="processadorCurrentSliderValLabel"><span id="processadorSliderVal">4</span> VCPU de 96 VCPU</span></label><br>
+          <input id="processador" name="processador" type="text" data-slider-min="4" data-slider-max="96" data-slider-step="4" data-slider-value="4"/><br><br>
+          <label for="banda">Tráfego Mensal - <span id="bandaCurrentSliderValLabel"><span id="bandaSliderVal">250</span> Mb/s de 10000 Mb/s</span></label><br>
+          <input id="banda" name="banda" type="text" data-slider-min="250" data-slider-max="10000" data-slider-step="250" data-slider-value="250"/><br><br>
+        </div>
+        <div class="col-md-6 text-center">
+          <div class="form-group col-md-12 margin-bottom-0px {% if contato_site.nome.ajuda %}has-error{% endif %}">
+            <input type="text" class="form-control" name="nome" value="{{contato_site.nome.valor}}" placeholder="Nome">
+            <span class="help-block">{{contato_site.nome.ajuda}}</span>
+          </div>
+          <div class="form-group col-md-12 margin-bottom-0px {% if contato_site.email.ajuda %}has-error{% endif %}">
+            <input type="text" class="form-control" name="email" value="{{contato_site.email.valor}}" placeholder="E-mail">
+            <span class="help-block">{{contato_site.email.ajuda}}</span>
+          </div>
+          <div class="form-group col-md-6 margin-bottom-0px {% if not contato_site.telefone.ajuda %}padding-right-2px{% endif %} {% if contato_site.telefone.ajuda %}has-error{% endif %}">
+            <input type="text" class="form-control" name="telefone" value="{{contato_site.telefone.valor}}" placeholder="Telefone">
+            <span class="help-block">{{contato_site.telefone.ajuda}}</span>
+          </div>
+          <div class="form-group col-md-6 margin-bottom-0px {% if not contato_site.telefone.ajuda %}padding-left-2px{% endif %}">
+            <input type="text" class="form-control" name="celular" value="{{contato_site.celular.valor}}" placeholder="Celular">
+            <span class="help-block"></span>
+          </div>
+          <div class="form-group col-md-6 margin-bottom-0px {% if not contato_site.telefone.ajuda %}padding-right-2px{% endif %}">
+            <input type="text" class="form-control" name="comercial" value="{{contato_site.comercial.valor}}" placeholder="Comercial">
+            <span class="help-block"></span>
+          </div>
+          <div class="form-group col-md-6 margin-bottom-0px {% if not contato_site.telefone.ajuda %}padding-left-2px{% endif %}">
+            <input type="text" class="form-control" name="ramal" value="{{contato_site.ramal.valor}}" placeholder="Ramal">
+            <span class="help-block"></span>
+          </div>
+          <div class="form-group col-md-12 margin-bottom-0px">
+            <textarea class="form-control" name="mensagem" rows="4" cols="40" placeholder="Mensagem">{{contato_site.mensagem.valor}}</textarea>
+            <span class="help-block"></span>
+          </div>
+        </div>
+        <div class="col-md-12 text-center">
+          <button type="submit" class="btn btn-success btn-lg" name="enviar"><i class="fa fa-weixin" aria-hidden="true"></i> Solicite um Orçamento</button>
+        </div>
+        <br>
+      </form>
+    </div>
+    <div class="col-md-4 espaco-linhas bg-solucoes">
+      {% include "bases/T003_MENU_SOLUCOES.html" %}
+    </div>
+  </div>
+</div>
+<br><br>
+
+  </div>
+</div>
+{% endblock %}
+{% block extrajs %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.7.2/bootstrap-slider.min.js"></script>
+<script src="/static/js/P018_CLOUD_COMPUTING.js"></script>
+
+{% endblock %}

@@ -1,0 +1,72 @@
+body{
+  font-size:  12px;
+  font-family: Arial, sans-serif;
+}
+#conteudo{
+  width: 700px;
+}
+#informacoes, #alteracao{
+  margin-bottom: 10px;
+}
+.vermelho{
+  color: #ff0000;
+}
+.laranja{
+  color: #ffa300;
+}
+.esconde{
+  display: none;
+}
+.mostra{
+  display: block;
+}
+.header{
+  background-color: #ffeabe;
+  padding: 5px;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.header span{
+  font-size: 12px;
+}
+.tbl-alteracao{
+  width: 50% !important;
+  padding-left: 20px;
+}
+.tbl-removido{
+  width: 50% !important;
+  padding-left: 65px;
+}
+.tbl-produtos{
+  width: 50% !important;
+  padding-left: 40px;
+}
+.tbl-produtos td, .tbl-produtos tr{
+  height: 22px;
+}
+.title-produtos{
+  height: 40px;
+}
+.name-produtos{
+  padding-left: 40px;
+}
+.observacao{
+  padding: 10px 0px 10px 32px;
+}
+table {
+  width: 100%;
+  text-align: left;
+}
+tbody{
+  text-align: left;
+}
+.destaque-1{
+  font-size: 18px;
+}
+.destaque-2{
+  font-size: 14px;
+  font-weight: bold;
+}
+.destaque-3{
+  font-weight: bold;
+}

@@ -1,0 +1,211 @@
+#luck-container {
+	position: relative;
+	width: 717px;
+	height: 566px;
+}
+
+#luck-container * {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#luck-container #luck-stripes, #luck-container #luck-mask, #luck-container #luck-stripes-shadows {
+	position: absolute;
+	left: 0px
+}
+
+#luck-container #luck-stripes, #luck-container #luck-stripes-shadows {
+	margin-top: 205px;
+	margin-left: 34px
+}
+
+#luck-container #luck-mask {
+	background-image: url(../images/layout_azul/luck/base.png);
+	width: 719px;
+	height: 518px;
+	z-index: 1
+}
+
+#luck-container .luck-stripe, #luck-container #luck-stripes-shadows div {
+	background-image: url(../images/layout/luck/slot.jpg);
+	background-position: 0px 0px;
+	width: 141px;
+	height: 141px;
+	float: left;
+	margin-right: 28px
+}
+
+#luck-container #luck-stripes-shadows div {
+	background-image: url(../images/layout/luck/shadow.png);	
+}
+
+#luck-container #buttons {
+	z-index: 2;
+	position: absolute;
+	top: 395px;
+	width: 100%
+}
+
+#luck-container #buttons .daily div, #luck-container #buttons .weekly div {
+	width: 68px;
+	height: 71px;
+	text-align: center;
+	float: left;
+	background-image: url('../images/layout_azul/luck/button_selected.png');
+	color: #FFF;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+#luck-container #buttons .selected {
+	background-image: url('../images/layout_azul/luck/button_normal.png') !important
+}
+
+#luck-container .daily {
+	float: left;
+	margin-left: 63px;
+	margin-top: 12px;
+}
+
+#luck-container .daily div {
+	margin-right: 8px
+}
+
+#luck-container .weekly {
+	float: right;
+	margin-right: 63px;
+	margin-top: 12px;
+}
+
+#luck-container .weekly div {
+	margin-left: 8px
+}
+
+
+#luck-container .luck-button {
+	display: table;
+}
+
+#luck-container .luck-button span, #luck-container #luck-button span {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#luck-container #luck-button {
+	background-image: url('../images/layout_azul/luck/play.png');
+	width: 121px;
+    height: 121px;
+    display: table;
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    position: absolute;
+    z-index: 2;
+    font-weight: bold;
+    left: 300px;
+    top: 366px;
+    cursor: pointer;
+}
+
+#luck-container #luck-status {
+	position: absolute;
+	width: 100%;
+	z-index: 2;
+	top: 64px;
+	left: 0px;
+	margin-left: 53px
+}
+
+#luck-container #luck-status .day {
+	float: left;
+	width: 61px;
+	margin-right: 31px
+}
+
+#luck-container #luck-status .day .ball {
+	width: 49px;
+	height: 49px;
+	background-image: url('../images/layout/luck/light_red.png');
+	margin-left: 7px;
+}
+
+#luck-container #luck-status .day.green .ball {
+	background-image: url('../images/layout/luck/light_green.png') !important;
+}
+
+#luck-container #luck-status .day .check {
+	width: 61px;
+	height: 61px;
+	background-image: url('../images/layout/luck/check_red.png');
+	margin-top: -5px
+}
+
+#luck-container #luck-status .day.green .check {
+	background-image: url('../images/layout/luck/check_green.png') !important;
+}
+
+#luck-container #daynames {
+	position: absolute;
+	top: 53px;
+	left: 0px;
+	width: 100%;
+	z-index: 2;
+	margin-left: 42px
+}
+
+#luck-container #daynames div {
+	float: left;
+	font-size: 13px;
+	color: #FFF;
+	width: 84px;
+	margin-right: 8px;
+	text-align: center;
+}
+
+#luck-container #result {
+	width: 412px;
+	height: 63px;
+	background-image: url('../images/layout_azul/luck/won.png');
+	position: absolute;
+	top: 504px;
+	margin-left: 150px;
+	z-index: 0;
+	text-align: center;
+	padding-top: 24px;
+	font-size: 14px;
+}
+
+#luck-container #result span {
+	color: #E6E645
+}
+
+#luck-container #luck-types {
+	position: absolute;
+	z-index: 2;
+	top: 378px;
+	width: 100%;
+	font-size: 36px;
+	color: #FFF;
+	text-transform: uppercase;
+	text-shadow: 0px 0px 4px #2a190f;
+	
+}
+
+#luck-container #luck-types .daily {
+	margin-left: 90px;
+	margin-top: -10px;
+	font-family: 'mistralregular' !important;
+}
+
+#luck-container #luck-types .weekly {
+	margin-right: 80px;
+	margin-top: -10px;
+	font-family: 'mistralregular' !important;
+}
+
+#luck-reward-list td {
+	min-height: 32px;
+	height: 32px
+}

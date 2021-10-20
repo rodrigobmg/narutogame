@@ -1,0 +1,52 @@
+[27-Dec-2020 14:03:39 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:04:27 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:04:40 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:05:08 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:05:22 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:07:14 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:16:06 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:23:41 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:29:48 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:29:59 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:32:23 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:32:39 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:33:15 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:42:04 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:43:53 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:50:24 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:50:42 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 14:51:19 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 14:51:26 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 14:51:38 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 14:54:26 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 14:54:52 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 15:07:19 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 15:09:41 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 15:10:26 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 15:14:13 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 15:29:45 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 15:32:10 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 15:39:16 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 15:50:01 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 16:08:40 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 19:31:28 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 19:32:03 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 19:44:26 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 19:44:39 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 19:45:09 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 19:45:34 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 19:45:47 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 19:45:55 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 19:46:13 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 19:57:20 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 20:00:43 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 20:00:51 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 20:01:00 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 20:01:14 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 20:01:24 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 20:40:24 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 20:41:05 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 21:15:10 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 21:15:25 UTC] PHP Fatal error:  Call to a member function tutorial() on a non-object in /home/narutogame/public_html/module/academia_treinamento.php on line 1
+[27-Dec-2020 21:15:39 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1
+[27-Dec-2020 21:54:33 UTC] PHP Fatal error:  Call to undefined function t() in /home/narutogame/public_html/module/objetivos.php on line 1

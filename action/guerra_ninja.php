@@ -1,0 +1,1 @@
+<?php require 'module/guerra_ninja.php' ?>

@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} .+ [NC]
+RewriteRule ^(.*)$ http://narutogame.com.br [R=301,L]

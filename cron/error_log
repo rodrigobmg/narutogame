@@ -1,0 +1,13 @@
+[26-May-2021 16:28:56 America/Sao_Paulo] PHP Warning:  Undefined array key 10 in /home/narutogame/public_html/cron/bijuu.php on line 106
+[17-Jun-2021 18:25:49 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: current(): Argument #1 ($array) must be of type array, null given in /home/narutogame/public_html/class/Recordset.php:209
+Stack trace:
+#0 /home/narutogame/public_html/class/Recordset.php(209): current(NULL)
+#1 /home/narutogame/public_html/cron/4x_queue.php(85): Recordset->row()
+#2 {main}
+  thrown in /home/narutogame/public_html/class/Recordset.php on line 209
+[17-Jun-2021 19:54:35 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: current(): Argument #1 ($array) must be of type array, null given in /home/narutogame/public_html/class/Recordset.php:209
+Stack trace:
+#0 /home/narutogame/public_html/class/Recordset.php(209): current(NULL)
+#1 /home/narutogame/public_html/cron/4x_queue.php(85): Recordset->row()
+#2 {main}
+  thrown in /home/narutogame/public_html/class/Recordset.php on line 209
